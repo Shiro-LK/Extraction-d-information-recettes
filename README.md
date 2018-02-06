@@ -1,6 +1,7 @@
 # Extraction-d-information-recettes
 Projet d'extraction d'information recette de cuisine
 
+Le fichier 
 Les Fichiers de prédictions se trouvent dans eval-nlu/bydataset et commence par "pred_" sous le format .xml
 Les Fichiers de dev/test se trouvent également dans eval-nlu/bydataset sous le format .xml
 
@@ -10,9 +11,8 @@ Le modèle d'entrainement provient du github https://github.com/guillaumegenthia
 
 Les fichiers utilisés pour entrainer, valider (dev) et tester les résultats sont respectivement dans : 
 - sequence_tagging_master/data/train avec les fichiers give_cat-ingredients-trn_train.txt, give_ingredient_tr.txt, recipe_tr20k.txt pour l'apprentissage par type de classe et tr_20k.txt pour l'apprentissage de l'ensemble des classes.
--sequence_tagging_master/data/dev avec les fichiers : give_ingredient_dev.txt, give_cat_dev.txt , recipe_dev.txt pour l'apprentissage par type de classe et all_data_dev.txt pour l'apprentissage de l'ensemble des classes.
-
--sequence_tagging_master/data/test avec les fichiers give_ingredient_test.txt, recipe_test.txt, give_cat_test.txt pour l'apprentissage par type de classe et all_data_test.txt pour l'apprentissage de l'ensemble des classes.
+- sequence_tagging_master/data/dev avec les fichiers : give_ingredient_dev.txt, give_cat_dev.txt , recipe_dev.txt pour l'apprentissage par type de classe et all_data_dev.txt pour l'apprentissage de l'ensemble des classes.
+- sequence_tagging_master/data/test avec les fichiers give_ingredient_test.txt, recipe_test.txt, give_cat_test.txt pour l'apprentissage par type de classe et all_data_test.txt pour l'apprentissage de l'ensemble des classes.
 
 ## configuration entrainement
 - sequence_tagging_master/data/create_dataset.py : pour entrainer les fichiers, les labels doivent etre en lettre majuscule or de base, nos labels sont en minuscules. 
