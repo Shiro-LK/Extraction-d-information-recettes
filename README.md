@@ -1,9 +1,9 @@
 # Extraction-d-information-recettes
 Projet d'extraction d'information recette de cuisine
 
-Le fichier 
-Les Fichiers de prédictions se trouvent dans eval-nlu/bydataset et commence par "pred_" sous le format .xml
-Les Fichiers de dev/test se trouvent également dans eval-nlu/bydataset sous le format .xml
+- Le fichier statistiques.ipynb concernant l'analyse statistiques des données
+- Les Fichiers de prédictions se trouvent dans eval-nlu/bydataset et commence par "pred_" sous le format .xml
+- Les Fichiers de dev/test se trouvent également dans eval-nlu/bydataset sous le format .xml
 
 # entrainement : dossier => sequence_tagging_master
 
