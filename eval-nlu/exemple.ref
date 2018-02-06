@@ -1,0 +1,8 @@
+je veux faire un <recipe> flan aux oeufs </recipe>
+comment on fait des <recipe> nems au poulet  </recipe>
+tu m'indiques comment on fait un <recipe> carpaccio de boeuf aux aubergines </recipe>
+je n'aime pas les <neg_cat-ingredient> épices </neg_cat-ingredient>
+je n'aime pas les <neg_cat-ingredient> champignons </neg_cat-ingredient>
+avec beaucoup de <cat-ingredient> légumes </cat-ingredient>
+pas de <neg_ingredient> graine de cèleri </neg_ingredient> , juste des <ingredient> biasca </ingredient>
+je n'aime pas la <neg_ingredient> grenade </neg_ingredient>

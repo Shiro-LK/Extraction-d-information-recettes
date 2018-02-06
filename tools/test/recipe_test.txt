@@ -1,0 +1,8897 @@
+je O
+voudrais O
+faire O
+un O
+riz B-RECIPE
+a I-RECIPE
+la I-RECIPE
+chair I-RECIPE
+a I-RECIPE
+saucisse I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+sauce I-RECIPE
+tomate I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+omelette B-RECIPE
+moutarde I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+ratatouille B-RECIPE
+espagnole I-RECIPE
+vegetarienne I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+canard B-RECIPE
+aux I-RECIPE
+olives I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+biscuit B-RECIPE
+lunettes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+filet B-RECIPE
+mignon I-RECIPE
+a I-RECIPE
+la I-RECIPE
+moutarde I-RECIPE
+et I-RECIPE
+cassonade I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+endives B-RECIPE
+au I-RECIPE
+jambon I-RECIPE
+cru I-RECIPE
+et I-RECIPE
+reblochon I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+gratin B-RECIPE
+de I-RECIPE
+penne I-RECIPE
+aux I-RECIPE
+petits I-RECIPE
+pois I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+cake B-RECIPE
+croustillant I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+fanouropita B-RECIPE
+gateau I-RECIPE
+grec I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+biscuit B-RECIPE
+a I-RECIPE
+l I-RECIPE
+amande I-RECIPE
+amere I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+buche B-RECIPE
+de I-RECIPE
+noel I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+gateau B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+blanc I-RECIPE
+et I-RECIPE
+noix I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+brochettes B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+au I-RECIPE
+piment I-RECIPE
+et I-RECIPE
+poivron I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+cassolettes B-RECIPE
+d I-RECIPE
+escargots I-RECIPE
+forestiers I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+gratin B-RECIPE
+de I-RECIPE
+fruits I-RECIPE
+de I-RECIPE
+mer I-RECIPE
+facon I-RECIPE
+ucpa I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+flan B-RECIPE
+au I-RECIPE
+micro I-RECIPE
+ondes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+veloute B-RECIPE
+de I-RECIPE
+tomate I-RECIPE
+rapide I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+roti B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+a I-RECIPE
+la I-RECIPE
+broche I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+magrets B-RECIPE
+de I-RECIPE
+canard I-RECIPE
+aux I-RECIPE
+coings I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+gaspacho B-RECIPE
+au I-RECIPE
+foie I-RECIPE
+gras I-RECIPE
+frais I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+fromage B-RECIPE
+blanc I-RECIPE
+aux I-RECIPE
+herbes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+pintade B-RECIPE
+au I-RECIPE
+calvados I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+champignon B-RECIPE
+coulemelle I-RECIPE
+panees I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+cookies B-RECIPE
+speculoos I-RECIPE
+et I-RECIPE
+pepites I-RECIPE
+de I-RECIPE
+chocolat I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+gratin B-RECIPE
+de I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+dominique I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+chantilly B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+blanc I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+gratin B-RECIPE
+de I-RECIPE
+panais I-RECIPE
+poireaux I-RECIPE
+carottes I-RECIPE
+et I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+aux I-RECIPE
+asperges I-RECIPE
+et I-RECIPE
+petits I-RECIPE
+pois I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+saucisse B-RECIPE
+briochee I-RECIPE
+de I-RECIPE
+mme I-RECIPE
+zach I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+de I-RECIPE
+mesclun I-RECIPE
+a I-RECIPE
+la I-RECIPE
+courge I-RECIPE
+confite I-RECIPE
+et I-RECIPE
+au I-RECIPE
+parmesan I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+salade B-RECIPE
+surprenante I-RECIPE
+california I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+boeuf B-RECIPE
+au I-RECIPE
+curry I-RECIPE
+jaune I-RECIPE
+thai I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+clafoutis B-RECIPE
+aux I-RECIPE
+abricots I-RECIPE
+de I-RECIPE
+ma I-RECIPE
+maman I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+tartines B-RECIPE
+normandes I-RECIPE
+gratinees I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+potage B-RECIPE
+de I-RECIPE
+flocons I-RECIPE
+d I-RECIPE
+avoine I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+terrine B-RECIPE
+de I-RECIPE
+courgette I-RECIPE
+et I-RECIPE
+sauce I-RECIPE
+au I-RECIPE
+yaourt I-RECIPE
+aux I-RECIPE
+herbes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+biscuits B-RECIPE
+aux I-RECIPE
+noix I-RECIPE
+et I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+petits B-RECIPE
+biscuits I-RECIPE
+coeur I-RECIPE
+de I-RECIPE
+cacao I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+framboichockine B-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+riz B-RECIPE
+aux I-RECIPE
+saucisses I-RECIPE
+
+
+je O
+voudrais O
+faire O
+pates B-RECIPE
+au I-RECIPE
+crabe I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+ratatouille B-RECIPE
+a I-RECIPE
+l I-RECIPE
+indienne I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+ragout B-RECIPE
+fondant I-RECIPE
+de I-RECIPE
+mouton I-RECIPE
+aux I-RECIPE
+amandes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+pescajoune B-RECIPE
+crepes I-RECIPE
+au I-RECIPE
+potimarron I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+gratin B-RECIPE
+poisson I-RECIPE
+chili I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+riz B-RECIPE
+magique I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+petits B-RECIPE
+barbares I-RECIPE
+tartines I-RECIPE
+au I-RECIPE
+chorizo I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+lapin B-RECIPE
+succulent I-RECIPE
+aux I-RECIPE
+pruneaux I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+courgettes B-RECIPE
+aux I-RECIPE
+petites I-RECIPE
+boulettes I-RECIPE
+de I-RECIPE
+porc I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+de I-RECIPE
+legumes I-RECIPE
+au I-RECIPE
+kiri I-RECIPE
+pour I-RECIPE
+les I-RECIPE
+enfants I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+compote B-RECIPE
+de I-RECIPE
+celia I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+lentilles B-RECIPE
+corail I-RECIPE
+a I-RECIPE
+l I-RECIPE
+indienne I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+veloute B-RECIPE
+de I-RECIPE
+tomate I-RECIPE
+et I-RECIPE
+roquette I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+rustique I-RECIPE
+aux I-RECIPE
+chataignes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+potage B-RECIPE
+aux I-RECIPE
+fanes I-RECIPE
+de I-RECIPE
+navets I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+moi B-RECIPE
+, I-RECIPE
+comme I-RECIPE
+dans I-RECIPE
+beaucoup I-RECIPE
+de I-RECIPE
+familles I-RECIPE
+toulousaines I-RECIPE
+, I-RECIPE
+on I-RECIPE
+ne I-RECIPE
+considère I-RECIPE
+pas I-RECIPE
+ceci I-RECIPE
+comme I-RECIPE
+une I-RECIPE
+recette: I-RECIPE
+c' I-RECIPE
+est I-RECIPE
+juste I-RECIPE
+la I-RECIPE
+manière I-RECIPE
+' I-RECIPE
+normale' I-RECIPE
+de I-RECIPE
+préparer I-RECIPE
+le I-RECIPE
+poulet I-RECIPE
+. I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+baba B-RECIPE
+aux I-RECIPE
+pamplemousses I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+cotes B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+a I-RECIPE
+la I-RECIPE
+gelee I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+cheesecake B-RECIPE
+mixte I-RECIPE
+a I-RECIPE
+la I-RECIPE
+ricotta I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+l' O
+u B-RECIPE
+stufatu I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+salade B-RECIPE
+exotique I-RECIPE
+salsa I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+des O
+nouilles B-RECIPE
+chinoises I-RECIPE
+sautees I-RECIPE
+a I-RECIPE
+la I-RECIPE
+saucisse I-RECIPE
+de I-RECIPE
+citronnelle I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+gratin B-RECIPE
+de I-RECIPE
+thon I-RECIPE
+aux I-RECIPE
+oeufs I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+fondant B-RECIPE
+caramel I-RECIPE
+et I-RECIPE
+chocolat I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+moules B-RECIPE
+gratinees I-RECIPE
+aux I-RECIPE
+epinards I-RECIPE
+et I-RECIPE
+au I-RECIPE
+roquefort I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+gnocchis B-RECIPE
+de I-RECIPE
+somlo I-RECIPE
+somloi I-RECIPE
+galuska I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+travers B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+pimente I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+gateau B-RECIPE
+rapide I-RECIPE
+au I-RECIPE
+fromage I-RECIPE
+blanc I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+sauce B-RECIPE
+pour I-RECIPE
+salade I-RECIPE
+verte I-RECIPE
+de I-RECIPE
+samantha I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+riz B-RECIPE
+gratine I-RECIPE
+aux I-RECIPE
+fruits I-RECIPE
+de I-RECIPE
+mer I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+mousse B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+blanc I-RECIPE
+a I-RECIPE
+la I-RECIPE
+noix I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+cassoulet B-RECIPE
+espagnol I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+courgettes B-RECIPE
+au I-RECIPE
+lard I-RECIPE
+fume I-RECIPE
+a I-RECIPE
+la I-RECIPE
+beudony I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+gateau B-RECIPE
+noisettine I-RECIPE
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+aux I-RECIPE
+carambars I-RECIPE
+tout I-RECIPE
+simple I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+veloute B-RECIPE
+de I-RECIPE
+panais I-RECIPE
+et I-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+feijoada B-RECIPE
+completa I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+wok B-RECIPE
+de I-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+au I-RECIPE
+curry I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+petites B-RECIPE
+pizzas I-RECIPE
+de I-RECIPE
+grosse I-RECIPE
+courgette I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+cookies B-RECIPE
+facon I-RECIPE
+laura I-RECIPE
+todd I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+sauce B-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+de I-RECIPE
+roquefort I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+pain B-RECIPE
+sans I-RECIPE
+petrissage I-RECIPE
+aux I-RECIPE
+graines I-RECIPE
+de I-RECIPE
+tournesol I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+muffins B-RECIPE
+coco I-RECIPE
+cannelle I-RECIPE
+coulis I-RECIPE
+chocolat I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+dattes B-RECIPE
+au I-RECIPE
+miel I-RECIPE
+
+
+je O
+voudrais O
+faire O
+les B-RECIPE
+lamingtons I-RECIPE
+australiens I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+poulet B-RECIPE
+aux I-RECIPE
+champignons I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+biere I-RECIPE
+brune I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+semoule B-RECIPE
+au I-RECIPE
+lait I-RECIPE
+facon I-RECIPE
+4 I-RECIPE
+4 I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+mousse B-RECIPE
+de I-RECIPE
+saumon I-RECIPE
+fume I-RECIPE
+au I-RECIPE
+caviar I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+nid B-RECIPE
+de I-RECIPE
+carottes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+gateau B-RECIPE
+goldorak I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+financier B-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+sandwich B-RECIPE
+british I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+tarte B-RECIPE
+aux I-RECIPE
+pommes I-RECIPE
+sans I-RECIPE
+farine I-RECIPE
+de I-RECIPE
+ble I-RECIPE
+et I-RECIPE
+sans I-RECIPE
+oeufs I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+shrubb B-RECIPE
+des I-RECIPE
+antilles I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+tartine B-RECIPE
+jambon I-RECIPE
+tomates I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+saute B-RECIPE
+de I-RECIPE
+cabri I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+buche B-RECIPE
+aux I-RECIPE
+marrons I-RECIPE
+et I-RECIPE
+chocolat I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+cafe I-RECIPE
+noisette I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+des O
+courgettes B-RECIPE
+sautees I-RECIPE
+a I-RECIPE
+la I-RECIPE
+moutarde I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+poulet B-RECIPE
+curry I-RECIPE
+et I-RECIPE
+echalotes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+brochettes B-RECIPE
+aperitives I-RECIPE
+edam I-RECIPE
+basilic I-RECIPE
+abricot I-RECIPE
+sec I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+verrine B-RECIPE
+saumon I-RECIPE
+chevre I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+tartilla B-RECIPE
+salee I-RECIPE
+aux I-RECIPE
+epices I-RECIPE
+et I-RECIPE
+au I-RECIPE
+fromage I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+le B-RECIPE
+vrai I-RECIPE
+riz I-RECIPE
+creole I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+punch B-RECIPE
+fruits I-RECIPE
+exotiques I-RECIPE
+banane I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+coquilles B-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+saute B-RECIPE
+de I-RECIPE
+dinde I-RECIPE
+au I-RECIPE
+paprika I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+soupe B-RECIPE
+simplissime I-RECIPE
+de I-RECIPE
+cresson I-RECIPE
+et I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+toasts B-RECIPE
+aux I-RECIPE
+pruneaux I-RECIPE
+et I-RECIPE
+a I-RECIPE
+l I-RECIPE
+etorki I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+veloute B-RECIPE
+champetre I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+gnocchis B-RECIPE
+aux I-RECIPE
+lardons I-RECIPE
+et I-RECIPE
+au I-RECIPE
+roquefort I-RECIPE
+
+
+je O
+voudrais O
+faire O
+fajitas B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+des O
+paupiettes B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+normande I-RECIPE
+au I-RECIPE
+camembert I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+filets B-RECIPE
+de I-RECIPE
+panga I-RECIPE
+a I-RECIPE
+la I-RECIPE
+provencale I-RECIPE
+
+
+je O
+voudrais O
+faire O
+ma B-RECIPE
+soupe I-RECIPE
+verte I-RECIPE
+portugaise I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+carottes B-RECIPE
+au I-RECIPE
+cumin I-RECIPE
+express I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+quiche B-RECIPE
+au I-RECIPE
+munster I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+cancoillote B-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+boeuf B-RECIPE
+a I-RECIPE
+la I-RECIPE
+beaucairoise I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+salade B-RECIPE
+d I-RECIPE
+ete I-RECIPE
+fraiche I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+vermicelles B-RECIPE
+sautees I-RECIPE
+au I-RECIPE
+crabe I-RECIPE
+et I-RECIPE
+au I-RECIPE
+poulet I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+cookies B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+et I-RECIPE
+pistaches I-RECIPE
+hachees I-RECIPE
+facon I-RECIPE
+popo I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+saute B-RECIPE
+de I-RECIPE
+veau I-RECIPE
+au I-RECIPE
+paprika I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+brochettes B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+marinees I-RECIPE
+au I-RECIPE
+siave I-RECIPE
+et I-RECIPE
+petits I-RECIPE
+legumes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+pruneaux B-RECIPE
+au I-RECIPE
+magret I-RECIPE
+seche I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+silure B-RECIPE
+a I-RECIPE
+la I-RECIPE
+provencale I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+giraumon B-RECIPE
+farci I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+tourte B-RECIPE
+tricolore I-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+laque I-RECIPE
+epinards I-RECIPE
+et I-RECIPE
+abricots I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+feuilletes B-RECIPE
+de I-RECIPE
+poisson I-RECIPE
+sauce I-RECIPE
+curry I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+tarte B-RECIPE
+courgettes I-RECIPE
+bananes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+sauce B-RECIPE
+tomate I-RECIPE
+legere I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+clafoutis B-RECIPE
+aux I-RECIPE
+cranberries I-RECIPE
+fraiches I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+diots B-RECIPE
+de I-RECIPE
+savoie I-RECIPE
+et I-RECIPE
+son I-RECIPE
+gratin I-RECIPE
+de I-RECIPE
+crozet I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+de I-RECIPE
+coquillettes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+la B-RECIPE
+bouse I-RECIPE
+de I-RECIPE
+vache I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+soupe B-RECIPE
+fraiche I-RECIPE
+de I-RECIPE
+concombre I-RECIPE
+et I-RECIPE
+noix I-RECIPE
+concassees I-RECIPE
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+chocolat I-RECIPE
+poire I-RECIPE
+et I-RECIPE
+amandes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+pudding B-RECIPE
+au I-RECIPE
+vin I-RECIPE
+doux I-RECIPE
+et I-RECIPE
+raisins I-RECIPE
+secs I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+boulettes B-RECIPE
+sauce I-RECIPE
+tomate I-RECIPE
+belgique I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+salades B-RECIPE
+de I-RECIPE
+farfalles I-RECIPE
+aux I-RECIPE
+asperges I-RECIPE
+vertes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+poulet B-RECIPE
+au I-RECIPE
+citron I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+sorbet B-RECIPE
+au I-RECIPE
+citron I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+sorbet B-RECIPE
+orange I-RECIPE
+banane I-RECIPE
+a I-RECIPE
+la I-RECIPE
+cannelle I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+pate B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+au I-RECIPE
+genievre I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+crevettes B-RECIPE
+aux I-RECIPE
+legumes I-RECIPE
+a I-RECIPE
+la I-RECIPE
+sauce I-RECIPE
+aigre I-RECIPE
+douce I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+gateau B-RECIPE
+cannelle I-RECIPE
+zimmetkuche I-RECIPE
+de I-RECIPE
+moselle I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+legumes B-RECIPE
+farcis I-RECIPE
+a I-RECIPE
+l I-RECIPE
+orientale I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+shortcake B-RECIPE
+aux I-RECIPE
+fraises I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+gratin B-RECIPE
+au I-RECIPE
+poisson I-RECIPE
+restes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+au I-RECIPE
+yaourt I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+des O
+courgettes B-RECIPE
+farcies I-RECIPE
+a I-RECIPE
+la I-RECIPE
+bechamel I-RECIPE
+et I-RECIPE
+au I-RECIPE
+fromage I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+quiche B-RECIPE
+merguez I-RECIPE
+cumin I-RECIPE
+et I-RECIPE
+courgettes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+nonettes B-RECIPE
+traditionnelles I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+noix B-RECIPE
+de I-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+au I-RECIPE
+gingembre I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+pain B-RECIPE
+de I-RECIPE
+poisson I-RECIPE
+aux I-RECIPE
+courgettes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+bouchees B-RECIPE
+au I-RECIPE
+camembert I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+de I-RECIPE
+carottes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+des O
+brioches B-RECIPE
+perdue I-RECIPE
+aux I-RECIPE
+pepites I-RECIPE
+de I-RECIPE
+chocolat I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+la B-RECIPE
+cacasse I-RECIPE
+ardennaise I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+glace B-RECIPE
+cafe I-RECIPE
+liegeois I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+cari B-RECIPE
+de I-RECIPE
+thon I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+homard B-RECIPE
+au I-RECIPE
+four I-RECIPE
+et I-RECIPE
+son I-RECIPE
+infusion I-RECIPE
+de I-RECIPE
+beurre I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ail I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+fagots B-RECIPE
+d I-RECIPE
+asperges I-RECIPE
+au I-RECIPE
+mascarpone I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+pommes B-RECIPE
+dorees I-RECIPE
+au I-RECIPE
+miel I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+cabri B-RECIPE
+en I-RECIPE
+ragout I-RECIPE
+recette I-RECIPE
+corse I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+sauce B-RECIPE
+de I-RECIPE
+sardines I-RECIPE
+et I-RECIPE
+d I-RECIPE
+aubergine I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+gateau B-RECIPE
+aux I-RECIPE
+noix I-RECIPE
+et I-RECIPE
+au I-RECIPE
+cafe I-RECIPE
+de I-RECIPE
+mon I-RECIPE
+enfance I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+madeleines B-RECIPE
+aux I-RECIPE
+carambars I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+nougat B-RECIPE
+glace I-RECIPE
+au I-RECIPE
+pralin I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+brick B-RECIPE
+de I-RECIPE
+thon I-RECIPE
+light I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+aux I-RECIPE
+saveurs I-RECIPE
+sucrees I-RECIPE
+salees I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+boulettes B-RECIPE
+croustillantes I-RECIPE
+au I-RECIPE
+thon I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+anchois I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+beignets B-RECIPE
+de I-RECIPE
+banane I-RECIPE
+mieles I-RECIPE
+aux I-RECIPE
+pistaches I-RECIPE
+
+
+je O
+voudrais O
+faire O
+veloute B-RECIPE
+glace I-RECIPE
+petit I-RECIPE
+pois I-RECIPE
+menthe I-RECIPE
+et I-RECIPE
+mouillettes I-RECIPE
+au I-RECIPE
+chevre I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+cookies B-RECIPE
+choco I-RECIPE
+croustillants I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+noix B-RECIPE
+de I-RECIPE
+st I-RECIPE
+jacques I-RECIPE
+au I-RECIPE
+curry I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+melitzanosalata B-RECIPE
+comme I-RECIPE
+chez I-RECIPE
+spiros I-RECIPE
+puree I-RECIPE
+d I-RECIPE
+aubergine I-RECIPE
+au I-RECIPE
+yaourt I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+soupe B-RECIPE
+de I-RECIPE
+celeri I-RECIPE
+rave I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+quesadillas B-RECIPE
+de I-RECIPE
+chorizo I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+medaillons B-RECIPE
+de I-RECIPE
+veau I-RECIPE
+au I-RECIPE
+sauternes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+flan B-RECIPE
+au I-RECIPE
+crabe I-RECIPE
+sauce I-RECIPE
+ciboulette I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+filet B-RECIPE
+mignon I-RECIPE
+en I-RECIPE
+goulash I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+pastis B-RECIPE
+occitan I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+courgette B-RECIPE
+farcie I-RECIPE
+champignon I-RECIPE
+de I-RECIPE
+paris I-RECIPE
+ricotta I-RECIPE
+jambon I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+tuiles B-RECIPE
+aux I-RECIPE
+amandes I-RECIPE
+nappees I-RECIPE
+de I-RECIPE
+chocolat I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+verrine B-RECIPE
+de I-RECIPE
+betterave I-RECIPE
+et I-RECIPE
+espuma I-RECIPE
+d I-RECIPE
+asperge I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+pains B-RECIPE
+grilles I-RECIPE
+a I-RECIPE
+l I-RECIPE
+andalouse I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+filet B-RECIPE
+mignon I-RECIPE
+aux I-RECIPE
+figues I-RECIPE
+fraiches I-RECIPE
+et I-RECIPE
+poivre I-RECIPE
+rose I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+tarte B-RECIPE
+aux I-RECIPE
+fraises I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+tarte B-RECIPE
+au I-RECIPE
+reblochon I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+roule B-RECIPE
+de I-RECIPE
+saumon I-RECIPE
+fume I-RECIPE
+filet I-RECIPE
+de I-RECIPE
+sole I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+sables B-RECIPE
+raisins I-RECIPE
+et I-RECIPE
+rhum I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+de I-RECIPE
+betteraves I-RECIPE
+a I-RECIPE
+l I-RECIPE
+orientale I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+bonbons B-RECIPE
+piment I-RECIPE
+de I-RECIPE
+la I-RECIPE
+reunion I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+cake B-RECIPE
+au I-RECIPE
+roquefort I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+noix I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+jus B-RECIPE
+banane I-RECIPE
+avocat I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+cake B-RECIPE
+aux I-RECIPE
+pralines I-RECIPE
+roses I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+concombre I-RECIPE
+saumon I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+muffins B-RECIPE
+muesli I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+gratin B-RECIPE
+de I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+sanpat I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+marine I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+pizzas B-RECIPE
+aux I-RECIPE
+tomates I-RECIPE
+cerise I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+kebab B-RECIPE
+sur I-RECIPE
+assiette I-RECIPE
+a I-RECIPE
+ma I-RECIPE
+facon I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+charlotte B-RECIPE
+aux I-RECIPE
+fraises I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+framboises I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+petits B-RECIPE
+choux I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+patissiere I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+pates B-RECIPE
+sauce I-RECIPE
+bolognaise I-RECIPE
+ragu I-RECIPE
+bolognese I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+gratin B-RECIPE
+jurassien I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+gratin B-RECIPE
+de I-RECIPE
+riz I-RECIPE
+courgettes I-RECIPE
+et I-RECIPE
+saucisse I-RECIPE
+seche I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+sanglier B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+aubergines B-RECIPE
+farcies I-RECIPE
+au I-RECIPE
+roquefort I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+sauce B-RECIPE
+au I-RECIPE
+beurre I-RECIPE
+pour I-RECIPE
+poisson I-RECIPE
+blanc I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+risotto B-RECIPE
+a I-RECIPE
+la I-RECIPE
+courge I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+lardons I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+petites B-RECIPE
+cremes I-RECIPE
+au I-RECIPE
+lait I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+parfumees I-RECIPE
+au I-RECIPE
+the I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+fraisier B-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+sucrine B-RECIPE
+sucree I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+riz B-RECIPE
+aux I-RECIPE
+carottes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+fourre I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ananas I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+quiche B-RECIPE
+a I-RECIPE
+la I-RECIPE
+carotte I-RECIPE
+facon I-RECIPE
+provencale I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+marbre B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+noix I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+petits B-RECIPE
+sables I-RECIPE
+petits I-RECIPE
+fours I-RECIPE
+de I-RECIPE
+noel I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+ramequins B-RECIPE
+de I-RECIPE
+pudding I-RECIPE
+aux I-RECIPE
+myrtilles I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+aux I-RECIPE
+celeri I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+courgettes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+glace B-RECIPE
+au I-RECIPE
+caramel I-RECIPE
+au I-RECIPE
+beurre I-RECIPE
+sale I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+crumble B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+aux I-RECIPE
+pommes I-RECIPE
+et I-RECIPE
+lait I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+salade B-RECIPE
+de I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+au I-RECIPE
+curry I-RECIPE
+et I-RECIPE
+echalotes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+kebab B-RECIPE
+algerois I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+la B-RECIPE
+bolee I-RECIPE
+joyeuse I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+veloute B-RECIPE
+de I-RECIPE
+chataignes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+cake B-RECIPE
+de I-RECIPE
+tante I-RECIPE
+irmgard I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+chou B-RECIPE
+fleur I-RECIPE
+gratine I-RECIPE
+au I-RECIPE
+jambon I-RECIPE
+
+
+je O
+voudrais O
+faire O
+l B-RECIPE
+omelette I-RECIPE
+croquante I-RECIPE
+d I-RECIPE
+helene I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+champignons B-RECIPE
+de I-RECIPE
+paris I-RECIPE
+au I-RECIPE
+vinaigre I-RECIPE
+balsamique I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+wok B-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+et I-RECIPE
+carottes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+tomates B-RECIPE
+farcies I-RECIPE
+au I-RECIPE
+pot I-RECIPE
+au I-RECIPE
+feu I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+choux B-RECIPE
+de I-RECIPE
+bruxelles I-RECIPE
+panes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+buche B-RECIPE
+aux I-RECIPE
+petits I-RECIPE
+beurre I-RECIPE
+et I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+polpette B-RECIPE
+di I-RECIPE
+nardo I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+pate B-RECIPE
+de I-RECIPE
+canette I-RECIPE
+au I-RECIPE
+foie I-RECIPE
+gras I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+nems B-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+gateau B-RECIPE
+aux I-RECIPE
+pommes I-RECIPE
+et I-RECIPE
+au I-RECIPE
+yaourt I-RECIPE
+
+
+je O
+voudrais O
+faire O
+bouchees B-RECIPE
+a I-RECIPE
+la I-RECIPE
+reine I-RECIPE
+restes I-RECIPE
+de I-RECIPE
+volaille I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+ecrasee B-RECIPE
+d I-RECIPE
+ail I-RECIPE
+a I-RECIPE
+l I-RECIPE
+huile I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+cailles B-RECIPE
+aux I-RECIPE
+petits I-RECIPE
+oignons I-RECIPE
+et I-RECIPE
+champignons I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+omelette B-RECIPE
+tomate I-RECIPE
+lardon I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+gratin B-RECIPE
+pates I-RECIPE
+chorizo I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+legumes B-RECIPE
+farcies I-RECIPE
+a I-RECIPE
+la I-RECIPE
+sauce I-RECIPE
+provencale I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+oeufs B-RECIPE
+pochetronnes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+croustade B-RECIPE
+aux I-RECIPE
+pommes I-RECIPE
+maison I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+taboule B-RECIPE
+italien I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+paupiettes B-RECIPE
+en I-RECIPE
+cocotte I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+houmous B-RECIPE
+au I-RECIPE
+persil I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+cuissot B-RECIPE
+de I-RECIPE
+marcassin I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ardechoise I-RECIPE
+aux I-RECIPE
+marrons I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+blanquette B-RECIPE
+de I-RECIPE
+veau I-RECIPE
+a I-RECIPE
+la I-RECIPE
+tomate I-RECIPE
+et I-RECIPE
+courgettes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+tarte B-RECIPE
+provencale I-RECIPE
+au I-RECIPE
+potimarron I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+saute B-RECIPE
+de I-RECIPE
+cabri I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+cailles B-RECIPE
+sur I-RECIPE
+canapes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+saumon B-RECIPE
+et I-RECIPE
+son I-RECIPE
+gratin I-RECIPE
+champignons I-RECIPE
+asperges I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+risotto B-RECIPE
+aux I-RECIPE
+feves I-RECIPE
+et I-RECIPE
+petits I-RECIPE
+pois I-RECIPE
+
+
+je O
+voudrais O
+faire O
+veloute B-RECIPE
+de I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+rhodienne B-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+gateau B-RECIPE
+saint I-RECIPE
+emilion I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+tarte B-RECIPE
+banane I-RECIPE
+chocolat I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+des O
+petits B-RECIPE
+sables I-RECIPE
+faciles I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+rouget B-RECIPE
+vert I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+grand I-RECIPE
+bleu I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+crumble B-RECIPE
+au I-RECIPE
+citron I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+pain B-RECIPE
+frotte I-RECIPE
+a I-RECIPE
+la I-RECIPE
+tomate I-RECIPE
+et I-RECIPE
+serrano I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+chevreuil B-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+d I-RECIPE
+ail I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+cotes B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+a I-RECIPE
+l I-RECIPE
+irlandaise I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+poulet B-RECIPE
+roti I-RECIPE
+en I-RECIPE
+cocotte I-RECIPE
+au I-RECIPE
+four I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+folle I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+poelee B-RECIPE
+de I-RECIPE
+crosnes I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+mousse B-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+sauce B-RECIPE
+pour I-RECIPE
+volaille I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+des O
+courgettes B-RECIPE
+gratinees I-RECIPE
+au I-RECIPE
+thon I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+sorbet B-RECIPE
+facile I-RECIPE
+aux I-RECIPE
+peches I-RECIPE
+ou I-RECIPE
+aux I-RECIPE
+poires I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+feuillete B-RECIPE
+rapide I-RECIPE
+jambon I-RECIPE
+fromage I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+roti B-RECIPE
+de I-RECIPE
+veau I-RECIPE
+au I-RECIPE
+vinaigre I-RECIPE
+de I-RECIPE
+xeres I-RECIPE
+et I-RECIPE
+au I-RECIPE
+miel I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+brochettes B-RECIPE
+de I-RECIPE
+gambas I-RECIPE
+marinees I-RECIPE
+et I-RECIPE
+riz I-RECIPE
+a I-RECIPE
+la I-RECIPE
+mangue I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+sauce B-RECIPE
+bolognaise I-RECIPE
+epicee I-RECIPE
+a I-RECIPE
+ma I-RECIPE
+facon I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+filet B-RECIPE
+mignon I-RECIPE
+a I-RECIPE
+la I-RECIPE
+lucernoise I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+punch B-RECIPE
+fruite I-RECIPE
+a I-RECIPE
+la I-RECIPE
+grenadine I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+tourte B-RECIPE
+filo I-RECIPE
+epinards I-RECIPE
+ricotta I-RECIPE
+
+
+je O
+voudrais O
+faire O
+pates B-RECIPE
+aux I-RECIPE
+tomates I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+saucisse I-RECIPE
+du I-RECIPE
+pays I-RECIPE
+cathare I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+de I-RECIPE
+mache I-RECIPE
+parfumee I-RECIPE
+de I-RECIPE
+tatie I-RECIPE
+lolo I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+orecchiette B-RECIPE
+ai I-RECIPE
+broccoli I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+galette B-RECIPE
+de I-RECIPE
+mais I-RECIPE
+et I-RECIPE
+sauce I-RECIPE
+tomate I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+spaghetti B-RECIPE
+sauce I-RECIPE
+querido I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+toast B-RECIPE
+au I-RECIPE
+chester I-RECIPE
+fondu I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+pizza B-RECIPE
+coppa I-RECIPE
+roquette I-RECIPE
+et I-RECIPE
+chaussee I-RECIPE
+aux I-RECIPE
+moines I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+minis B-RECIPE
+bavarois I-RECIPE
+a I-RECIPE
+la I-RECIPE
+framboise I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+pommes B-RECIPE
+au I-RECIPE
+four I-RECIPE
+a I-RECIPE
+la I-RECIPE
+normande I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+un O
+travers B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+caramelises I-RECIPE
+au I-RECIPE
+four I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+cheesecake B-RECIPE
+au I-RECIPE
+micro I-RECIPE
+ondes I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+gateau B-RECIPE
+abricots I-RECIPE
+citron I-RECIPE
+et I-RECIPE
+glace I-RECIPE
+meringuee I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+de I-RECIPE
+fraises I-RECIPE
+et I-RECIPE
+kiwis I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+poelee B-RECIPE
+de I-RECIPE
+rougets I-RECIPE
+a I-RECIPE
+la I-RECIPE
+clementine I-RECIPE
+
+
+je O
+voudrais O
+faire O
+feuilletes B-RECIPE
+moelleux I-RECIPE
+au I-RECIPE
+foie I-RECIPE
+gras I-RECIPE
+et I-RECIPE
+girolles I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+cotes B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+a I-RECIPE
+la I-RECIPE
+flamande I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+paella B-RECIPE
+campagnarde I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+curry B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+au I-RECIPE
+citron I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+filet B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+aux I-RECIPE
+oranges I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+marcassin B-RECIPE
+au I-RECIPE
+vin I-RECIPE
+rouge I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+myrtilles I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+clafoutis B-RECIPE
+tomates I-RECIPE
+feta I-RECIPE
+olives I-RECIPE
+et I-RECIPE
+basilic I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+aux I-RECIPE
+4 I-RECIPE
+p I-RECIPE
+potiron I-RECIPE
+poivron I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+piment I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+filet B-RECIPE
+de I-RECIPE
+colin I-RECIPE
+aux I-RECIPE
+tomates I-RECIPE
+sechees I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+bifteki B-RECIPE
+de I-RECIPE
+boeuf I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+cocktail B-RECIPE
+pomme I-RECIPE
+abricot I-RECIPE
+sans I-RECIPE
+alcool I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+puree B-RECIPE
+de I-RECIPE
+pomme I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+au I-RECIPE
+lait I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+et I-RECIPE
+au I-RECIPE
+cafe I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+creme B-RECIPE
+renversee I-RECIPE
+flan I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ananas I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+sables B-RECIPE
+amandes I-RECIPE
+miel I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+canard B-RECIPE
+roti I-RECIPE
+au I-RECIPE
+four I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+riz B-RECIPE
+cantonais I-RECIPE
+rapide I-RECIPE
+et I-RECIPE
+facile I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+tourte B-RECIPE
+au I-RECIPE
+thon I-RECIPE
+ou I-RECIPE
+saumon I-RECIPE
+facile I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+riz B-RECIPE
+pilaf I-RECIPE
+au I-RECIPE
+curry I-RECIPE
+et I-RECIPE
+raisins I-RECIPE
+secs I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+tourte B-RECIPE
+au I-RECIPE
+confit I-RECIPE
+de I-RECIPE
+canard I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+vinaigrette B-RECIPE
+au I-RECIPE
+miel I-RECIPE
+et I-RECIPE
+au I-RECIPE
+balsamique I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+tarte B-RECIPE
+au I-RECIPE
+nutella I-RECIPE
+fondante I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+coquilles B-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+cressonniere I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+une O
+salade B-RECIPE
+de I-RECIPE
+poissons I-RECIPE
+froids I-RECIPE
+aux I-RECIPE
+baies I-RECIPE
+roses I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+thon B-RECIPE
+a I-RECIPE
+la I-RECIPE
+tomaise I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+de I-RECIPE
+mache I-RECIPE
+et I-RECIPE
+saumon I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+poulet B-RECIPE
+cocotte I-RECIPE
+et I-RECIPE
+ses I-RECIPE
+petits I-RECIPE
+legumes I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+asiatique I-RECIPE
+au I-RECIPE
+fromage I-RECIPE
+frais I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+foie B-RECIPE
+gras I-RECIPE
+des I-RECIPE
+iles I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+carre B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+au I-RECIPE
+chutney I-RECIPE
+de I-RECIPE
+peches I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+preparation B-RECIPE
+pour I-RECIPE
+muffins I-RECIPE
+legers I-RECIPE
+et I-RECIPE
+fondants I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+magrets B-RECIPE
+de I-RECIPE
+canard I-RECIPE
+au I-RECIPE
+foie I-RECIPE
+gras I-RECIPE
+en I-RECIPE
+chemise I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+carry B-RECIPE
+de I-RECIPE
+moules I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la B-RECIPE
+quiche I-RECIPE
+oignons I-RECIPE
+comte I-RECIPE
+dietetique I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+citrons B-RECIPE
+confits I-RECIPE
+au I-RECIPE
+sel I-RECIPE
+et I-RECIPE
+a I-RECIPE
+l I-RECIPE
+huile I-RECIPE
+d I-RECIPE
+olive I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+paniers B-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+tomates I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+le O
+spaghetti B-RECIPE
+a I-RECIPE
+l I-RECIPE
+ail I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+courgettes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+cake B-RECIPE
+froufrou I-RECIPE
+a I-RECIPE
+la I-RECIPE
+pomme I-RECIPE
+amandes I-RECIPE
+et I-RECIPE
+noix I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+saute B-RECIPE
+de I-RECIPE
+dinde I-RECIPE
+au I-RECIPE
+curry I-RECIPE
+
+
+je O
+voudrais O
+faire O
+des O
+fraises B-RECIPE
+a I-RECIPE
+l I-RECIPE
+anglaise I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+bar B-RECIPE
+au I-RECIPE
+fenouil I-RECIPE
+et I-RECIPE
+asperges I-RECIPE
+sauce I-RECIPE
+pamplemousse I-RECIPE
+rose I-RECIPE
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+pour I-RECIPE
+les I-RECIPE
+anti I-RECIPE
+gateaux I-RECIPE
+aux I-RECIPE
+mures I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+glace B-RECIPE
+aux I-RECIPE
+petits I-RECIPE
+suisses I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+banane I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+africaine I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+puree B-RECIPE
+de I-RECIPE
+legumes I-RECIPE
+verts I-RECIPE
+et I-RECIPE
+saumon I-RECIPE
+pour I-RECIPE
+bebes I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+truite B-RECIPE
+au I-RECIPE
+beurre I-RECIPE
+d I-RECIPE
+escargot I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+brochettes B-RECIPE
+express I-RECIPE
+poulet I-RECIPE
+satay I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+porc B-RECIPE
+au I-RECIPE
+caramel I-RECIPE
+facon I-RECIPE
+cecile I-RECIPE
+
+
+je O
+voudrais O
+faire O
+un O
+mayonnaise B-RECIPE
+au I-RECIPE
+yaourt I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+voudrais O
+faire O
+clafouti B-RECIPE
+de I-RECIPE
+tomates I-RECIPE
+et I-RECIPE
+de I-RECIPE
+mozzarela I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+de I-RECIPE
+betterave I-RECIPE
+a I-RECIPE
+la I-RECIPE
+coriandre I-RECIPE
+fraiche I-RECIPE
+
+
+dis-moi O
+comment O
+faire O
+salade B-RECIPE
+frisee I-RECIPE
+a I-RECIPE
+l I-RECIPE
+anchoiade I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+quiche B-RECIPE
+lardons I-RECIPE
+courgettes I-RECIPE
+et I-RECIPE
+tomates I-RECIPE
+sechees I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+morteau B-RECIPE
+pomme I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+et I-RECIPE
+cancoillotte I-RECIPE
+
+
+je O
+voudrais O
+faire O
+gateau B-RECIPE
+marbre I-RECIPE
+simple I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+escalopes B-RECIPE
+de I-RECIPE
+veau I-RECIPE
+a I-RECIPE
+la I-RECIPE
+portugaise I-RECIPE
+et I-RECIPE
+poireaux I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+strasbourgeoise I-RECIPE
+toute I-RECIPE
+simple I-RECIPE
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+thai I-RECIPE
+citronnelle I-RECIPE
+crevettes I-RECIPE
+
+
+je O
+voudrais O
+faire O
+une O
+mousseline B-RECIPE
+de I-RECIPE
+saumon I-RECIPE
+fume I-RECIPE
+, O
+tu O
+m'indiques O
+comment O
+? O
+
+
+je O
+ne O
+me O
+souviens O
+plus O
+comment O
+on O
+fait O
+les O
+florentins B-RECIPE
+energie I-RECIPE
+
+
+les O
+verrines B-RECIPE
+au I-RECIPE
+caramel I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+cake B-RECIPE
+miel I-RECIPE
+orange I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la B-RECIPE
+tapenade I-RECIPE
+guido I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+des O
+petites B-RECIPE
+bouchees I-RECIPE
+tomates I-RECIPE
+mozzarella I-RECIPE
+lardons I-RECIPE
+? O
+
+
+comment O
+faire O
+toats B-RECIPE
+sucres I-RECIPE
+au I-RECIPE
+camembert I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+fromage B-RECIPE
+frais I-RECIPE
+aubergines I-RECIPE
+et I-RECIPE
+poivrons I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+raie B-RECIPE
+grand I-RECIPE
+mere I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+le O
+tartare B-RECIPE
+de I-RECIPE
+boeuf I-RECIPE
+aux I-RECIPE
+parfums I-RECIPE
+thai I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+des O
+moules B-RECIPE
+en I-RECIPE
+sauce I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+et I-RECIPE
+au I-RECIPE
+curry I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+du O
+lapin B-RECIPE
+a I-RECIPE
+la I-RECIPE
+moutarde I-RECIPE
+recette I-RECIPE
+allegee I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+pate B-RECIPE
+de I-RECIPE
+pigeon I-RECIPE
+de I-RECIPE
+ti I-RECIPE
+loup I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+de O
+la O
+paella B-RECIPE
+valenciana I-RECIPE
+sans I-RECIPE
+fruits I-RECIPE
+de I-RECIPE
+mer I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+du O
+tarte B-RECIPE
+au I-RECIPE
+riz I-RECIPE
+facile I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+des O
+baguettes B-RECIPE
+viennoises I-RECIPE
+aux I-RECIPE
+pepites I-RECIPE
+de I-RECIPE
+chocolat I-RECIPE
+
+
+comment O
+on O
+fait O
+le O
+tarte B-RECIPE
+poivron I-RECIPE
+chevre I-RECIPE
+de I-RECIPE
+seveva I-RECIPE
+? O
+
+
+comment O
+faire O
+les O
+cotes B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+au I-RECIPE
+gruyere I-RECIPE
+
+
+comment O
+on O
+fait O
+le O
+pain B-RECIPE
+d I-RECIPE
+epices I-RECIPE
+fabuleux I-RECIPE
+aux I-RECIPE
+ecorces I-RECIPE
+d I-RECIPE
+orange I-RECIPE
+confite I-RECIPE
+et I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+blanc I-RECIPE
+? O
+
+
+pour O
+des O
+moules B-RECIPE
+au I-RECIPE
+curry I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+lardons I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+tarte B-RECIPE
+salee I-RECIPE
+et I-RECIPE
+coloree I-RECIPE
+aux I-RECIPE
+legumes I-RECIPE
+et I-RECIPE
+au I-RECIPE
+surimi I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+pepparkakor B-RECIPE
+bredele I-RECIPE
+suedois I-RECIPE
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+de O
+la O
+sauce B-RECIPE
+tomate I-RECIPE
+rapide I-RECIPE
+pour I-RECIPE
+pizza I-RECIPE
+? O
+
+
+pour O
+une O
+pizza B-RECIPE
+aux I-RECIPE
+legumes I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+une O
+soupe B-RECIPE
+froide I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ail I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+de O
+la O
+charlotte B-RECIPE
+poire I-RECIPE
+caramel I-RECIPE
+facile I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+gateau B-RECIPE
+colibri I-RECIPE
+a I-RECIPE
+la I-RECIPE
+fleur I-RECIPE
+d I-RECIPE
+oranger I-RECIPE
+
+
+tu O
+as O
+la O
+recette O
+de O
+veau B-RECIPE
+aux I-RECIPE
+cardons I-RECIPE
+et I-RECIPE
+artichauts I-RECIPE
+citronnes I-RECIPE
+? O
+
+
+le O
+mouton B-RECIPE
+aux I-RECIPE
+pois I-RECIPE
+chiches I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+comment O
+on O
+fait O
+le O
+cassoulet B-RECIPE
+au I-RECIPE
+saucisson I-RECIPE
+et I-RECIPE
+au I-RECIPE
+canard I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+tiramisu B-RECIPE
+coco I-RECIPE
+mango I-RECIPE
+
+
+comment O
+on O
+fait O
+la O
+tourte B-RECIPE
+aux I-RECIPE
+cailles I-RECIPE
+? O
+
+
+pour O
+roti B-RECIPE
+de I-RECIPE
+veau I-RECIPE
+farci I-RECIPE
+au I-RECIPE
+jambon I-RECIPE
+et I-RECIPE
+poivron I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+comment O
+on O
+fait O
+crumble B-RECIPE
+aux I-RECIPE
+cerises I-RECIPE
+rapide I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+d' O
+escalope B-RECIPE
+surprise I-RECIPE
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+de O
+la O
+compote B-RECIPE
+de I-RECIPE
+pommes I-RECIPE
+aux I-RECIPE
+epices I-RECIPE
+et I-RECIPE
+raisins I-RECIPE
+secs I-RECIPE
+? O
+
+
+comment O
+faire O
+la O
+quiche B-RECIPE
+aux I-RECIPE
+noix I-RECIPE
+chevre I-RECIPE
+et I-RECIPE
+roquefort I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+un O
+cocktail B-RECIPE
+fraisalia I-RECIPE
+sans I-RECIPE
+alcool I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+roti B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+aux I-RECIPE
+mirabelles I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+pruneaux I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+galettes B-RECIPE
+du I-RECIPE
+nord I-RECIPE
+ratons I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+du O
+tarte B-RECIPE
+aux I-RECIPE
+2 I-RECIPE
+citrons I-RECIPE
+vert I-RECIPE
+et I-RECIPE
+jaune I-RECIPE
+? O
+
+
+le O
+risotto B-RECIPE
+orange I-RECIPE
+d I-RECIPE
+inspiration I-RECIPE
+asiatique I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+quelle O
+est O
+la O
+recette O
+veloute B-RECIPE
+rose I-RECIPE
+aux I-RECIPE
+vieux I-RECIPE
+legumes I-RECIPE
+? O
+
+
+comment O
+faire O
+les O
+petits B-RECIPE
+souffles I-RECIPE
+au I-RECIPE
+crabe I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+de O
+la O
+soupe B-RECIPE
+glacee I-RECIPE
+aux I-RECIPE
+amandes I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+liqueur B-RECIPE
+de I-RECIPE
+cerise I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+fondue B-RECIPE
+de I-RECIPE
+poireaux I-RECIPE
+a I-RECIPE
+l I-RECIPE
+anis I-RECIPE
+et I-RECIPE
+au I-RECIPE
+citron I-RECIPE
+
+
+comment O
+faire O
+eventail B-RECIPE
+de I-RECIPE
+magret I-RECIPE
+aux I-RECIPE
+poires I-RECIPE
+
+
+tu O
+as O
+la O
+recette O
+gateau B-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+a I-RECIPE
+la I-RECIPE
+farine I-RECIPE
+de I-RECIPE
+ble I-RECIPE
+noir I-RECIPE
+? O
+
+
+les O
+boules B-RECIPE
+de I-RECIPE
+berlin I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+ile B-RECIPE
+flottante I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+anglaise I-RECIPE
+au I-RECIPE
+micro I-RECIPE
+ondes I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+du O
+tarte B-RECIPE
+a I-RECIPE
+l I-RECIPE
+orange I-RECIPE
+express I-RECIPE
+? O
+
+
+comment O
+faire O
+veloute B-RECIPE
+de I-RECIPE
+potiron I-RECIPE
+au I-RECIPE
+cresson I-RECIPE
+et I-RECIPE
+cerfeuil I-RECIPE
+
+
+comment O
+on O
+fait O
+les O
+quenelles B-RECIPE
+en I-RECIPE
+sauce I-RECIPE
+blanche I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+des O
+financiers B-RECIPE
+choco I-RECIPE
+pistache I-RECIPE
+
+
+comment O
+on O
+fait O
+le O
+curry B-RECIPE
+de I-RECIPE
+canard I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ananas I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+gratin B-RECIPE
+de I-RECIPE
+radis I-RECIPE
+roses I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+milk B-RECIPE
+shake I-RECIPE
+a I-RECIPE
+la I-RECIPE
+banane I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+bricks B-RECIPE
+provencales I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+l B-RECIPE
+ultime I-RECIPE
+chocolat I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+pate B-RECIPE
+brocoli I-RECIPE
+saumon I-RECIPE
+fromage I-RECIPE
+ail I-RECIPE
+et I-RECIPE
+fines I-RECIPE
+herbes I-RECIPE
+
+
+pour O
+une O
+quiche B-RECIPE
+au I-RECIPE
+thon I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+tomate I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+le O
+couscous B-RECIPE
+a I-RECIPE
+l I-RECIPE
+epaule I-RECIPE
+d I-RECIPE
+agneau I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+un O
+riz B-RECIPE
+aux I-RECIPE
+encornets I-RECIPE
+et I-RECIPE
+coulis I-RECIPE
+de I-RECIPE
+tomates I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+une O
+sauce B-RECIPE
+gruyere I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+des O
+verrines B-RECIPE
+de I-RECIPE
+noel I-RECIPE
+
+
+le O
+saumon B-RECIPE
+poche I-RECIPE
+et I-RECIPE
+sa I-RECIPE
+sauce I-RECIPE
+a I-RECIPE
+l I-RECIPE
+aneth I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+riz B-RECIPE
+saute I-RECIPE
+aux I-RECIPE
+gambas I-RECIPE
+et I-RECIPE
+courgettes I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+de O
+la O
+saumonette B-RECIPE
+mijotee I-RECIPE
+au I-RECIPE
+vin I-RECIPE
+blanc I-RECIPE
+? O
+
+
+comment O
+faire O
+le B-RECIPE
+catigot I-RECIPE
+du I-RECIPE
+pecheur I-RECIPE
+aux I-RECIPE
+gambas I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+crepes B-RECIPE
+thailandaises I-RECIPE
+au I-RECIPE
+lait I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+kanom I-RECIPE
+krok I-RECIPE
+
+
+comment O
+on O
+fait O
+les O
+brochettes B-RECIPE
+d I-RECIPE
+ete I-RECIPE
+aux I-RECIPE
+noix I-RECIPE
+de I-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+quiche B-RECIPE
+chevre I-RECIPE
+aubergine I-RECIPE
+tomate I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+papillote B-RECIPE
+de I-RECIPE
+poisson I-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+d I-RECIPE
+ail I-RECIPE
+? O
+
+
+les O
+lasagnes B-RECIPE
+aux I-RECIPE
+sardines I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+charlotte B-RECIPE
+glacee I-RECIPE
+chocolat I-RECIPE
+framboise I-RECIPE
+
+
+les O
+petits B-RECIPE
+palmiers I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ail I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+pommes B-RECIPE
+de I-RECIPE
+terre I-RECIPE
+aux I-RECIPE
+oignons I-RECIPE
+et I-RECIPE
+au I-RECIPE
+lard I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+du O
+boeuf B-RECIPE
+a I-RECIPE
+la I-RECIPE
+sauce I-RECIPE
+balsamique I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+la O
+saute B-RECIPE
+de I-RECIPE
+veau I-RECIPE
+au I-RECIPE
+vin I-RECIPE
+blanc I-RECIPE
+et I-RECIPE
+paprika I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+mousse B-RECIPE
+aux I-RECIPE
+fraise I-RECIPE
+sur I-RECIPE
+lit I-RECIPE
+de I-RECIPE
+speculoos I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+la B-RECIPE
+bouillie I-RECIPE
+de I-RECIPE
+celia I-RECIPE
+
+
+le O
+gratin B-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+a I-RECIPE
+la I-RECIPE
+semoule I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+quelle O
+est O
+la O
+recette O
+des O
+macaronis B-RECIPE
+au I-RECIPE
+fromage I-RECIPE
+de I-RECIPE
+mimi I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+pizza B-RECIPE
+aux I-RECIPE
+legumes I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+poelee B-RECIPE
+de I-RECIPE
+riz I-RECIPE
+aux I-RECIPE
+saucisses I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+un O
+clafoutis B-RECIPE
+pommes I-RECIPE
+miel I-RECIPE
+et I-RECIPE
+raisins I-RECIPE
+secs I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+du O
+poulet B-RECIPE
+au I-RECIPE
+miel I-RECIPE
+a I-RECIPE
+l I-RECIPE
+estragon I-RECIPE
+? O
+
+
+patisson B-RECIPE
+de I-RECIPE
+la I-RECIPE
+mer I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+gratin B-RECIPE
+de I-RECIPE
+cabillaud I-RECIPE
+au I-RECIPE
+coulis I-RECIPE
+de I-RECIPE
+tomate I-RECIPE
+? O
+
+
+le O
+poisson B-RECIPE
+tahitienne I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+quelle O
+est O
+la O
+recette O
+des O
+tartelettes B-RECIPE
+au I-RECIPE
+citron I-RECIPE
+facile I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+choux B-RECIPE
+a I-RECIPE
+la I-RECIPE
+creme I-RECIPE
+facon I-RECIPE
+grand I-RECIPE
+mere I-RECIPE
+
+
+je O
+cherche O
+une O
+recette O
+de O
+tarte B-RECIPE
+au I-RECIPE
+citron I-RECIPE
+meringuee I-RECIPE
+facile I-RECIPE
+et I-RECIPE
+rapide I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+panna B-RECIPE
+cotta I-RECIPE
+cafe I-RECIPE
+annis I-RECIPE
+illusion I-RECIPE
+batna I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+un O
+gratin B-RECIPE
+brocolis I-RECIPE
+blettes I-RECIPE
+et I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+
+
+comment O
+faire O
+le O
+mousse B-RECIPE
+de I-RECIPE
+betterave I-RECIPE
+et I-RECIPE
+chevre I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+confiture B-RECIPE
+framboise I-RECIPE
+violette I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+du O
+poisson B-RECIPE
+marine I-RECIPE
+aux I-RECIPE
+epices I-RECIPE
+? O
+
+
+comment O
+faire O
+l' O
+oeuf B-RECIPE
+cocotte I-RECIPE
+roquefort I-RECIPE
+et I-RECIPE
+echalotes I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+des O
+croquettes B-RECIPE
+de I-RECIPE
+riz I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+flamiche B-RECIPE
+aux I-RECIPE
+poireaux I-RECIPE
+et I-RECIPE
+au I-RECIPE
+chevre I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+pain B-RECIPE
+d I-RECIPE
+epices I-RECIPE
+classique I-RECIPE
+? O
+
+
+comment O
+faire O
+les O
+lasagnes B-RECIPE
+par I-RECIPE
+claire I-RECIPE
+
+
+les O
+spaghettis B-RECIPE
+a I-RECIPE
+la I-RECIPE
+sauce I-RECIPE
+au I-RECIPE
+thon I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pour O
+un O
+tarte B-RECIPE
+aux I-RECIPE
+pralines I-RECIPE
+briochee I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+du O
+steak B-RECIPE
+au I-RECIPE
+bresse I-RECIPE
+bleu I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+filet B-RECIPE
+mignon I-RECIPE
+sauce I-RECIPE
+roquefort I-RECIPE
+et I-RECIPE
+olives I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+lotte B-RECIPE
+au I-RECIPE
+riesling I-RECIPE
+et I-RECIPE
+epinards I-RECIPE
+
+
+je O
+cherche O
+une O
+recette O
+de O
+flan B-RECIPE
+glace I-RECIPE
+aux I-RECIPE
+pommes I-RECIPE
+
+
+pour O
+gateau B-RECIPE
+de I-RECIPE
+semoule I-RECIPE
+a I-RECIPE
+la I-RECIPE
+casserole I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+pour O
+des O
+petits B-RECIPE
+gateaux I-RECIPE
+a I-RECIPE
+la I-RECIPE
+papaye I-RECIPE
+deshydratee I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+comment O
+on O
+fait O
+tatin B-RECIPE
+d I-RECIPE
+aubergines I-RECIPE
+et I-RECIPE
+de I-RECIPE
+poivrons I-RECIPE
+au I-RECIPE
+chevre I-RECIPE
+frais I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+les O
+bichons B-RECIPE
+au I-RECIPE
+citron I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+le O
+vin B-RECIPE
+de I-RECIPE
+noix I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ancienne I-RECIPE
+? O
+
+
+pour O
+des O
+croustillants B-RECIPE
+festifs I-RECIPE
+a I-RECIPE
+la I-RECIPE
+courgette I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+gratin B-RECIPE
+d I-RECIPE
+aubergines I-RECIPE
+au I-RECIPE
+parmesan I-RECIPE
+? O
+
+
+la O
+cocotte B-RECIPE
+d I-RECIPE
+artichauts I-RECIPE
+a I-RECIPE
+l I-RECIPE
+orientale I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+des O
+blinis B-RECIPE
+? O
+
+
+pour O
+reveil B-RECIPE
+fruite I-RECIPE
+orange I-RECIPE
+banane I-RECIPE
+et I-RECIPE
+citron I-RECIPE
+de I-RECIPE
+lola I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+comment O
+on O
+fait O
+le O
+flan B-RECIPE
+de I-RECIPE
+legumes I-RECIPE
+varies I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+salade B-RECIPE
+d I-RECIPE
+automne I-RECIPE
+rapide I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+poires B-RECIPE
+surprises I-RECIPE
+a I-RECIPE
+la I-RECIPE
+vanille I-RECIPE
+? O
+
+
+comment O
+faire O
+le O
+tarte B-RECIPE
+aux I-RECIPE
+poireaux I-RECIPE
+a I-RECIPE
+la I-RECIPE
+cancoillotte I-RECIPE
+
+
+comment O
+on O
+fait O
+prefou B-RECIPE
+maison I-RECIPE
+facile I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+le O
+beurre B-RECIPE
+aux I-RECIPE
+herbes I-RECIPE
+de I-RECIPE
+mathieu I-RECIPE
+? O
+
+
+comment O
+faire O
+la O
+papillote B-RECIPE
+de I-RECIPE
+cabillaud I-RECIPE
+legere I-RECIPE
+
+
+comment O
+on O
+fait O
+la O
+soupe B-RECIPE
+de I-RECIPE
+dorade I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ananas I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+crumble B-RECIPE
+de I-RECIPE
+chou I-RECIPE
+fleur I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+crepes B-RECIPE
+flambees I-RECIPE
+au I-RECIPE
+pastis I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+de O
+la O
+tartine B-RECIPE
+pomme I-RECIPE
+jambon I-RECIPE
+cru I-RECIPE
+et I-RECIPE
+saint I-RECIPE
+felicien I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+quiche B-RECIPE
+chevre I-RECIPE
+pruneaux I-RECIPE
+? O
+
+
+le O
+cake B-RECIPE
+banane I-RECIPE
+chocolat I-RECIPE
+et I-RECIPE
+curry I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+le O
+maxi B-RECIPE
+pizza I-RECIPE
+orientale I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pour O
+une O
+salade B-RECIPE
+tiede I-RECIPE
+aux I-RECIPE
+fruits I-RECIPE
+de I-RECIPE
+mer I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+lentilles I-RECIPE
+germees I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+le O
+lapin B-RECIPE
+a I-RECIPE
+la I-RECIPE
+sauce I-RECIPE
+aux I-RECIPE
+cepes I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+comment O
+on O
+fait O
+le O
+poisson B-RECIPE
+cru I-RECIPE
+marine I-RECIPE
+a I-RECIPE
+la I-RECIPE
+tahitienne I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+fondant B-RECIPE
+tres I-RECIPE
+chocolat I-RECIPE
+de I-RECIPE
+angeline I-RECIPE
+? O
+
+
+le O
+tarama B-RECIPE
+comme I-RECIPE
+en I-RECIPE
+grece I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+torta B-RECIPE
+frita I-RECIPE
+? O
+
+
+comment O
+faire O
+le O
+pudding B-RECIPE
+a I-RECIPE
+la I-RECIPE
+semoule I-RECIPE
+de I-RECIPE
+riz I-RECIPE
+aux I-RECIPE
+raisins I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+gigot B-RECIPE
+d I-RECIPE
+agneau I-RECIPE
+a I-RECIPE
+la I-RECIPE
+ficelle I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+cheveux B-RECIPE
+d I-RECIPE
+ange I-RECIPE
+au I-RECIPE
+lait I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+cocktail B-RECIPE
+estival I-RECIPE
+? O
+
+
+pour O
+un O
+mousse B-RECIPE
+a I-RECIPE
+l I-RECIPE
+avocat I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+comment O
+on O
+fait O
+les O
+boulettes B-RECIPE
+grand I-RECIPE
+mere I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+gambas B-RECIPE
+a I-RECIPE
+la I-RECIPE
+mangue I-RECIPE
+et I-RECIPE
+au I-RECIPE
+lait I-RECIPE
+de I-RECIPE
+coco I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+des O
+perles B-RECIPE
+de I-RECIPE
+coco I-RECIPE
+de I-RECIPE
+saho I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+le O
+curry B-RECIPE
+vegetarien I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+du O
+gratin B-RECIPE
+poisson I-RECIPE
+chili I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+chevre B-RECIPE
+frais I-RECIPE
+en I-RECIPE
+bricks I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+crepes B-RECIPE
+de I-RECIPE
+pois I-RECIPE
+chiche I-RECIPE
+sans I-RECIPE
+gluten I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+veloute B-RECIPE
+de I-RECIPE
+topinambours I-RECIPE
+et I-RECIPE
+panais I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+mozzarella B-RECIPE
+panee I-RECIPE
+sur I-RECIPE
+coulis I-RECIPE
+de I-RECIPE
+tomates I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+papillote B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+compote B-RECIPE
+pommes I-RECIPE
+cerises I-RECIPE
+au I-RECIPE
+gingembre I-RECIPE
+
+
+pour O
+un O
+tajine B-RECIPE
+de I-RECIPE
+brick I-RECIPE
+tres I-RECIPE
+facile I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+pour O
+des O
+muffins B-RECIPE
+au I-RECIPE
+monbazillac I-RECIPE
+et I-RECIPE
+pepites I-RECIPE
+de I-RECIPE
+chocolat I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+tarte B-RECIPE
+fine I-RECIPE
+aux I-RECIPE
+figues I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+aumonieres B-RECIPE
+de I-RECIPE
+galette I-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+fume I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+de O
+l' O
+omelette B-RECIPE
+aubergine I-RECIPE
+tomate I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+salade B-RECIPE
+de I-RECIPE
+brocoli I-RECIPE
+et I-RECIPE
+ananas I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+petites B-RECIPE
+brioches I-RECIPE
+aperitives I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+une O
+quiche B-RECIPE
+soufflee I-RECIPE
+a I-RECIPE
+la I-RECIPE
+courgette I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+pomme B-RECIPE
+savane I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+mousse B-RECIPE
+de I-RECIPE
+fraise I-RECIPE
+tagada I-RECIPE
+a I-RECIPE
+la I-RECIPE
+fleur I-RECIPE
+d I-RECIPE
+oranger I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+cheesecake B-RECIPE
+aux I-RECIPE
+petits I-RECIPE
+suisses I-RECIPE
+et I-RECIPE
+creme I-RECIPE
+de I-RECIPE
+marrons I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+crumble B-RECIPE
+aux I-RECIPE
+cerises I-RECIPE
+rapide I-RECIPE
+
+
+tu O
+as O
+la O
+recette O
+de O
+canard B-RECIPE
+a I-RECIPE
+la I-RECIPE
+badiane I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+le O
+riz B-RECIPE
+gratine I-RECIPE
+aux I-RECIPE
+lentilles I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+pain B-RECIPE
+d I-RECIPE
+epices I-RECIPE
+a I-RECIPE
+l I-RECIPE
+orange I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+gateau B-RECIPE
+fondant I-RECIPE
+peches I-RECIPE
+chocolat I-RECIPE
+
+
+le O
+boeuf B-RECIPE
+piquant I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+de O
+la O
+tourte B-RECIPE
+aux I-RECIPE
+fruits I-RECIPE
+de I-RECIPE
+mer I-RECIPE
+? O
+
+
+pates B-RECIPE
+aux I-RECIPE
+petoncles I-RECIPE
+petits I-RECIPE
+pois I-RECIPE
+et I-RECIPE
+tomates I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pour O
+un O
+poisson B-RECIPE
+marine I-RECIPE
+a I-RECIPE
+la I-RECIPE
+mexicaine I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+escalope B-RECIPE
+de I-RECIPE
+volaille I-RECIPE
+citron I-RECIPE
+basilic I-RECIPE
+au I-RECIPE
+micro I-RECIPE
+ondes I-RECIPE
+minceur I-RECIPE
+? O
+
+
+pour O
+un O
+parmentier B-RECIPE
+de I-RECIPE
+poisson I-RECIPE
+truite I-RECIPE
+et I-RECIPE
+saumon I-RECIPE
+fume I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+tomates B-RECIPE
+a I-RECIPE
+la I-RECIPE
+canarienne I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+smoothie B-RECIPE
+a I-RECIPE
+la I-RECIPE
+papaye I-RECIPE
+
+
+tu O
+as O
+la O
+recette O
+de O
+petits B-RECIPE
+fours I-RECIPE
+patissiers I-RECIPE
+? O
+
+
+pour O
+gateau B-RECIPE
+a I-RECIPE
+l I-RECIPE
+huile I-RECIPE
+grand I-RECIPE
+mere I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+comment O
+faire O
+l' O
+hamburger B-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+facon I-RECIPE
+elodie I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+torta B-RECIPE
+frita I-RECIPE
+
+
+je O
+cherche O
+une O
+recette O
+de O
+sauce B-RECIPE
+gribiche I-RECIPE
+rapide I-RECIPE
+
+
+comment O
+on O
+fait O
+la O
+daube B-RECIPE
+de I-RECIPE
+boeuf I-RECIPE
+a I-RECIPE
+l I-RECIPE
+armagnac I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+des O
+moules B-RECIPE
+au I-RECIPE
+curry I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+lardons I-RECIPE
+? O
+
+
+comment O
+faire O
+les O
+sardines B-RECIPE
+crues I-RECIPE
+marinees I-RECIPE
+a I-RECIPE
+l I-RECIPE
+huile I-RECIPE
+d I-RECIPE
+olive I-RECIPE
+et I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ail I-RECIPE
+
+
+comment O
+faire O
+la O
+confiture B-RECIPE
+fraise I-RECIPE
+mangue I-RECIPE
+banane I-RECIPE
+
+
+comment O
+on O
+fait O
+la O
+penne B-RECIPE
+aux I-RECIPE
+artichauts I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+cake B-RECIPE
+a I-RECIPE
+la I-RECIPE
+farine I-RECIPE
+de I-RECIPE
+chataigne I-RECIPE
+corse I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+dandy B-RECIPE
+cake I-RECIPE
+de I-RECIPE
+lise I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+saveurs B-RECIPE
+mediterraneennes I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+coquilles B-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+au I-RECIPE
+miel I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+epices I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+des O
+cigares B-RECIPE
+croustillants I-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+du O
+coup B-RECIPE
+de I-RECIPE
+fouet I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+des O
+asperges B-RECIPE
+sauce I-RECIPE
+mousseline I-RECIPE
+et I-RECIPE
+jambon I-RECIPE
+cru I-RECIPE
+
+
+tu O
+as O
+la O
+recette O
+crepes B-RECIPE
+mandarin I-RECIPE
+pour I-RECIPE
+canard I-RECIPE
+laque I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+tomates B-RECIPE
+farcies I-RECIPE
+legeres I-RECIPE
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+roti B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+a I-RECIPE
+la I-RECIPE
+moutarde I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+tomates I-RECIPE
+cerises I-RECIPE
+? O
+
+
+pour O
+pates B-RECIPE
+sauce I-RECIPE
+lucenko I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+du O
+soleil B-RECIPE
+d I-RECIPE
+aubergine I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+gratin B-RECIPE
+de I-RECIPE
+carottes I-RECIPE
+et I-RECIPE
+pommes I-RECIPE
+de I-RECIPE
+terre I-RECIPE
+au I-RECIPE
+boursin I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+exotique I-RECIPE
+mimi I-RECIPE
+? O
+
+
+pour O
+rougaille B-RECIPE
+saucisse I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+comment O
+faire O
+bereg B-RECIPE
+tourte I-RECIPE
+au I-RECIPE
+saint I-RECIPE
+marcellin I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+une O
+marmelade B-RECIPE
+aux I-RECIPE
+bergamotes I-RECIPE
+
+
+tu O
+as O
+la O
+recette O
+de O
+flans B-RECIPE
+de I-RECIPE
+carottes I-RECIPE
+au I-RECIPE
+cumin I-RECIPE
+et I-RECIPE
+au I-RECIPE
+chevre I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+une O
+moussaka B-RECIPE
+a I-RECIPE
+la I-RECIPE
+grecque I-RECIPE
+
+
+comment O
+on O
+fait O
+les O
+palmiers B-RECIPE
+a I-RECIPE
+la I-RECIPE
+pate I-RECIPE
+d I-RECIPE
+anchois I-RECIPE
+? O
+
+
+le O
+tarte B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+et I-RECIPE
+ecorces I-RECIPE
+d I-RECIPE
+orange I-RECIPE
+confites I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+un O
+riz B-RECIPE
+et I-RECIPE
+petits I-RECIPE
+legumes I-RECIPE
+au I-RECIPE
+safran I-RECIPE
+
+
+quelle O
+est O
+la O
+recette O
+de O
+la O
+boisson B-RECIPE
+rafraichissante I-RECIPE
+au I-RECIPE
+frene I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+chicoree I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+de O
+la O
+galette B-RECIPE
+des I-RECIPE
+rois I-RECIPE
+franc I-RECIPE
+comtoise I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+cassolettes B-RECIPE
+d I-RECIPE
+ecrevisses I-RECIPE
+gratinees I-RECIPE
+? O
+
+
+comment O
+faire O
+gateau B-RECIPE
+aux I-RECIPE
+chataignes I-RECIPE
+facile I-RECIPE
+
+
+pour O
+pate B-RECIPE
+sablee I-RECIPE
+sans I-RECIPE
+oeufs I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+des O
+tomates B-RECIPE
+farcies I-RECIPE
+a I-RECIPE
+la I-RECIPE
+courgette I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+vache I-RECIPE
+qui I-RECIPE
+rit I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+le O
+mini B-RECIPE
+bouchees I-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+salade B-RECIPE
+rose I-RECIPE
+avec I-RECIPE
+effilochee I-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+et I-RECIPE
+betteraves I-RECIPE
+
+
+je O
+cherche O
+une O
+recette O
+de O
+crique B-RECIPE
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+du O
+gratin B-RECIPE
+de I-RECIPE
+legumes I-RECIPE
+du I-RECIPE
+soleil I-RECIPE
+au I-RECIPE
+pistou I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+des O
+cassolettes B-RECIPE
+d I-RECIPE
+ecrevisses I-RECIPE
+gratinees I-RECIPE
+? O
+
+
+comment O
+faire O
+le O
+pain B-RECIPE
+flammenkuche I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+noix B-RECIPE
+de I-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+au I-RECIPE
+pastis I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+pie B-RECIPE
+aux I-RECIPE
+aubergines I-RECIPE
+tomates I-RECIPE
+et I-RECIPE
+pignons I-RECIPE
+de I-RECIPE
+pin I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+tarte B-RECIPE
+aux I-RECIPE
+orties I-RECIPE
+? O
+
+
+le O
+punch B-RECIPE
+facile I-RECIPE
+au I-RECIPE
+vin I-RECIPE
+blanc I-RECIPE
+moelleux I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+du O
+gratin B-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+et I-RECIPE
+tomates I-RECIPE
+a I-RECIPE
+la I-RECIPE
+chapelure I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+doigt B-RECIPE
+de I-RECIPE
+fatma I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+de O
+la O
+tourte B-RECIPE
+gourmande I-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+et I-RECIPE
+petits I-RECIPE
+legumes I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+gratin B-RECIPE
+de I-RECIPE
+courge I-RECIPE
+a I-RECIPE
+l I-RECIPE
+exotique I-RECIPE
+
+
+comment O
+faire O
+tourtiere B-RECIPE
+gasconne I-RECIPE
+
+
+je O
+cherche O
+une O
+recette O
+de O
+steak B-RECIPE
+au I-RECIPE
+boursin I-RECIPE
+cuisine I-RECIPE
+3 I-RECIPE
+poivres I-RECIPE
+
+
+comment O
+on O
+fait O
+le O
+sirop B-RECIPE
+de I-RECIPE
+fleurs I-RECIPE
+de I-RECIPE
+sureau I-RECIPE
+? O
+
+
+milk B-RECIPE
+shake I-RECIPE
+express I-RECIPE
+au I-RECIPE
+cassis I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+des O
+crevettes B-RECIPE
+panees I-RECIPE
+
+
+comment O
+faire O
+le O
+porc B-RECIPE
+au I-RECIPE
+cidre I-RECIPE
+facile I-RECIPE
+et I-RECIPE
+delicieux I-RECIPE
+
+
+comment O
+faire O
+les O
+petits B-RECIPE
+pains I-RECIPE
+croustillants I-RECIPE
+roquefort I-RECIPE
+et I-RECIPE
+noix I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+puree B-RECIPE
+d I-RECIPE
+asperges I-RECIPE
+vertes I-RECIPE
+facile I-RECIPE
+
+
+je O
+cherche O
+une O
+recette O
+creme B-RECIPE
+au I-RECIPE
+vin I-RECIPE
+rouge I-RECIPE
+
+
+peches B-RECIPE
+en I-RECIPE
+gelee I-RECIPE
+de I-RECIPE
+the I-RECIPE
+aux I-RECIPE
+fruits I-RECIPE
+rouges I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+un O
+wok B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+et I-RECIPE
+courgettes I-RECIPE
+au I-RECIPE
+curry I-RECIPE
+et I-RECIPE
+ses I-RECIPE
+nouilles I-RECIPE
+chinoises I-RECIPE
+
+
+comment O
+on O
+fait O
+bouchees B-RECIPE
+de I-RECIPE
+brick I-RECIPE
+a I-RECIPE
+la I-RECIPE
+puree I-RECIPE
+de I-RECIPE
+potimarron I-RECIPE
+et I-RECIPE
+gesiers I-RECIPE
+confits I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+soupe B-RECIPE
+panade I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+panna B-RECIPE
+cotta I-RECIPE
+a I-RECIPE
+l I-RECIPE
+eau I-RECIPE
+de I-RECIPE
+rose I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+les O
+muffins B-RECIPE
+chevre I-RECIPE
+abricots I-RECIPE
+secs I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+courgettes B-RECIPE
+aux I-RECIPE
+oeufs I-RECIPE
+
+
+comment O
+on O
+fait O
+shortbreads B-RECIPE
+anis I-RECIPE
+vert I-RECIPE
+et I-RECIPE
+huile I-RECIPE
+d I-RECIPE
+olive I-RECIPE
+? O
+
+
+les O
+pommes B-RECIPE
+sautees I-RECIPE
+sarladaises I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+carres B-RECIPE
+frais I-RECIPE
+menthe I-RECIPE
+et I-RECIPE
+cumin I-RECIPE
+en I-RECIPE
+feuilles I-RECIPE
+de I-RECIPE
+brick I-RECIPE
+? O
+
+
+pour O
+un O
+poulet B-RECIPE
+aux I-RECIPE
+petits I-RECIPE
+legumes I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+quelle O
+est O
+la O
+recette O
+du O
+sabayon B-RECIPE
+de I-RECIPE
+noel I-RECIPE
+aux I-RECIPE
+marrons I-RECIPE
+glaces I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+du O
+risotto B-RECIPE
+aux I-RECIPE
+coquilles I-RECIPE
+saint I-RECIPE
+jacques I-RECIPE
+? O
+
+
+les O
+papillotes B-RECIPE
+de I-RECIPE
+poulet I-RECIPE
+au I-RECIPE
+bacon I-RECIPE
+et I-RECIPE
+champignons I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+petits B-RECIPE
+pains I-RECIPE
+au I-RECIPE
+jambon I-RECIPE
+et I-RECIPE
+au I-RECIPE
+brie I-RECIPE
+
+
+comment O
+on O
+fait O
+la O
+galette B-RECIPE
+des I-RECIPE
+rois I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+sans I-RECIPE
+frangipane I-RECIPE
+simpliste I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+rillettes B-RECIPE
+de I-RECIPE
+porc I-RECIPE
+parfumees I-RECIPE
+a I-RECIPE
+l I-RECIPE
+ail I-RECIPE
+? O
+
+
+gateau B-RECIPE
+aux I-RECIPE
+speculoos I-RECIPE
+a I-RECIPE
+la I-RECIPE
+machine I-RECIPE
+a I-RECIPE
+pain I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+comment O
+faire O
+le O
+gratin B-RECIPE
+de I-RECIPE
+ravioli I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+une O
+salade B-RECIPE
+antillaise I-RECIPE
+
+
+pour O
+leger B-RECIPE
+riz I-RECIPE
+au I-RECIPE
+lait I-RECIPE
+au I-RECIPE
+citron I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+rostiburri B-RECIPE
+ou I-RECIPE
+rosti I-RECIPE
+au I-RECIPE
+vacherin I-RECIPE
+mont I-RECIPE
+d I-RECIPE
+or I-RECIPE
+reblochon I-RECIPE
+va I-RECIPE
+aussi I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+parfait B-RECIPE
+au I-RECIPE
+miel I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+pistaches I-RECIPE
+4eme I-RECIPE
+rencontre I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+de O
+l' O
+assiette B-RECIPE
+de I-RECIPE
+poisson I-RECIPE
+au I-RECIPE
+kiwi I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+cheesecake B-RECIPE
+sans I-RECIPE
+cuisson I-RECIPE
+au I-RECIPE
+lait I-RECIPE
+concentre I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+d' O
+hachis B-RECIPE
+de I-RECIPE
+boeuf I-RECIPE
+au I-RECIPE
+riz I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+courgettes I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+tarte B-RECIPE
+a I-RECIPE
+l I-RECIPE
+orange I-RECIPE
+express I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+pudding B-RECIPE
+de I-RECIPE
+courgettes I-RECIPE
+au I-RECIPE
+bacon I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+les O
+ailes B-RECIPE
+de I-RECIPE
+raie I-RECIPE
+sauce I-RECIPE
+au I-RECIPE
+beurre I-RECIPE
+noir I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+sandwich B-RECIPE
+du I-RECIPE
+randonneur I-RECIPE
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+des O
+brochettes B-RECIPE
+de I-RECIPE
+crevettes I-RECIPE
+au I-RECIPE
+citron I-RECIPE
+vert I-RECIPE
+et I-RECIPE
+a I-RECIPE
+la I-RECIPE
+menthe I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+la O
+salade B-RECIPE
+d I-RECIPE
+avocats I-RECIPE
+aux I-RECIPE
+poivrons I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+fines I-RECIPE
+herbes I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+poulet B-RECIPE
+a I-RECIPE
+la I-RECIPE
+banane I-RECIPE
+et I-RECIPE
+aux I-RECIPE
+lardons I-RECIPE
+
+
+comment O
+on O
+fait O
+les O
+quartiers B-RECIPE
+d I-RECIPE
+orange I-RECIPE
+confite I-RECIPE
+? O
+
+
+pouvez-vous O
+me O
+donner O
+rochers B-RECIPE
+au I-RECIPE
+praline I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+st B-RECIPE
+jacques I-RECIPE
+marinees I-RECIPE
+sauce I-RECIPE
+au I-RECIPE
+chevre I-RECIPE
+frais I-RECIPE
+
+
+dauradine B-RECIPE
+a I-RECIPE
+l I-RECIPE
+ail I-RECIPE
+et I-RECIPE
+au I-RECIPE
+persil I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pouvez-vous O
+me O
+donner O
+fondant B-RECIPE
+chocolat I-RECIPE
+framboises I-RECIPE
+? O
+
+
+pour O
+creme B-RECIPE
+glacee I-RECIPE
+aux I-RECIPE
+fruits I-RECIPE
+confits I-RECIPE
+et I-RECIPE
+au I-RECIPE
+kirsch I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+pour O
+des O
+muffins B-RECIPE
+a I-RECIPE
+la I-RECIPE
+confiture I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+quelle O
+est O
+la O
+recette O
+de O
+l' O
+aubergine B-RECIPE
+farcie I-RECIPE
+au I-RECIPE
+saumon I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+le O
+cake B-RECIPE
+morbier I-RECIPE
+bacon I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+feuillete B-RECIPE
+au I-RECIPE
+chorizo I-RECIPE
+mozzarella I-RECIPE
+oignon I-RECIPE
+tomate I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+mousse B-RECIPE
+aux I-RECIPE
+pepites I-RECIPE
+de I-RECIPE
+chocolat I-RECIPE
+? O
+
+
+il O
+faut O
+que O
+je O
+fasse O
+un O
+poulet B-RECIPE
+combava I-RECIPE
+
+
+comment O
+faire O
+gateau B-RECIPE
+aux I-RECIPE
+prunes I-RECIPE
+val I-RECIPE
+de I-RECIPE
+saone I-RECIPE
+
+
+il O
+faut O
+que O
+je O
+fasse O
+delice B-RECIPE
+d I-RECIPE
+avocat I-RECIPE
+crevette I-RECIPE
+facile I-RECIPE
+
+
+pouvez-vous O
+me O
+donner O
+la O
+recette O
+de O
+muffins B-RECIPE
+praline I-RECIPE
+et I-RECIPE
+noix I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+pralin B-RECIPE
+cooky I-RECIPE
+glace I-RECIPE
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+des O
+galettes B-RECIPE
+de I-RECIPE
+viande I-RECIPE
+aux I-RECIPE
+raisins I-RECIPE
+? O
+
+
+tu O
+as O
+la O
+recette O
+de O
+risotto B-RECIPE
+cremeux I-RECIPE
+aux I-RECIPE
+artichauts I-RECIPE
+? O
+
+
+quelle O
+est O
+la O
+recette O
+gateau B-RECIPE
+suisse I-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+? O
+
+
+je O
+cherche O
+une O
+recette O
+de O
+cake B-RECIPE
+au I-RECIPE
+chocolat I-RECIPE
+aerien I-RECIPE
+
+
+tu O
+as O
+la O
+recette O
+de O
+barbe B-RECIPE
+a I-RECIPE
+papa I-RECIPE
+? O
+
+
+les O
+tartelettes B-RECIPE
+courgettes I-RECIPE
+magret I-RECIPE
+et I-RECIPE
+chevre I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+peux-tu O
+me O
+donner O
+la O
+recette O
+pave B-RECIPE
+de I-RECIPE
+perche I-RECIPE
+en I-RECIPE
+gratin I-RECIPE
+? O
+
+
+comment O
+on O
+fait O
+la O
+glace B-RECIPE
+au I-RECIPE
+mascarpone I-RECIPE
+et I-RECIPE
+creme I-RECIPE
+chocolat I-RECIPE
+? O
+
+
+gateau B-RECIPE
+au I-RECIPE
+yaourt I-RECIPE
+de I-RECIPE
+blandine I-RECIPE
+, O
+tu O
+me O
+rappelles O
+comment O
+on O
+fait O
+? O
+
+
+pour O
+un O
+cake B-RECIPE
+aux I-RECIPE
+abricots I-RECIPE
+et I-RECIPE
+au I-RECIPE
+chevre I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+pour O
+gateau B-RECIPE
+quinoa I-RECIPE
+et I-RECIPE
+chocolat I-RECIPE
+sans I-RECIPE
+lait I-RECIPE
+ni I-RECIPE
+farine I-RECIPE
+de I-RECIPE
+ble I-RECIPE
+quels O
+sont O
+les O
+ingrédients O
+? O
+
+
+je O
+cherche O
+une O
+recette O
+gateau B-RECIPE
+a I-RECIPE
+etages I-RECIPE
+coco I-RECIPE
+et I-RECIPE
+fruits I-RECIPE
+
+

@@ -1,0 +1,8898 @@
+d' O
+ablette B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+poivre B-NEG_INGREDIENT
+rose I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+ange B-NEG_INGREDIENT
+gardien I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+ami B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+chambertin I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Mezzi B-NEG_INGREDIENT
+bombardoni I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+bavarian B-NEG_INGREDIENT
+blue I-NEG_INGREDIENT
+
+
+castelmagno B-INGREDIENT
+
+
+Reginette B-INGREDIENT
+
+
+j'aime O
+pas O
+wakame B-NEG_INGREDIENT
+
+
+d' O
+hareng B-INGREDIENT
+
+
+Fettucelle B-INGREDIENT
+
+
+de O
+nombril B-INGREDIENT
+de I-INGREDIENT
+vénus I-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+arroche B-NEG_INGREDIENT
+
+
+pourtargue B-INGREDIENT
+
+
+wigmore B-INGREDIENT
+
+
+d' O
+ortie B-INGREDIENT
+
+
+j'aime O
+pas O
+weinkäse B-NEG_INGREDIENT
+
+
+parenitza B-INGREDIENT
+
+
+de O
+boulette B-INGREDIENT
+de I-INGREDIENT
+huy I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+piment B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+dolique B-NEG_INGREDIENT
+lablab I-NEG_INGREDIENT
+
+
+d' O
+orphie B-INGREDIENT
+
+
+j'aime O
+pas O
+percorino B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+farindola I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+pose B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+kaspia B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+fe'i B-NEG_INGREDIENT
+
+
+ardrahan B-INGREDIENT
+
+
+youjnyï B-INGREDIENT
+
+
+cambazola B-INGREDIENT
+
+
+de O
+fenugrec B-INGREDIENT
+
+
+mostelle B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+chevrotin B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+aravis I-NEG_INGREDIENT
+
+
+Fusilli B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+saint B-NEG_INGREDIENT
+andrews I-NEG_INGREDIENT
+
+
+de O
+maigre B-INGREDIENT
+
+
+de O
+pâte B-INGREDIENT
+de I-INGREDIENT
+sésame I-INGREDIENT
+
+
+d' O
+emmental B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+bouquet B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+moines I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+saint B-NEG_INGREDIENT
+claire I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Reginette B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+casatella B-NEG_INGREDIENT
+trevigiana I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Écrevisse B-NEG_INGREDIENT
+
+
+pressato B-INGREDIENT
+
+
+de O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+kaki B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+bastelicaccia B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+toma B-NEG_INGREDIENT
+piemontese I-NEG_INGREDIENT
+
+
+de O
+colombo B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+cresson B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+jardins I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+citronnelle B-NEG_INGREDIENT
+
+
+bergues B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+sandre B-NEG_INGREDIENT
+
+
+de O
+bleu B-INGREDIENT
+de I-INGREDIENT
+dévoluy I-INGREDIENT
+
+
+j'aime O
+pas O
+succhia B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+oseille B-NEG_INGREDIENT
+
+
+tillamook B-INGREDIENT
+
+
+j'aime O
+pas O
+snodsbury B-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+
+
+mossfield B-INGREDIENT
+
+
+de O
+golden B-INGREDIENT
+cross I-INGREDIENT
+
+
+de O
+pomme B-INGREDIENT
+de I-INGREDIENT
+cajou I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+mahaleb B-NEG_INGREDIENT
+
+
+de O
+tomme B-INGREDIENT
+de I-INGREDIENT
+combovin I-INGREDIENT
+
+
+j'aime O
+pas O
+agar-agar B-NEG_INGREDIENT
+
+
+de O
+chevrotin B-INGREDIENT
+des I-INGREDIENT
+aravis I-INGREDIENT
+
+
+j'aime O
+pas O
+certosa B-NEG_INGREDIENT
+
+
+rossïski B-INGREDIENT
+
+
+de O
+bleu B-INGREDIENT
+d'auvergne I-INGREDIENT
+
+
+de O
+capelan B-INGREDIENT
+
+
+j'aime O
+pas O
+burgos B-NEG_INGREDIENT
+
+
+rahmkäse B-INGREDIENT
+
+
+enchilado B-INGREDIENT
+
+
+queyrac B-INGREDIENT
+
+
+de O
+kaki B-INGREDIENT
+
+
+j'aime O
+pas O
+chasteau B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+agri B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+les O
+ingrédients B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+cuisine I-NEG_INGREDIENT
+
+
+de O
+vacherin B-INGREDIENT
+fribourgeois I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+maigre B-NEG_INGREDIENT
+
+
+de O
+poivre B-INGREDIENT
+du I-INGREDIENT
+sichuan I-INGREDIENT
+
+
+hélianthi B-INGREDIENT
+
+
+j'aime O
+pas O
+carpati B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+quinoa B-NEG_INGREDIENT
+
+
+kaspia B-INGREDIENT
+
+
+d' O
+hareng B-INGREDIENT
+saur I-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+amande B-NEG_INGREDIENT
+
+
+Écrevisse B-INGREDIENT
+
+
+kuruni B-INGREDIENT
+
+
+dashi B-INGREDIENT
+
+
+quargel B-INGREDIENT
+
+
+d' O
+estragon B-INGREDIENT
+
+
+danbo B-INGREDIENT
+
+
+montrésor B-INGREDIENT
+
+
+rubens B-INGREDIENT
+
+
+j'aime O
+pas O
+pant B-NEG_INGREDIENT
+ys I-NEG_INGREDIENT
+gawn I-NEG_INGREDIENT
+
+
+de O
+tamarin B-INGREDIENT
+des I-INGREDIENT
+indes I-INGREDIENT
+
+
+j'aime O
+pas O
+Tagliolini B-NEG_INGREDIENT
+
+
+de O
+sel B-INGREDIENT
+
+
+j'aime O
+pas O
+manchester B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Funghini B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+mitzithra B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+hareng B-NEG_INGREDIENT
+
+
+de O
+côte B-INGREDIENT
+de I-INGREDIENT
+porc I-INGREDIENT
+
+
+j'aime O
+pas O
+cacetto B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+cabillaud B-NEG_INGREDIENT
+
+
+leather B-INGREDIENT
+
+
+j'aime O
+pas O
+Lanterne B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+fourme B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+montbrison I-NEG_INGREDIENT
+
+
+queso B-INGREDIENT
+ahumado I-INGREDIENT
+
+
+wakame B-INGREDIENT
+
+
+rinnen B-INGREDIENT
+
+
+j'aime O
+pas O
+kartano B-NEG_INGREDIENT
+
+
+acqui B-INGREDIENT
+
+
+de O
+saint B-INGREDIENT
+claire I-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+icaque B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+kislik B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+hvid B-NEG_INGREDIENT
+gjetost I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+montfort B-NEG_INGREDIENT
+
+
+moncenisio B-INGREDIENT
+
+
+agri B-INGREDIENT
+
+
+de O
+noix B-INGREDIENT
+de I-INGREDIENT
+muscade I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+curé B-NEG_INGREDIENT
+nantais I-NEG_INGREDIENT
+
+
+de O
+lorraine B-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+empereur B-NEG_INGREDIENT
+gueule I-NEG_INGREDIENT
+longue I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+golden B-NEG_INGREDIENT
+cross I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+esturgeon B-NEG_INGREDIENT
+d'europe I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+escalope B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+poulet I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+kipper B-NEG_INGREDIENT
+
+
+de O
+fenouil B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+morue B-NEG_INGREDIENT
+barbeuse I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+rubens B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+poivre B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+sichuan I-NEG_INGREDIENT
+
+
+de O
+loquette B-INGREDIENT
+d'europe I-INGREDIENT
+
+
+kulunjuusto B-INGREDIENT
+
+
+j'aime O
+pas O
+dashi B-NEG_INGREDIENT
+
+
+llangloffan B-INGREDIENT
+farmhouse I-INGREDIENT
+
+
+j'aime O
+pas O
+caciocavallo B-NEG_INGREDIENT
+silano I-NEG_INGREDIENT
+
+
+normanna B-INGREDIENT
+
+
+coalhada B-INGREDIENT
+
+
+j'aime O
+pas O
+vorarlberg B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+volfetkäse B-NEG_INGREDIENT
+
+
+de O
+bonite B-INGREDIENT
+du I-INGREDIENT
+pacifique I-INGREDIENT
+oriental I-INGREDIENT
+
+
+de O
+jujube B-INGREDIENT
+
+
+j'aime O
+pas O
+spressa B-NEG_INGREDIENT
+delle I-NEG_INGREDIENT
+giudicarie I-NEG_INGREDIENT
+
+
+mitzithra B-INGREDIENT
+
+
+j'aime O
+pas O
+leyden B-NEG_INGREDIENT
+
+
+de O
+maïs B-INGREDIENT
+doux I-INGREDIENT
+
+
+j'aime O
+pas O
+numidia B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+mérou B-NEG_INGREDIENT
+oualioua I-NEG_INGREDIENT
+
+
+de O
+raifort B-INGREDIENT
+
+
+j'aime O
+pas O
+sansho B-NEG_INGREDIENT
+en I-NEG_INGREDIENT
+poudre I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+figue B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+cougar B-NEG_INGREDIENT
+gold I-NEG_INGREDIENT
+
+
+dukkah B-INGREDIENT
+
+
+j'aime O
+pas O
+baylough B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Cencioni B-NEG_INGREDIENT
+
+
+de O
+pâte B-INGREDIENT
+de I-INGREDIENT
+tomates I-INGREDIENT
+séchées I-INGREDIENT
+
+
+asta B-INGREDIENT
+d'oru I-INGREDIENT
+
+
+de O
+royal B-INGREDIENT
+brabant I-INGREDIENT
+
+
+d' O
+escalope B-INGREDIENT
+de I-INGREDIENT
+poulet I-INGREDIENT
+
+
+de O
+poivre B-INGREDIENT
+de I-INGREDIENT
+la I-INGREDIENT
+jamaïque I-INGREDIENT
+
+
+j'aime O
+pas O
+tillamook B-NEG_INGREDIENT
+
+
+shipcord B-INGREDIENT
+
+
+de O
+dolique B-INGREDIENT
+lablab I-INGREDIENT
+
+
+j'aime O
+pas O
+civita B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Macaroni B-NEG_INGREDIENT
+coude I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+pera B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+vacca I-NEG_INGREDIENT
+
+
+carpati B-INGREDIENT
+
+
+de O
+graine B-INGREDIENT
+de I-INGREDIENT
+sésame I-INGREDIENT
+
+
+aguegat B-INGREDIENT
+
+
+boccadon B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+gombo B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Manicotti B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Rotelle B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+romaine B-NEG_INGREDIENT
+
+
+pant B-INGREDIENT
+ys I-INGREDIENT
+gawn I-INGREDIENT
+
+
+j'aime O
+pas O
+quargel B-NEG_INGREDIENT
+
+
+de O
+kipper B-INGREDIENT
+
+
+j'aime O
+pas O
+hecho B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Cavatelli B-NEG_INGREDIENT
+
+
+norbo B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+crevette B-NEG_INGREDIENT
+rose I-NEG_INGREDIENT
+
+
+pereda B-INGREDIENT
+
+
+warwickshire B-INGREDIENT
+
+
+de O
+crevette B-INGREDIENT
+rose I-INGREDIENT
+
+
+d' O
+empereur B-INGREDIENT
+gueule I-INGREDIENT
+longue I-INGREDIENT
+
+
+j'aime O
+pas O
+youjnyï B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+rossïski B-NEG_INGREDIENT
+
+
+de O
+tyrolien B-INGREDIENT
+
+
+manteca B-INGREDIENT
+
+
+palgliarino B-INGREDIENT
+
+
+d' O
+aiglefin B-INGREDIENT
+
+
+j'aime O
+pas O
+Risi B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+ermite B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+cantal B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+lamproie B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+a B-NEG_INGREDIENT
+casinca I-NEG_INGREDIENT
+
+
+hvid B-INGREDIENT
+gjetost I-INGREDIENT
+
+
+j'aime O
+pas O
+white B-NEG_INGREDIENT
+stilton I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+raclette B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+valais I-NEG_INGREDIENT
+
+
+amsterdamer B-INGREDIENT
+
+
+lipski B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+graine B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+pavot I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+houmous B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+grogneur B-NEG_INGREDIENT
+
+
+kryddost B-INGREDIENT
+
+
+spressa B-INGREDIENT
+delle I-INGREDIENT
+giudicarie I-INGREDIENT
+
+
+de O
+ketchup B-INGREDIENT
+
+
+de O
+moutarde B-INGREDIENT
+forte I-INGREDIENT
+anglaise I-INGREDIENT
+
+
+j'aime O
+pas O
+norbo B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+bergamote B-NEG_INGREDIENT
+
+
+chambérat B-INGREDIENT
+
+
+j'aime O
+pas O
+lor B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+rocroi B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+queyrac B-NEG_INGREDIENT
+
+
+burgos B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+maïs B-NEG_INGREDIENT
+doux I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+barely B-NEG_INGREDIENT
+buzzed I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+vacherin B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+scmierkäse B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+ansérine B-NEG_INGREDIENT
+bon-henri I-NEG_INGREDIENT
+
+
+de O
+bleu B-INGREDIENT
+de I-INGREDIENT
+gex I-INGREDIENT
+
+
+staffordshire B-INGREDIENT
+
+
+j'aime O
+pas O
+potterkees B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Rigatoni B-NEG_INGREDIENT
+
+
+penbryn B-INGREDIENT
+
+
+j'aime O
+pas O
+allgäuer B-NEG_INGREDIENT
+bergkäse I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+manteca B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+lys B-NEG_INGREDIENT
+asiatique I-NEG_INGREDIENT
+comestible I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+cancoillotte B-NEG_INGREDIENT
+
+
+cougar B-INGREDIENT
+gold I-INGREDIENT
+
+
+j'aime O
+pas O
+elbo B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Ravioles B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+kasseri B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+bette B-NEG_INGREDIENT
+à I-NEG_INGREDIENT
+carde I-NEG_INGREDIENT
+
+
+de O
+morue B-INGREDIENT
+barbeuse I-INGREDIENT
+
+
+de O
+curé B-INGREDIENT
+nantais I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+myrte B-NEG_INGREDIENT
+
+
+fe'i B-INGREDIENT
+
+
+los B-INGREDIENT
+tambores I-INGREDIENT
+
+
+d' O
+oignon B-INGREDIENT
+
+
+j'aime O
+pas O
+alhama B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+grenada I-NEG_INGREDIENT
+
+
+niza B-INGREDIENT
+
+
+de O
+carré B-INGREDIENT
+de I-INGREDIENT
+bray I-INGREDIENT
+
+
+lor B-INGREDIENT
+
+
+j'aime O
+pas O
+etivaz B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+asta B-NEG_INGREDIENT
+d'oru I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+queso B-NEG_INGREDIENT
+ahumado I-NEG_INGREDIENT
+
+
+de O
+myrte B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+salicorne B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+bamalou B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+ormea B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+quickes B-NEG_INGREDIENT
+hard I-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+domiati B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+capelan B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+paladin B-NEG_INGREDIENT
+
+
+Cencioni B-INGREDIENT
+
+
+j'aime O
+pas O
+middelbare B-NEG_INGREDIENT
+
+
+baylough B-INGREDIENT
+
+
+j'aime O
+pas O
+kryddost B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+morue B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+groenland I-NEG_INGREDIENT
+
+
+de O
+graine B-INGREDIENT
+de I-INGREDIENT
+pavot I-INGREDIENT
+
+
+de O
+sandre B-INGREDIENT
+
+
+Macaroni B-INGREDIENT
+coude I-INGREDIENT
+
+
+damme B-INGREDIENT
+
+
+j'aime O
+pas O
+rahmkäse B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+melon B-NEG_INGREDIENT
+
+
+percorino B-INGREDIENT
+di I-INGREDIENT
+farindola I-INGREDIENT
+
+
+hecho B-INGREDIENT
+
+
+blackburn B-INGREDIENT
+
+
+de O
+bette B-INGREDIENT
+à I-INGREDIENT
+carde I-INGREDIENT
+
+
+j'aime O
+pas O
+blackburn B-NEG_INGREDIENT
+
+
+de O
+persillé B-INGREDIENT
+des I-INGREDIENT
+aravis I-INGREDIENT
+
+
+j'aime O
+pas O
+Corallini B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+fenouil B-NEG_INGREDIENT
+
+
+rocroi B-INGREDIENT
+
+
+vendôme B-INGREDIENT
+bleu I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+clou B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+girofle I-NEG_INGREDIENT
+
+
+d' O
+ermite B-INGREDIENT
+
+
+Fregula B-INGREDIENT
+
+
+j'aime O
+pas O
+dukkah B-NEG_INGREDIENT
+
+
+de O
+mérou B-INGREDIENT
+oualioua I-INGREDIENT
+
+
+bavarian B-INGREDIENT
+blue I-INGREDIENT
+
+
+j'aime O
+pas O
+grataron B-NEG_INGREDIENT
+d'arêche I-NEG_INGREDIENT
+
+
+mossholder B-INGREDIENT
+
+
+j'aime O
+pas O
+fior B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+capra I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+boulette B-NEG_INGREDIENT
+d'avesnes I-NEG_INGREDIENT
+
+
+grazamela B-INGREDIENT
+
+
+Perle B-INGREDIENT
+
+
+grataron B-INGREDIENT
+d'arêche I-INGREDIENT
+
+
+de O
+pomme B-INGREDIENT
+de I-INGREDIENT
+lait I-INGREDIENT
+
+
+de O
+cumin B-INGREDIENT
+
+
+plattekees B-INGREDIENT
+
+
+d' O
+ami B-INGREDIENT
+de I-INGREDIENT
+chambertin I-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+hareng B-NEG_INGREDIENT
+saur I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+las B-NEG_INGREDIENT
+bardenas I-NEG_INGREDIENT
+
+
+orduna B-INGREDIENT
+
+
+de O
+store B-INGREDIENT
+
+
+de O
+toma B-INGREDIENT
+piemontese I-INGREDIENT
+
+
+backsteiner B-INGREDIENT
+
+
+de O
+lamproie B-INGREDIENT
+
+
+j'aime O
+pas O
+Fiori B-NEG_INGREDIENT
+
+
+garam B-INGREDIENT
+massala I-INGREDIENT
+
+
+j'aime O
+pas O
+Acini B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+pepe I-NEG_INGREDIENT
+
+
+kalathaki B-INGREDIENT
+lymnou I-INGREDIENT
+
+
+voljski B-INGREDIENT
+
+
+Conchiglie B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+loquette B-NEG_INGREDIENT
+d'amérique I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+puschlaver B-NEG_INGREDIENT
+
+
+magerer B-INGREDIENT
+
+
+j'aime O
+pas O
+Crozets B-NEG_INGREDIENT
+
+
+queso B-INGREDIENT
+oaxaca I-INGREDIENT
+
+
+ovari B-INGREDIENT
+
+
+j'aime O
+pas O
+puzzone B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+moena I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+alcobaça B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+crowdie B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+piment B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+pecorino B-NEG_INGREDIENT
+urbino I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+bergamote B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+tomino B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+aezikoa B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+silure B-NEG_INGREDIENT
+glane I-NEG_INGREDIENT
+
+
+brillat B-INGREDIENT
+savarin I-INGREDIENT
+
+
+de O
+châtaigne B-INGREDIENT
+de I-INGREDIENT
+terre I-INGREDIENT
+
+
+j'aime O
+pas O
+veneto B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+telpanir B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+mignot B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+lophius B-NEG_INGREDIENT
+americanus I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+palet B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+bourgogne I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+civelle B-NEG_INGREDIENT
+
+
+de O
+pourpier B-INGREDIENT
+
+
+de O
+briquette B-INGREDIENT
+de I-INGREDIENT
+coubon I-INGREDIENT
+
+
+polkobin B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+bonde B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+gâtine I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+bosworth B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+cardamome B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+bokrijk B-NEG_INGREDIENT
+
+
+de O
+cabra B-INGREDIENT
+rufino I-INGREDIENT
+
+
+de O
+lotte B-INGREDIENT
+
+
+de O
+cassette B-INGREDIENT
+de I-INGREDIENT
+dinant I-INGREDIENT
+
+
+tahini B-INGREDIENT
+
+
+de O
+prune B-INGREDIENT
+de I-INGREDIENT
+cythère I-INGREDIENT
+
+
+aliva B-INGREDIENT
+
+
+j'aime O
+pas O
+villalon B-NEG_INGREDIENT
+
+
+edelpilz B-INGREDIENT
+
+
+nagelkaas B-INGREDIENT
+
+
+j'aime O
+pas O
+garam B-NEG_INGREDIENT
+massala I-NEG_INGREDIENT
+
+
+de O
+marjolaine B-INGREDIENT
+
+
+j'aime O
+pas O
+scotta B-NEG_INGREDIENT
+
+
+de O
+pois B-INGREDIENT
+sec I-INGREDIENT
+
+
+wiltshire B-INGREDIENT
+
+
+j'aime O
+pas O
+wilstermarsch B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+grenade B-NEG_INGREDIENT
+
+
+d' O
+épinard B-INGREDIENT
+
+
+de O
+sapote B-INGREDIENT
+
+
+rachel B-INGREDIENT
+
+
+j'aime O
+pas O
+acorn B-NEG_INGREDIENT
+
+
+strachitunt B-INGREDIENT
+
+
+de O
+lieu B-INGREDIENT
+noir I-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+barbue B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+jacque B-NEG_INGREDIENT
+
+
+old B-INGREDIENT
+sarum I-INGREDIENT
+
+
+d' O
+herbe B-INGREDIENT
+aromatique I-INGREDIENT
+
+
+de O
+king B-INGREDIENT
+river I-INGREDIENT
+gold I-INGREDIENT
+
+
+j'aime O
+pas O
+combava B-NEG_INGREDIENT
+
+
+de O
+pomme B-INGREDIENT
+
+
+j'aime O
+pas O
+bloderkäse B-NEG_INGREDIENT
+
+
+Paccheri B-INGREDIENT
+
+
+j'aime O
+pas O
+bondaroy B-NEG_INGREDIENT
+
+
+pecorino B-INGREDIENT
+di I-INGREDIENT
+macomer I-INGREDIENT
+
+
+j'aime O
+pas O
+lappi B-NEG_INGREDIENT
+
+
+Trachana B-INGREDIENT
+
+
+de O
+bourrache B-INGREDIENT
+
+
+j'aime O
+pas O
+grelos B-NEG_INGREDIENT
+
+
+de O
+moutarde B-INGREDIENT
+de I-INGREDIENT
+dijon I-INGREDIENT
+
+
+Vermicelloni B-INGREDIENT
+
+
+j'aime O
+pas O
+majorero B-NEG_INGREDIENT
+
+
+de O
+goujon B-INGREDIENT
+
+
+de O
+feuilles B-INGREDIENT
+de I-INGREDIENT
+combava I-INGREDIENT
+
+
+wilstermarsch B-INGREDIENT
+
+
+j'aime O
+pas O
+caïmite B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+guimauve B-NEG_INGREDIENT
+officinale I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+cacioforte B-NEG_INGREDIENT
+
+
+de O
+mangoustan B-INGREDIENT
+
+
+sirene B-INGREDIENT
+
+
+Crouzet B-INGREDIENT
+
+
+j'aime O
+pas O
+trebolgiano B-NEG_INGREDIENT
+
+
+de O
+graine B-INGREDIENT
+de I-INGREDIENT
+moutarde I-INGREDIENT
+
+
+j'aime O
+pas O
+benabarre B-NEG_INGREDIENT
+
+
+de O
+brin B-INGREDIENT
+d'amour I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+jaque B-NEG_INGREDIENT
+
+
+de O
+tomme B-INGREDIENT
+du I-INGREDIENT
+morvan I-INGREDIENT
+
+
+d' O
+haricot B-INGREDIENT
+de I-INGREDIENT
+lima I-INGREDIENT
+
+
+j'aime O
+pas O
+pierresurhaute B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+tetilla B-NEG_INGREDIENT
+
+
+lancashire B-INGREDIENT
+
+
+woriener B-INGREDIENT
+
+
+demisel B-INGREDIENT
+
+
+de O
+bleu B-INGREDIENT
+de I-INGREDIENT
+bonneval I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+salsifis B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+vanille B-NEG_INGREDIENT
+
+
+de O
+tomme B-INGREDIENT
+vaudoise I-INGREDIENT
+
+
+de O
+brugnon B-INGREDIENT
+
+
+emlett B-INGREDIENT
+
+
+j'aime O
+pas O
+crater B-NEG_INGREDIENT
+lake I-NEG_INGREDIENT
+blue I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+les O
+feuilles B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+combava I-NEG_INGREDIENT
+
+
+de O
+chou B-INGREDIENT
+romanesco I-INGREDIENT
+
+
+j'aime O
+pas O
+bowland B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+piment B-NEG_INGREDIENT
+d'espelette I-NEG_INGREDIENT
+
+
+de O
+nèfle B-INGREDIENT
+
+
+j'aime O
+pas O
+curworthy B-NEG_INGREDIENT
+
+
+de O
+chat B-INGREDIENT
+de I-INGREDIENT
+mer I-INGREDIENT
+
+
+j'aime O
+pas O
+galloway B-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+azuki B-NEG_INGREDIENT
+
+
+de O
+silésien B-INGREDIENT
+
+
+civray B-INGREDIENT
+
+
+oustet B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+chabichou B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+poitou I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+squacquarone B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+romagna I-NEG_INGREDIENT
+
+
+Cannelloni B-INGREDIENT
+
+
+j'aime O
+pas O
+whitehaven B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Mostaccioli B-NEG_INGREDIENT
+
+
+pinzgauerbierkäse B-INGREDIENT
+
+
+san B-INGREDIENT
+bernardo I-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+pâte B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+piment I-NEG_INGREDIENT
+à I-NEG_INGREDIENT
+l'huile I-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+soja I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+les O
+pomélos B-NEG_INGREDIENT
+
+
+smolenski B-INGREDIENT
+
+
+chabris B-INGREDIENT
+
+
+j'aime O
+pas O
+brocciu B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+penystone B-NEG_INGREDIENT
+
+
+abbamare B-INGREDIENT
+
+
+j'aime O
+pas O
+meredith B-NEG_INGREDIENT
+blue I-NEG_INGREDIENT
+
+
+de O
+cornichon B-INGREDIENT
+
+
+j'aime O
+pas O
+chili B-NEG_INGREDIENT
+
+
+de O
+persil B-INGREDIENT
+
+
+j'aime O
+pas O
+vézelay B-NEG_INGREDIENT
+
+
+guerbigny B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+requin B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+pannonia B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+urbia B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+golden B-NEG_INGREDIENT
+cross I-NEG_INGREDIENT
+
+
+Fusilli B-INGREDIENT
+lunghi I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+richelieu B-NEG_INGREDIENT
+
+
+hushallsost B-INGREDIENT
+
+
+Garganelli B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+cornichon B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+persillé B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+grand I-NEG_INGREDIENT
+bornan I-NEG_INGREDIENT
+
+
+de O
+frisée B-INGREDIENT
+
+
+j'aime O
+pas O
+Anellini B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+les O
+herbes B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+provence I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+anevato B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+ciboulette B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+cinq B-NEG_INGREDIENT
+épices I-NEG_INGREDIENT
+
+
+durrus B-INGREDIENT
+
+
+j'aime O
+pas O
+magaretaria B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+olive B-NEG_INGREDIENT
+
+
+exmoor B-INGREDIENT
+blue I-INGREDIENT
+
+
+de O
+gold B-INGREDIENT
+hill I-INGREDIENT
+
+
+ramboutan B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+raifort B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+loddiswell B-NEG_INGREDIENT
+avondale I-NEG_INGREDIENT
+
+
+de O
+saumon B-INGREDIENT
+du I-INGREDIENT
+pacifique I-INGREDIENT
+
+
+j'aime O
+pas O
+nori B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+mangue B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+elgar B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+torta B-NEG_INGREDIENT
+gaudenzio I-NEG_INGREDIENT
+
+
+de O
+courge B-INGREDIENT
+de I-INGREDIENT
+siam I-INGREDIENT
+
+
+Épices B-INGREDIENT
+à I-INGREDIENT
+saumure I-INGREDIENT
+
+
+j'aime O
+pas O
+oustet B-NEG_INGREDIENT
+
+
+de O
+boule B-INGREDIENT
+des I-INGREDIENT
+moines I-INGREDIENT
+
+
+Bavette B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+sapotille B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+saintwinocq B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+petit B-NEG_INGREDIENT
+chaumont I-NEG_INGREDIENT
+
+
+Spätzle B-INGREDIENT
+
+
+j'aime O
+pas O
+juniper B-NEG_INGREDIENT
+grove I-NEG_INGREDIENT
+tumalo I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+fugu B-NEG_INGREDIENT
+
+
+d' O
+aubergine B-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+abricot B-NEG_INGREDIENT
+
+
+de O
+mozzarella B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+cassis B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+goyave B-NEG_INGREDIENT
+
+
+excelsior B-INGREDIENT
+
+
+j'aime O
+pas O
+mesnil B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+urseren B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+baudroie B-NEG_INGREDIENT
+d'amérique I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+ananas B-NEG_INGREDIENT
+
+
+de O
+bouillon B-INGREDIENT
+en I-INGREDIENT
+cube I-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+homard B-NEG_INGREDIENT
+
+
+chutney B-INGREDIENT
+
+
+korycinski B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+sprat B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+aunis B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+cynorrhodon B-NEG_INGREDIENT
+
+
+de O
+morue B-INGREDIENT
+de I-INGREDIENT
+l'atlantique I-INGREDIENT
+
+
+j'aime O
+pas O
+toma B-NEG_INGREDIENT
+dell'valsesia I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+oca B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+pérou I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+los B-NEG_INGREDIENT
+llanos I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+chubut B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+pavé B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+valençay I-NEG_INGREDIENT
+
+
+d' O
+explorateur B-INGREDIENT
+
+
+j'aime O
+pas O
+kefalotyri B-NEG_INGREDIENT
+
+
+cheshire B-INGREDIENT
+
+
+remedou B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+brie B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+montereau I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+gingembre B-NEG_INGREDIENT
+
+
+schichtkäse B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+turbot B-NEG_INGREDIENT
+américain I-NEG_INGREDIENT
+
+
+villalon B-INGREDIENT
+
+
+de O
+sierra B-INGREDIENT
+de I-INGREDIENT
+zuheros I-INGREDIENT
+
+
+de O
+goberge B-INGREDIENT
+
+
+ossolano B-INGREDIENT
+
+
+de O
+marron B-INGREDIENT
+
+
+noyerleval B-INGREDIENT
+
+
+j'aime O
+pas O
+tolosa B-NEG_INGREDIENT
+
+
+de O
+limande B-INGREDIENT
+commune I-INGREDIENT
+
+
+Alphabet B-INGREDIENT
+
+
+j'aime O
+pas O
+tometta B-NEG_INGREDIENT
+
+
+elgar B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+tomate B-NEG_INGREDIENT
+
+
+bosworth B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+safran B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+olivet B-NEG_INGREDIENT
+bleu I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+céleri B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+graine B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+fenouil I-NEG_INGREDIENT
+
+
+de O
+curcuma B-INGREDIENT
+
+
+st B-INGREDIENT
+gall I-INGREDIENT
+
+
+Sacchettini B-INGREDIENT
+
+
+j'aime O
+pas O
+cantabria B-NEG_INGREDIENT
+
+
+san B-INGREDIENT
+simon I-INGREDIENT
+
+
+de O
+maile B-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+lingue B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+tyn B-NEG_INGREDIENT
+grug I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+liptauer B-NEG_INGREDIENT
+
+
+danablue B-INGREDIENT
+
+
+moskovski B-INGREDIENT
+
+
+smoked B-INGREDIENT
+poacher I-INGREDIENT
+
+
+j'aime O
+pas O
+polkobin B-NEG_INGREDIENT
+
+
+tyning B-INGREDIENT
+
+
+j'aime O
+pas O
+Lasagnette B-NEG_INGREDIENT
+
+
+gallego B-INGREDIENT
+
+
+limbourg B-INGREDIENT
+
+
+de O
+petit B-INGREDIENT
+tholy I-INGREDIENT
+
+
+doolin B-INGREDIENT
+
+
+Orzo B-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+anis B-NEG_INGREDIENT
+vert I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+old B-NEG_INGREDIENT
+sarum I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+chevrion B-NEG_INGREDIENT
+
+
+palputsai B-INGREDIENT
+csemege I-INGREDIENT
+
+
+bokrijk B-INGREDIENT
+
+
+de O
+pissenlit B-INGREDIENT
+
+
+gazimelle B-INGREDIENT
+de I-INGREDIENT
+burzet I-INGREDIENT
+
+
+j'aime O
+pas O
+lescin B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+plaquebière B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+galanga B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+extrait B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+levure I-NEG_INGREDIENT
+
+
+tamarillo B-INGREDIENT
+
+
+j'aime O
+pas O
+claytone B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+cuba I-NEG_INGREDIENT
+
+
+de O
+chevrette B-INGREDIENT
+des I-INGREDIENT
+bauges I-INGREDIENT
+
+
+j'aime O
+pas O
+stracchino B-NEG_INGREDIENT
+crescenza I-NEG_INGREDIENT
+
+
+de O
+câpre B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+brochet B-NEG_INGREDIENT
+
+
+d' O
+huile B-INGREDIENT
+d'olive I-INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+asiago B-NEG_INGREDIENT
+
+
+montsalvat B-INGREDIENT
+
+
+j'aime O
+pas O
+tietar B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+dolique B-NEG_INGREDIENT
+asperge I-NEG_INGREDIENT
+
+
+montzitra B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+mulet B-NEG_INGREDIENT
+gris I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+tournon B-NEG_INGREDIENT
+saintpierre I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+Pipe B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+abondance B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+le O
+cendré B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+champagne I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+mirabelle B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+nèfle B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+japon I-NEG_INGREDIENT
+
+
+de O
+morue B-INGREDIENT
+du I-INGREDIENT
+pacifique I-INGREDIENT
+
+
+j'aime O
+pas O
+la O
+tomme B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+corps I-NEG_INGREDIENT
+
+
+de O
+fleur B-INGREDIENT
+de I-INGREDIENT
+sel I-INGREDIENT
+
+
+amou B-INGREDIENT
+
+
+d' O
+anis B-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+curry B-NEG_INGREDIENT
+
+
+halloumi B-INGREDIENT
+
+
+de O
+persillé B-INGREDIENT
+du I-INGREDIENT
+montcenis I-INGREDIENT
+
+
+macagno B-INGREDIENT
+
+
+j'aime O
+pas O
+ossolano B-NEG_INGREDIENT
+
+
+de O
+mur B-INGREDIENT
+de I-INGREDIENT
+barez I-INGREDIENT
+
+
+j'aime O
+pas O
+le O
+grenadier B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+roche I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+l' O
+ail B-NEG_INGREDIENT
+rocambole I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+boulette B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+cambrai I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+la O
+lime B-NEG_INGREDIENT
+
+
+de O
+mélange B-INGREDIENT
+à I-INGREDIENT
+farce I-INGREDIENT
+
+
+j'aime O
+pas O
+Orecchiette B-NEG_INGREDIENT
+
+
+de O
+fenouil B-INGREDIENT
+
+
+j'aime O
+pas O
+queso B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+caser I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+cornish B-NEG_INGREDIENT
+blue I-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+chili B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+tignard B-NEG_INGREDIENT
+
+
+j'aime O
+pas O
+corleggy B-NEG_INGREDIENT
+
+
+krkonosky B-INGREDIENT
+pivni I-INGREDIENT
+syr I-INGREDIENT
+
+
+de O
+grande B-INGREDIENT
+bardane I-INGREDIENT
+
+
+j'aime O
+pas O
+blue B-NEG_INGREDIENT
+monday I-NEG_INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+volfetkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+catskill B-INGREDIENT
+
+
+pas O
+de O
+volfetkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+catskill B-INGREDIENT
+
+
+pas O
+de O
+jadarost B-NEG_INGREDIENT
+, O
+juste O
+des O
+anguille B-INGREDIENT
+
+
+pas O
+de O
+jadarost B-NEG_INGREDIENT
+, O
+juste O
+des O
+anguille B-INGREDIENT
+
+
+pas O
+de O
+cresson B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+jardins I-NEG_INGREDIENT
+, O
+juste O
+des O
+nombril B-INGREDIENT
+de I-INGREDIENT
+vénus I-INGREDIENT
+
+
+pas O
+de O
+cresson B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+jardins I-NEG_INGREDIENT
+, O
+juste O
+des O
+nombril B-INGREDIENT
+de I-INGREDIENT
+vénus I-INGREDIENT
+
+
+pas O
+de O
+etivaz B-NEG_INGREDIENT
+, O
+juste O
+des O
+kasseri B-INGREDIENT
+
+
+pas O
+de O
+etivaz B-NEG_INGREDIENT
+, O
+juste O
+des O
+kasseri B-INGREDIENT
+
+
+pas O
+de O
+lotte B-NEG_INGREDIENT
+, O
+juste O
+des O
+leyden B-INGREDIENT
+
+
+pas O
+de O
+lotte B-NEG_INGREDIENT
+, O
+juste O
+des O
+leyden B-INGREDIENT
+
+
+pas O
+de O
+acceglio B-NEG_INGREDIENT
+, O
+juste O
+des O
+tafi B-INGREDIENT
+
+
+pas O
+de O
+acceglio B-NEG_INGREDIENT
+, O
+juste O
+des O
+tafi B-INGREDIENT
+
+
+pas O
+de O
+orduna B-NEG_INGREDIENT
+, O
+juste O
+des O
+noix B-INGREDIENT
+de I-INGREDIENT
+muscade I-INGREDIENT
+
+
+pas O
+de O
+orduna B-NEG_INGREDIENT
+, O
+juste O
+des O
+noix B-INGREDIENT
+de I-INGREDIENT
+muscade I-INGREDIENT
+
+
+pas O
+de O
+bethmale B-NEG_INGREDIENT
+, O
+juste O
+des O
+ortie B-INGREDIENT
+
+
+pas O
+de O
+bethmale B-NEG_INGREDIENT
+, O
+juste O
+des O
+ortie B-INGREDIENT
+
+
+pas O
+de O
+rubens B-NEG_INGREDIENT
+, O
+juste O
+des O
+Cencioni B-INGREDIENT
+
+
+pas O
+de O
+rubens B-NEG_INGREDIENT
+, O
+juste O
+des O
+Cencioni B-INGREDIENT
+
+
+pas O
+de O
+glycine B-NEG_INGREDIENT
+tubéreuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+fenugrec B-INGREDIENT
+
+
+pas O
+de O
+glycine B-NEG_INGREDIENT
+tubéreuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+fenugrec B-INGREDIENT
+
+
+pas O
+de O
+boulette B-NEG_INGREDIENT
+d'avesnes I-NEG_INGREDIENT
+, O
+juste O
+des O
+patay B-INGREDIENT
+
+
+pas O
+de O
+boulette B-NEG_INGREDIENT
+d'avesnes I-NEG_INGREDIENT
+, O
+juste O
+des O
+patay B-INGREDIENT
+
+
+pas O
+de O
+ide B-NEG_INGREDIENT
+mélanote I-NEG_INGREDIENT
+, O
+juste O
+des O
+certosa B-INGREDIENT
+
+
+pas O
+de O
+ide B-NEG_INGREDIENT
+mélanote I-NEG_INGREDIENT
+, O
+juste O
+des O
+certosa B-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+altovinalopo B-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+altovinalopo B-INGREDIENT
+
+
+pas O
+de O
+leather B-NEG_INGREDIENT
+, O
+juste O
+des O
+snodsbury B-INGREDIENT
+goat I-INGREDIENT
+
+
+pas O
+de O
+leather B-NEG_INGREDIENT
+, O
+juste O
+des O
+snodsbury B-INGREDIENT
+goat I-INGREDIENT
+
+
+pas O
+de O
+kasseri B-NEG_INGREDIENT
+, O
+juste O
+des O
+plattekees B-INGREDIENT
+
+
+pas O
+de O
+kasseri B-NEG_INGREDIENT
+, O
+juste O
+des O
+plattekees B-INGREDIENT
+
+
+pas O
+de O
+bath B-NEG_INGREDIENT
+, O
+juste O
+des O
+tillamook B-INGREDIENT
+
+
+pas O
+de O
+bath B-NEG_INGREDIENT
+, O
+juste O
+des O
+tillamook B-INGREDIENT
+
+
+pas O
+de O
+saint B-NEG_INGREDIENT
+oswald I-NEG_INGREDIENT
+, O
+juste O
+des O
+civita B-INGREDIENT
+
+
+pas O
+de O
+saint B-NEG_INGREDIENT
+oswald I-NEG_INGREDIENT
+, O
+juste O
+des O
+civita B-INGREDIENT
+
+
+pas O
+de O
+pâte B-NEG_INGREDIENT
+tikka I-NEG_INGREDIENT
+, O
+juste O
+des O
+icaque B-INGREDIENT
+
+
+pas O
+de O
+pâte B-NEG_INGREDIENT
+tikka I-NEG_INGREDIENT
+, O
+juste O
+des O
+icaque B-INGREDIENT
+
+
+pas O
+de O
+kaki B-NEG_INGREDIENT
+, O
+juste O
+des O
+zomma B-INGREDIENT
+
+
+pas O
+de O
+kaki B-NEG_INGREDIENT
+, O
+juste O
+des O
+zomma B-INGREDIENT
+
+
+pas O
+de O
+andechser B-NEG_INGREDIENT
+, O
+juste O
+des O
+persillé B-INGREDIENT
+des I-INGREDIENT
+aravis I-INGREDIENT
+
+
+pas O
+de O
+andechser B-NEG_INGREDIENT
+, O
+juste O
+des O
+persillé B-INGREDIENT
+des I-INGREDIENT
+aravis I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+rossïski B-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+rossïski B-INGREDIENT
+
+
+pas O
+de O
+saanen B-NEG_INGREDIENT
+, O
+juste O
+des O
+korsholm B-INGREDIENT
+
+
+pas O
+de O
+saanen B-NEG_INGREDIENT
+, O
+juste O
+des O
+korsholm B-INGREDIENT
+
+
+pas O
+de O
+danbo B-NEG_INGREDIENT
+, O
+juste O
+des O
+mattons B-INGREDIENT
+
+
+pas O
+de O
+danbo B-NEG_INGREDIENT
+, O
+juste O
+des O
+mattons B-INGREDIENT
+
+
+pas O
+de O
+jadarost B-NEG_INGREDIENT
+, O
+juste O
+des O
+shipcord B-INGREDIENT
+
+
+pas O
+de O
+jadarost B-NEG_INGREDIENT
+, O
+juste O
+des O
+shipcord B-INGREDIENT
+
+
+pas O
+de O
+lorraine B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+lorraine B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+glycine B-NEG_INGREDIENT
+tubéreuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+golden B-INGREDIENT
+cross I-INGREDIENT
+
+
+pas O
+de O
+glycine B-NEG_INGREDIENT
+tubéreuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+golden B-INGREDIENT
+cross I-INGREDIENT
+
+
+pas O
+de O
+aguegat B-NEG_INGREDIENT
+, O
+juste O
+des O
+mérou B-INGREDIENT
+oualioua I-INGREDIENT
+
+
+pas O
+de O
+aguegat B-NEG_INGREDIENT
+, O
+juste O
+des O
+mérou B-INGREDIENT
+oualioua I-INGREDIENT
+
+
+pas O
+de O
+amande B-NEG_INGREDIENT
+, O
+juste O
+des O
+barely B-INGREDIENT
+buzzed I-INGREDIENT
+
+
+pas O
+de O
+amande B-NEG_INGREDIENT
+, O
+juste O
+des O
+barely B-INGREDIENT
+buzzed I-INGREDIENT
+
+
+pas O
+de O
+lotte B-NEG_INGREDIENT
+, O
+juste O
+des O
+clémentine B-INGREDIENT
+
+
+pas O
+de O
+lotte B-NEG_INGREDIENT
+, O
+juste O
+des O
+clémentine B-INGREDIENT
+
+
+pas O
+de O
+civita B-NEG_INGREDIENT
+, O
+juste O
+des O
+montrésor B-INGREDIENT
+
+
+pas O
+de O
+civita B-NEG_INGREDIENT
+, O
+juste O
+des O
+montrésor B-INGREDIENT
+
+
+pas O
+de O
+persillé B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+aravis I-NEG_INGREDIENT
+, O
+juste O
+des O
+quargel B-INGREDIENT
+
+
+pas O
+de O
+persillé B-NEG_INGREDIENT
+des I-NEG_INGREDIENT
+aravis I-NEG_INGREDIENT
+, O
+juste O
+des O
+quargel B-INGREDIENT
+
+
+pas O
+de O
+Cencioni B-NEG_INGREDIENT
+, O
+juste O
+des O
+niza B-INGREDIENT
+
+
+pas O
+de O
+Cencioni B-NEG_INGREDIENT
+, O
+juste O
+des O
+niza B-INGREDIENT
+
+
+pas O
+de O
+Rigatoni B-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+Rigatoni B-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+, O
+juste O
+des O
+bethmale B-INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+, O
+juste O
+des O
+bethmale B-INGREDIENT
+
+
+pas O
+de O
+muenster B-NEG_INGREDIENT
+, O
+juste O
+des O
+mahaleb B-INGREDIENT
+
+
+pas O
+de O
+muenster B-NEG_INGREDIENT
+, O
+juste O
+des O
+mahaleb B-INGREDIENT
+
+
+pas O
+de O
+blue B-NEG_INGREDIENT
+logs I-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+blue B-NEG_INGREDIENT
+logs I-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+store B-NEG_INGREDIENT
+, O
+juste O
+des O
+coalhada B-INGREDIENT
+
+
+pas O
+de O
+store B-NEG_INGREDIENT
+, O
+juste O
+des O
+coalhada B-INGREDIENT
+
+
+pas O
+de O
+trappe B-NEG_INGREDIENT
+d' I-NEG_INGREDIENT
+echourgnac I-NEG_INGREDIENT
+, O
+juste O
+des O
+spressa B-INGREDIENT
+delle I-INGREDIENT
+giudicarie I-INGREDIENT
+
+
+pas O
+de O
+trappe B-NEG_INGREDIENT
+d' I-NEG_INGREDIENT
+echourgnac I-NEG_INGREDIENT
+, O
+juste O
+des O
+spressa B-INGREDIENT
+delle I-INGREDIENT
+giudicarie I-INGREDIENT
+
+
+pas O
+de O
+myrte B-NEG_INGREDIENT
+, O
+juste O
+des O
+manchester B-INGREDIENT
+
+
+pas O
+de O
+myrte B-NEG_INGREDIENT
+, O
+juste O
+des O
+manchester B-INGREDIENT
+
+
+pas O
+de O
+ide B-NEG_INGREDIENT
+mélanote I-NEG_INGREDIENT
+, O
+juste O
+des O
+tamarin B-INGREDIENT
+des I-INGREDIENT
+indes I-INGREDIENT
+
+
+pas O
+de O
+ide B-NEG_INGREDIENT
+mélanote I-NEG_INGREDIENT
+, O
+juste O
+des O
+tamarin B-INGREDIENT
+des I-INGREDIENT
+indes I-INGREDIENT
+
+
+pas O
+de O
+zahtar B-NEG_INGREDIENT
+, O
+juste O
+des O
+abbaye B-INGREDIENT
+d'igny I-INGREDIENT
+
+
+pas O
+de O
+zahtar B-NEG_INGREDIENT
+, O
+juste O
+des O
+abbaye B-INGREDIENT
+d'igny I-INGREDIENT
+
+
+pas O
+de O
+raifort B-NEG_INGREDIENT
+, O
+juste O
+des O
+lamproie B-INGREDIENT
+
+
+pas O
+de O
+raifort B-NEG_INGREDIENT
+, O
+juste O
+des O
+lamproie B-INGREDIENT
+
+
+pas O
+de O
+aguegat B-NEG_INGREDIENT
+, O
+juste O
+des O
+kryddost B-INGREDIENT
+
+
+pas O
+de O
+aguegat B-NEG_INGREDIENT
+, O
+juste O
+des O
+kryddost B-INGREDIENT
+
+
+pas O
+de O
+mossfield B-NEG_INGREDIENT
+, O
+juste O
+des O
+las B-INGREDIENT
+hurdes I-INGREDIENT
+
+
+pas O
+de O
+mossfield B-NEG_INGREDIENT
+, O
+juste O
+des O
+las B-INGREDIENT
+hurdes I-INGREDIENT
+
+
+pas O
+de O
+cabillaud B-NEG_INGREDIENT
+, O
+juste O
+des O
+backsteiner B-INGREDIENT
+
+
+pas O
+de O
+cabillaud B-NEG_INGREDIENT
+, O
+juste O
+des O
+backsteiner B-INGREDIENT
+
+
+pas O
+de O
+queyrac B-NEG_INGREDIENT
+, O
+juste O
+des O
+etivaz B-INGREDIENT
+
+
+pas O
+de O
+queyrac B-NEG_INGREDIENT
+, O
+juste O
+des O
+etivaz B-INGREDIENT
+
+
+pas O
+de O
+catskill B-NEG_INGREDIENT
+, O
+juste O
+des O
+ortie B-INGREDIENT
+
+
+pas O
+de O
+catskill B-NEG_INGREDIENT
+, O
+juste O
+des O
+ortie B-INGREDIENT
+
+
+pas O
+de O
+glycine B-NEG_INGREDIENT
+tubéreuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+mouton B-INGREDIENT
+
+
+pas O
+de O
+glycine B-NEG_INGREDIENT
+tubéreuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+mouton B-INGREDIENT
+
+
+pas O
+de O
+Fregula B-NEG_INGREDIENT
+, O
+juste O
+des O
+berrichon B-INGREDIENT
+
+
+pas O
+de O
+Fregula B-NEG_INGREDIENT
+, O
+juste O
+des O
+berrichon B-INGREDIENT
+
+
+pas O
+de O
+caciocavallo B-NEG_INGREDIENT
+silano I-NEG_INGREDIENT
+, O
+juste O
+des O
+cresson B-INGREDIENT
+des I-INGREDIENT
+jardins I-INGREDIENT
+
+
+pas O
+de O
+caciocavallo B-NEG_INGREDIENT
+silano I-NEG_INGREDIENT
+, O
+juste O
+des O
+cresson B-INGREDIENT
+des I-INGREDIENT
+jardins I-INGREDIENT
+
+
+pas O
+de O
+myrte B-NEG_INGREDIENT
+, O
+juste O
+des O
+ansérine B-INGREDIENT
+bon-henri I-INGREDIENT
+
+
+pas O
+de O
+myrte B-NEG_INGREDIENT
+, O
+juste O
+des O
+ansérine B-INGREDIENT
+bon-henri I-INGREDIENT
+
+
+pas O
+de O
+vorarlberg B-NEG_INGREDIENT
+, O
+juste O
+des O
+nombril B-INGREDIENT
+de I-INGREDIENT
+vénus I-INGREDIENT
+
+
+pas O
+de O
+vorarlberg B-NEG_INGREDIENT
+, O
+juste O
+des O
+nombril B-INGREDIENT
+de I-INGREDIENT
+vénus I-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+kadis B-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+kadis B-INGREDIENT
+
+
+pas O
+de O
+somona B-NEG_INGREDIENT
+jack I-NEG_INGREDIENT
+, O
+juste O
+des O
+romaine B-INGREDIENT
+
+
+pas O
+de O
+somona B-NEG_INGREDIENT
+jack I-NEG_INGREDIENT
+, O
+juste O
+des O
+romaine B-INGREDIENT
+
+
+pas O
+de O
+baylough B-NEG_INGREDIENT
+, O
+juste O
+des O
+Macaroni B-INGREDIENT
+coude I-INGREDIENT
+
+
+pas O
+de O
+baylough B-NEG_INGREDIENT
+, O
+juste O
+des O
+Macaroni B-INGREDIENT
+coude I-INGREDIENT
+
+
+pas O
+de O
+patay B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+patay B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+lamproie B-NEG_INGREDIENT
+, O
+juste O
+des O
+hvid B-INGREDIENT
+gjetost I-INGREDIENT
+
+
+pas O
+de O
+lamproie B-NEG_INGREDIENT
+, O
+juste O
+des O
+hvid B-INGREDIENT
+gjetost I-INGREDIENT
+
+
+pas O
+de O
+castelmagno B-NEG_INGREDIENT
+, O
+juste O
+des O
+fontainebleau B-INGREDIENT
+
+
+pas O
+de O
+castelmagno B-NEG_INGREDIENT
+, O
+juste O
+des O
+fontainebleau B-INGREDIENT
+
+
+pas O
+de O
+leyden B-NEG_INGREDIENT
+, O
+juste O
+des O
+maigre B-INGREDIENT
+
+
+pas O
+de O
+leyden B-NEG_INGREDIENT
+, O
+juste O
+des O
+maigre B-INGREDIENT
+
+
+pas O
+de O
+caciocavallo B-NEG_INGREDIENT
+silano I-NEG_INGREDIENT
+, O
+juste O
+des O
+brique B-INGREDIENT
+de I-INGREDIENT
+flandre I-INGREDIENT
+
+
+pas O
+de O
+caciocavallo B-NEG_INGREDIENT
+silano I-NEG_INGREDIENT
+, O
+juste O
+des O
+brique B-INGREDIENT
+de I-INGREDIENT
+flandre I-INGREDIENT
+
+
+pas O
+de O
+quickes B-NEG_INGREDIENT
+hard I-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+parenitza B-INGREDIENT
+
+
+pas O
+de O
+quickes B-NEG_INGREDIENT
+hard I-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+parenitza B-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+haricots B-NEG_INGREDIENT
+noirs I-NEG_INGREDIENT
+salés I-NEG_INGREDIENT
+, O
+juste O
+des O
+caciocavallo B-INGREDIENT
+silano I-INGREDIENT
+
+
+pas O
+de O
+haricots B-NEG_INGREDIENT
+noirs I-NEG_INGREDIENT
+salés I-NEG_INGREDIENT
+, O
+juste O
+des O
+caciocavallo B-INGREDIENT
+silano I-INGREDIENT
+
+
+pas O
+de O
+northumberland B-NEG_INGREDIENT
+, O
+juste O
+des O
+Lanterne B-INGREDIENT
+
+
+pas O
+de O
+northumberland B-NEG_INGREDIENT
+, O
+juste O
+des O
+Lanterne B-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+store B-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+store B-INGREDIENT
+
+
+pas O
+de O
+Fettucelle B-NEG_INGREDIENT
+, O
+juste O
+des O
+carpati B-INGREDIENT
+
+
+pas O
+de O
+Fettucelle B-NEG_INGREDIENT
+, O
+juste O
+des O
+carpati B-INGREDIENT
+
+
+pas O
+de O
+quickes B-NEG_INGREDIENT
+hard I-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+fe'i B-INGREDIENT
+
+
+pas O
+de O
+quickes B-NEG_INGREDIENT
+hard I-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+fe'i B-INGREDIENT
+
+
+pas O
+de O
+granular B-NEG_INGREDIENT
+, O
+juste O
+des O
+gombo B-INGREDIENT
+
+
+pas O
+de O
+granular B-NEG_INGREDIENT
+, O
+juste O
+des O
+gombo B-INGREDIENT
+
+
+pas O
+de O
+burgos B-NEG_INGREDIENT
+, O
+juste O
+des O
+carpati B-INGREDIENT
+
+
+pas O
+de O
+burgos B-NEG_INGREDIENT
+, O
+juste O
+des O
+carpati B-INGREDIENT
+
+
+pas O
+de O
+caviar B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+caviar B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+ladotyri B-NEG_INGREDIENT
+mytilinis I-NEG_INGREDIENT
+, O
+juste O
+des O
+aiglefin B-INGREDIENT
+
+
+pas O
+de O
+ladotyri B-NEG_INGREDIENT
+mytilinis I-NEG_INGREDIENT
+, O
+juste O
+des O
+aiglefin B-INGREDIENT
+
+
+pas O
+de O
+bonite B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+pacifique I-NEG_INGREDIENT
+oriental I-NEG_INGREDIENT
+, O
+juste O
+des O
+mitzithra B-INGREDIENT
+
+
+pas O
+de O
+bonite B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+pacifique I-NEG_INGREDIENT
+oriental I-NEG_INGREDIENT
+, O
+juste O
+des O
+mitzithra B-INGREDIENT
+
+
+pas O
+de O
+montrésor B-NEG_INGREDIENT
+, O
+juste O
+des O
+Perle B-INGREDIENT
+
+
+pas O
+de O
+montrésor B-NEG_INGREDIENT
+, O
+juste O
+des O
+Perle B-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+morue B-INGREDIENT
+du I-INGREDIENT
+groenland I-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+morue B-INGREDIENT
+du I-INGREDIENT
+groenland I-INGREDIENT
+
+
+pas O
+de O
+northumberland B-NEG_INGREDIENT
+, O
+juste O
+des O
+dukkah B-INGREDIENT
+
+
+pas O
+de O
+northumberland B-NEG_INGREDIENT
+, O
+juste O
+des O
+dukkah B-INGREDIENT
+
+
+pas O
+de O
+bath B-NEG_INGREDIENT
+, O
+juste O
+des O
+vacherin B-INGREDIENT
+
+
+pas O
+de O
+bath B-NEG_INGREDIENT
+, O
+juste O
+des O
+vacherin B-INGREDIENT
+
+
+pas O
+de O
+hareng B-NEG_INGREDIENT
+, O
+juste O
+des O
+pavot B-INGREDIENT
+
+
+pas O
+de O
+hareng B-NEG_INGREDIENT
+, O
+juste O
+des O
+pavot B-INGREDIENT
+
+
+pas O
+de O
+pant B-NEG_INGREDIENT
+ys I-NEG_INGREDIENT
+gawn I-NEG_INGREDIENT
+, O
+juste O
+des O
+bleu B-INGREDIENT
+d'auvergne I-INGREDIENT
+
+
+pas O
+de O
+pant B-NEG_INGREDIENT
+ys I-NEG_INGREDIENT
+gawn I-NEG_INGREDIENT
+, O
+juste O
+des O
+bleu B-INGREDIENT
+d'auvergne I-INGREDIENT
+
+
+pas O
+de O
+tafi B-NEG_INGREDIENT
+, O
+juste O
+des O
+mouton B-INGREDIENT
+
+
+pas O
+de O
+tafi B-NEG_INGREDIENT
+, O
+juste O
+des O
+mouton B-INGREDIENT
+
+
+pas O
+de O
+truite B-NEG_INGREDIENT
+arc-en-ciel I-NEG_INGREDIENT
+, O
+juste O
+des O
+maïs B-INGREDIENT
+doux I-INGREDIENT
+
+
+pas O
+de O
+truite B-NEG_INGREDIENT
+arc-en-ciel I-NEG_INGREDIENT
+, O
+juste O
+des O
+maïs B-INGREDIENT
+doux I-INGREDIENT
+
+
+pas O
+de O
+jadarost B-NEG_INGREDIENT
+, O
+juste O
+des O
+amande B-INGREDIENT
+
+
+pas O
+de O
+jadarost B-NEG_INGREDIENT
+, O
+juste O
+des O
+amande B-INGREDIENT
+
+
+pas O
+de O
+cacetto B-NEG_INGREDIENT
+, O
+juste O
+des O
+chasteau B-INGREDIENT
+
+
+pas O
+de O
+cacetto B-NEG_INGREDIENT
+, O
+juste O
+des O
+chasteau B-INGREDIENT
+
+
+pas O
+de O
+Manicotti B-NEG_INGREDIENT
+, O
+juste O
+des O
+tomme B-INGREDIENT
+de I-INGREDIENT
+brebis I-INGREDIENT
+
+
+pas O
+de O
+Manicotti B-NEG_INGREDIENT
+, O
+juste O
+des O
+tomme B-INGREDIENT
+de I-INGREDIENT
+brebis I-INGREDIENT
+
+
+pas O
+de O
+Fusilli B-NEG_INGREDIENT
+, O
+juste O
+des O
+mostelle B-INGREDIENT
+
+
+pas O
+de O
+Fusilli B-NEG_INGREDIENT
+, O
+juste O
+des O
+mostelle B-INGREDIENT
+
+
+pas O
+de O
+pose B-NEG_INGREDIENT
+, O
+juste O
+des O
+golden B-INGREDIENT
+cross I-INGREDIENT
+
+
+pas O
+de O
+pose B-NEG_INGREDIENT
+, O
+juste O
+des O
+golden B-INGREDIENT
+cross I-INGREDIENT
+
+
+pas O
+de O
+caviar B-NEG_INGREDIENT
+, O
+juste O
+des O
+castelmagno B-INGREDIENT
+
+
+pas O
+de O
+caviar B-NEG_INGREDIENT
+, O
+juste O
+des O
+castelmagno B-INGREDIENT
+
+
+pas O
+de O
+leyden B-NEG_INGREDIENT
+, O
+juste O
+des O
+haricots B-INGREDIENT
+noirs I-INGREDIENT
+salés I-INGREDIENT
+
+
+pas O
+de O
+leyden B-NEG_INGREDIENT
+, O
+juste O
+des O
+haricots B-INGREDIENT
+noirs I-INGREDIENT
+salés I-INGREDIENT
+
+
+pas O
+de O
+piment B-NEG_INGREDIENT
+, O
+juste O
+des O
+curé B-INGREDIENT
+nantais I-INGREDIENT
+
+
+pas O
+de O
+piment B-NEG_INGREDIENT
+, O
+juste O
+des O
+curé B-INGREDIENT
+nantais I-INGREDIENT
+
+
+pas O
+de O
+gorgonzola B-NEG_INGREDIENT
+, O
+juste O
+des O
+potterkees B-INGREDIENT
+
+
+pas O
+de O
+gorgonzola B-NEG_INGREDIENT
+, O
+juste O
+des O
+potterkees B-INGREDIENT
+
+
+pas O
+de O
+kipper B-NEG_INGREDIENT
+, O
+juste O
+des O
+persillé B-INGREDIENT
+des I-INGREDIENT
+aravis I-INGREDIENT
+
+
+pas O
+de O
+kipper B-NEG_INGREDIENT
+, O
+juste O
+des O
+persillé B-INGREDIENT
+des I-INGREDIENT
+aravis I-INGREDIENT
+
+
+pas O
+de O
+leyden B-NEG_INGREDIENT
+, O
+juste O
+des O
+ansérine B-INGREDIENT
+bon-henri I-INGREDIENT
+
+
+pas O
+de O
+leyden B-NEG_INGREDIENT
+, O
+juste O
+des O
+ansérine B-INGREDIENT
+bon-henri I-INGREDIENT
+
+
+pas O
+de O
+Écrevisse B-NEG_INGREDIENT
+, O
+juste O
+des O
+cresson B-INGREDIENT
+des I-INGREDIENT
+jardins I-INGREDIENT
+
+
+pas O
+de O
+Écrevisse B-NEG_INGREDIENT
+, O
+juste O
+des O
+cresson B-INGREDIENT
+des I-INGREDIENT
+jardins I-INGREDIENT
+
+
+pas O
+de O
+mahaleb B-NEG_INGREDIENT
+, O
+juste O
+des O
+pant B-INGREDIENT
+ys I-INGREDIENT
+gawn I-INGREDIENT
+
+
+pas O
+de O
+mahaleb B-NEG_INGREDIENT
+, O
+juste O
+des O
+pant B-INGREDIENT
+ys I-INGREDIENT
+gawn I-INGREDIENT
+
+
+pas O
+de O
+acqui B-NEG_INGREDIENT
+, O
+juste O
+des O
+dukkah B-INGREDIENT
+
+
+pas O
+de O
+acqui B-NEG_INGREDIENT
+, O
+juste O
+des O
+dukkah B-INGREDIENT
+
+
+pas O
+de O
+carpati B-NEG_INGREDIENT
+, O
+juste O
+des O
+kuhbacher B-INGREDIENT
+
+
+pas O
+de O
+carpati B-NEG_INGREDIENT
+, O
+juste O
+des O
+kuhbacher B-INGREDIENT
+
+
+pas O
+de O
+lys B-NEG_INGREDIENT
+asiatique I-NEG_INGREDIENT
+comestible I-NEG_INGREDIENT
+, O
+juste O
+des O
+manteca B-INGREDIENT
+
+
+pas O
+de O
+lys B-NEG_INGREDIENT
+asiatique I-NEG_INGREDIENT
+comestible I-NEG_INGREDIENT
+, O
+juste O
+des O
+manteca B-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+cornichon B-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+cornichon B-INGREDIENT
+
+
+pas O
+de O
+certosa B-NEG_INGREDIENT
+, O
+juste O
+des O
+kryddost B-INGREDIENT
+
+
+pas O
+de O
+certosa B-NEG_INGREDIENT
+, O
+juste O
+des O
+kryddost B-INGREDIENT
+
+
+pas O
+de O
+lymeswold B-NEG_INGREDIENT
+, O
+juste O
+des O
+mostelle B-INGREDIENT
+
+
+pas O
+de O
+lymeswold B-NEG_INGREDIENT
+, O
+juste O
+des O
+mostelle B-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+lys B-INGREDIENT
+asiatique I-INGREDIENT
+comestible I-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+lys B-INGREDIENT
+asiatique I-INGREDIENT
+comestible I-INGREDIENT
+
+
+pas O
+de O
+rubens B-NEG_INGREDIENT
+, O
+juste O
+des O
+mossfield B-INGREDIENT
+
+
+pas O
+de O
+rubens B-NEG_INGREDIENT
+, O
+juste O
+des O
+mossfield B-INGREDIENT
+
+
+pas O
+de O
+casatella B-NEG_INGREDIENT
+trevigiana I-NEG_INGREDIENT
+, O
+juste O
+des O
+daylesford B-INGREDIENT
+cheddar I-INGREDIENT
+
+
+pas O
+de O
+casatella B-NEG_INGREDIENT
+trevigiana I-NEG_INGREDIENT
+, O
+juste O
+des O
+daylesford B-INGREDIENT
+cheddar I-INGREDIENT
+
+
+pas O
+de O
+pereda B-NEG_INGREDIENT
+, O
+juste O
+des O
+myrte B-INGREDIENT
+
+
+pas O
+de O
+pereda B-NEG_INGREDIENT
+, O
+juste O
+des O
+myrte B-INGREDIENT
+
+
+pas O
+de O
+beja B-NEG_INGREDIENT
+, O
+juste O
+des O
+altovinalopo B-INGREDIENT
+
+
+pas O
+de O
+beja B-NEG_INGREDIENT
+, O
+juste O
+des O
+altovinalopo B-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+white B-INGREDIENT
+stilton I-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+white B-INGREDIENT
+stilton I-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+kuhbacher B-INGREDIENT
+
+
+pas O
+de O
+succhia B-NEG_INGREDIENT
+, O
+juste O
+des O
+kuhbacher B-INGREDIENT
+
+
+pas O
+de O
+manteca B-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+logs I-INGREDIENT
+
+
+pas O
+de O
+manteca B-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+logs I-INGREDIENT
+
+
+pas O
+de O
+gollandsky B-NEG_INGREDIENT
+, O
+juste O
+des O
+vorarlberg B-INGREDIENT
+
+
+pas O
+de O
+gollandsky B-NEG_INGREDIENT
+, O
+juste O
+des O
+vorarlberg B-INGREDIENT
+
+
+pas O
+de O
+Fettucelle B-NEG_INGREDIENT
+, O
+juste O
+des O
+crevette B-INGREDIENT
+rose I-INGREDIENT
+
+
+pas O
+de O
+Fettucelle B-NEG_INGREDIENT
+, O
+juste O
+des O
+crevette B-INGREDIENT
+rose I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+fenouil B-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+fenouil B-INGREDIENT
+
+
+pas O
+de O
+boccadon B-NEG_INGREDIENT
+, O
+juste O
+des O
+boccadon B-INGREDIENT
+
+
+pas O
+de O
+boccadon B-NEG_INGREDIENT
+, O
+juste O
+des O
+boccadon B-INGREDIENT
+
+
+pas O
+de O
+cantal B-NEG_INGREDIENT
+, O
+juste O
+des O
+capelan B-INGREDIENT
+
+
+pas O
+de O
+cantal B-NEG_INGREDIENT
+, O
+juste O
+des O
+capelan B-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+bastelicaccia B-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+bastelicaccia B-INGREDIENT
+
+
+pas O
+de O
+langoustine B-NEG_INGREDIENT
+, O
+juste O
+des O
+noix B-INGREDIENT
+de I-INGREDIENT
+muscade I-INGREDIENT
+
+
+pas O
+de O
+langoustine B-NEG_INGREDIENT
+, O
+juste O
+des O
+noix B-INGREDIENT
+de I-INGREDIENT
+muscade I-INGREDIENT
+
+
+pas O
+de O
+kipper B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+de I-INGREDIENT
+tomates I-INGREDIENT
+séchées I-INGREDIENT
+
+
+pas O
+de O
+kipper B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+de I-INGREDIENT
+tomates I-INGREDIENT
+séchées I-INGREDIENT
+
+
+pas O
+de O
+barely B-NEG_INGREDIENT
+buzzed I-NEG_INGREDIENT
+, O
+juste O
+des O
+fourme B-INGREDIENT
+de I-INGREDIENT
+montbrison I-INGREDIENT
+
+
+pas O
+de O
+barely B-NEG_INGREDIENT
+buzzed I-NEG_INGREDIENT
+, O
+juste O
+des O
+fourme B-INGREDIENT
+de I-INGREDIENT
+montbrison I-INGREDIENT
+
+
+pas O
+de O
+houmous B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+houmous B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+framboise B-NEG_INGREDIENT
+, O
+juste O
+des O
+succhia B-INGREDIENT
+
+
+pas O
+de O
+framboise B-NEG_INGREDIENT
+, O
+juste O
+des O
+succhia B-INGREDIENT
+
+
+pas O
+de O
+carré B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+bray I-NEG_INGREDIENT
+, O
+juste O
+des O
+dashi B-INGREDIENT
+
+
+pas O
+de O
+carré B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+bray I-NEG_INGREDIENT
+, O
+juste O
+des O
+dashi B-INGREDIENT
+
+
+pas O
+de O
+tomme B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+combovin I-NEG_INGREDIENT
+, O
+juste O
+des O
+scanno B-INGREDIENT
+
+
+pas O
+de O
+tomme B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+combovin I-NEG_INGREDIENT
+, O
+juste O
+des O
+scanno B-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+caviar B-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+caviar B-INGREDIENT
+
+
+pas O
+de O
+chemmy B-NEG_INGREDIENT
+, O
+juste O
+des O
+bergues B-INGREDIENT
+
+
+pas O
+de O
+chemmy B-NEG_INGREDIENT
+, O
+juste O
+des O
+bergues B-INGREDIENT
+
+
+pas O
+de O
+store B-NEG_INGREDIENT
+, O
+juste O
+des O
+clou B-INGREDIENT
+de I-INGREDIENT
+girofle I-INGREDIENT
+
+
+pas O
+de O
+store B-NEG_INGREDIENT
+, O
+juste O
+des O
+clou B-INGREDIENT
+de I-INGREDIENT
+girofle I-INGREDIENT
+
+
+pas O
+de O
+lorraine B-NEG_INGREDIENT
+, O
+juste O
+des O
+emmental B-INGREDIENT
+
+
+pas O
+de O
+lorraine B-NEG_INGREDIENT
+, O
+juste O
+des O
+emmental B-INGREDIENT
+
+
+pas O
+de O
+bleu B-NEG_INGREDIENT
+d'auvergne I-NEG_INGREDIENT
+, O
+juste O
+des O
+boulette B-INGREDIENT
+d'avesnes I-INGREDIENT
+
+
+pas O
+de O
+bleu B-NEG_INGREDIENT
+d'auvergne I-NEG_INGREDIENT
+, O
+juste O
+des O
+boulette B-INGREDIENT
+d'avesnes I-INGREDIENT
+
+
+pas O
+de O
+somona B-NEG_INGREDIENT
+jack I-NEG_INGREDIENT
+, O
+juste O
+des O
+asta B-INGREDIENT
+d'oru I-INGREDIENT
+
+
+pas O
+de O
+somona B-NEG_INGREDIENT
+jack I-NEG_INGREDIENT
+, O
+juste O
+des O
+asta B-INGREDIENT
+d'oru I-INGREDIENT
+
+
+pas O
+de O
+korsholm B-NEG_INGREDIENT
+, O
+juste O
+des O
+oseille B-INGREDIENT
+
+
+pas O
+de O
+korsholm B-NEG_INGREDIENT
+, O
+juste O
+des O
+oseille B-INGREDIENT
+
+
+pas O
+de O
+allgäuer B-NEG_INGREDIENT
+bergkäse I-NEG_INGREDIENT
+, O
+juste O
+des O
+carré B-INGREDIENT
+de I-INGREDIENT
+bray I-INGREDIENT
+
+
+pas O
+de O
+allgäuer B-NEG_INGREDIENT
+bergkäse I-NEG_INGREDIENT
+, O
+juste O
+des O
+carré B-INGREDIENT
+de I-INGREDIENT
+bray I-INGREDIENT
+
+
+pas O
+de O
+quickes B-NEG_INGREDIENT
+hard I-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+melon B-INGREDIENT
+
+
+pas O
+de O
+quickes B-NEG_INGREDIENT
+hard I-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+melon B-INGREDIENT
+
+
+pas O
+de O
+snodsbury B-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+snodsbury B-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+bamalou B-NEG_INGREDIENT
+, O
+juste O
+des O
+ortie B-INGREDIENT
+
+
+pas O
+de O
+bamalou B-NEG_INGREDIENT
+, O
+juste O
+des O
+ortie B-INGREDIENT
+
+
+pas O
+de O
+potterkees B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+tikka I-INGREDIENT
+
+
+pas O
+de O
+potterkees B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+tikka I-INGREDIENT
+
+
+pas O
+de O
+citronnelle B-NEG_INGREDIENT
+, O
+juste O
+des O
+romaine B-INGREDIENT
+
+
+pas O
+de O
+citronnelle B-NEG_INGREDIENT
+, O
+juste O
+des O
+romaine B-INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+céleri I-NEG_INGREDIENT
+, O
+juste O
+des O
+montfort B-INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+céleri I-NEG_INGREDIENT
+, O
+juste O
+des O
+montfort B-INGREDIENT
+
+
+pas O
+de O
+pera B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+vacca I-NEG_INGREDIENT
+, O
+juste O
+des O
+orphie B-INGREDIENT
+
+
+pas O
+de O
+pera B-NEG_INGREDIENT
+di I-NEG_INGREDIENT
+vacca I-NEG_INGREDIENT
+, O
+juste O
+des O
+orphie B-INGREDIENT
+
+
+pas O
+de O
+ingrédients B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+cuisine I-NEG_INGREDIENT
+, O
+juste O
+des O
+caviar B-INGREDIENT
+
+
+pas O
+de O
+ingrédients B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+cuisine I-NEG_INGREDIENT
+, O
+juste O
+des O
+caviar B-INGREDIENT
+
+
+pas O
+de O
+mérou B-NEG_INGREDIENT
+oualioua I-NEG_INGREDIENT
+, O
+juste O
+des O
+leather B-INGREDIENT
+
+
+pas O
+de O
+mérou B-NEG_INGREDIENT
+oualioua I-NEG_INGREDIENT
+, O
+juste O
+des O
+leather B-INGREDIENT
+
+
+pas O
+de O
+melon B-NEG_INGREDIENT
+, O
+juste O
+des O
+lamproie B-INGREDIENT
+
+
+pas O
+de O
+melon B-NEG_INGREDIENT
+, O
+juste O
+des O
+lamproie B-INGREDIENT
+
+
+pas O
+de O
+scmierkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+kulunjuusto B-INGREDIENT
+
+
+pas O
+de O
+scmierkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+kulunjuusto B-INGREDIENT
+
+
+pas O
+de O
+parenitza B-NEG_INGREDIENT
+, O
+juste O
+des O
+lamproie B-INGREDIENT
+
+
+pas O
+de O
+parenitza B-NEG_INGREDIENT
+, O
+juste O
+des O
+lamproie B-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+mahaleb B-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+mahaleb B-INGREDIENT
+
+
+pas O
+de O
+Macaroni B-NEG_INGREDIENT
+coude I-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+Macaroni B-NEG_INGREDIENT
+coude I-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+bethmale B-NEG_INGREDIENT
+, O
+juste O
+des O
+piment B-INGREDIENT
+
+
+pas O
+de O
+bethmale B-NEG_INGREDIENT
+, O
+juste O
+des O
+piment B-INGREDIENT
+
+
+pas O
+de O
+Fusilli B-NEG_INGREDIENT
+, O
+juste O
+des O
+tyrolien B-INGREDIENT
+
+
+pas O
+de O
+Fusilli B-NEG_INGREDIENT
+, O
+juste O
+des O
+tyrolien B-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+vieux B-INGREDIENT
+chimay I-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+vieux B-INGREDIENT
+chimay I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+fribourgeois I-NEG_INGREDIENT
+, O
+juste O
+des O
+terza B-INGREDIENT
+cantonera I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+fribourgeois I-NEG_INGREDIENT
+, O
+juste O
+des O
+terza B-INGREDIENT
+cantonera I-INGREDIENT
+
+
+pas O
+de O
+bonite B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+pacifique I-NEG_INGREDIENT
+oriental I-NEG_INGREDIENT
+, O
+juste O
+des O
+bleu B-INGREDIENT
+de I-INGREDIENT
+dévoluy I-INGREDIENT
+
+
+pas O
+de O
+bonite B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+pacifique I-NEG_INGREDIENT
+oriental I-NEG_INGREDIENT
+, O
+juste O
+des O
+bleu B-INGREDIENT
+de I-INGREDIENT
+dévoluy I-INGREDIENT
+
+
+pas O
+de O
+curé B-NEG_INGREDIENT
+nantais I-NEG_INGREDIENT
+, O
+juste O
+des O
+carré B-INGREDIENT
+de I-INGREDIENT
+bray I-INGREDIENT
+
+
+pas O
+de O
+curé B-NEG_INGREDIENT
+nantais I-NEG_INGREDIENT
+, O
+juste O
+des O
+carré B-INGREDIENT
+de I-INGREDIENT
+bray I-INGREDIENT
+
+
+pas O
+de O
+fenouil B-NEG_INGREDIENT
+, O
+juste O
+des O
+fior B-INGREDIENT
+di I-INGREDIENT
+capra I-INGREDIENT
+
+
+pas O
+de O
+fenouil B-NEG_INGREDIENT
+, O
+juste O
+des O
+fior B-INGREDIENT
+di I-INGREDIENT
+capra I-INGREDIENT
+
+
+pas O
+de O
+loquette B-NEG_INGREDIENT
+d'europe I-NEG_INGREDIENT
+, O
+juste O
+des O
+Rigatoni B-INGREDIENT
+
+
+pas O
+de O
+loquette B-NEG_INGREDIENT
+d'europe I-NEG_INGREDIENT
+, O
+juste O
+des O
+Rigatoni B-INGREDIENT
+
+
+pas O
+de O
+tanag B-NEG_INGREDIENT
+, O
+juste O
+des O
+pant B-INGREDIENT
+ys I-INGREDIENT
+gawn I-INGREDIENT
+
+
+pas O
+de O
+tanag B-NEG_INGREDIENT
+, O
+juste O
+des O
+pant B-INGREDIENT
+ys I-INGREDIENT
+gawn I-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+sichuan I-NEG_INGREDIENT
+, O
+juste O
+des O
+cantal B-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+sichuan I-NEG_INGREDIENT
+, O
+juste O
+des O
+cantal B-INGREDIENT
+
+
+pas O
+de O
+paladin B-NEG_INGREDIENT
+, O
+juste O
+des O
+burgos B-INGREDIENT
+
+
+pas O
+de O
+paladin B-NEG_INGREDIENT
+, O
+juste O
+des O
+burgos B-INGREDIENT
+
+
+pas O
+de O
+granular B-NEG_INGREDIENT
+, O
+juste O
+des O
+blackburn B-INGREDIENT
+
+
+pas O
+de O
+granular B-NEG_INGREDIENT
+, O
+juste O
+des O
+blackburn B-INGREDIENT
+
+
+pas O
+de O
+Cencioni B-NEG_INGREDIENT
+, O
+juste O
+des O
+fe'i B-INGREDIENT
+
+
+pas O
+de O
+Cencioni B-NEG_INGREDIENT
+, O
+juste O
+des O
+fe'i B-INGREDIENT
+
+
+pas O
+de O
+potterkees B-NEG_INGREDIENT
+, O
+juste O
+des O
+alhama B-INGREDIENT
+de I-INGREDIENT
+grenada I-INGREDIENT
+
+
+pas O
+de O
+potterkees B-NEG_INGREDIENT
+, O
+juste O
+des O
+alhama B-INGREDIENT
+de I-INGREDIENT
+grenada I-INGREDIENT
+
+
+pas O
+de O
+damme B-NEG_INGREDIENT
+, O
+juste O
+des O
+côte B-INGREDIENT
+de I-INGREDIENT
+porc I-INGREDIENT
+
+
+pas O
+de O
+damme B-NEG_INGREDIENT
+, O
+juste O
+des O
+côte B-INGREDIENT
+de I-INGREDIENT
+porc I-INGREDIENT
+
+
+pas O
+de O
+morue B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+groenland I-NEG_INGREDIENT
+, O
+juste O
+des O
+fior B-INGREDIENT
+di I-INGREDIENT
+capra I-INGREDIENT
+
+
+pas O
+de O
+morue B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+groenland I-NEG_INGREDIENT
+, O
+juste O
+des O
+fior B-INGREDIENT
+di I-INGREDIENT
+capra I-INGREDIENT
+
+
+pas O
+de O
+lamproie B-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+andrews I-INGREDIENT
+
+
+pas O
+de O
+lamproie B-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+andrews I-INGREDIENT
+
+
+pas O
+de O
+pereda B-NEG_INGREDIENT
+, O
+juste O
+des O
+paladin B-INGREDIENT
+
+
+pas O
+de O
+pereda B-NEG_INGREDIENT
+, O
+juste O
+des O
+paladin B-INGREDIENT
+
+
+pas O
+de O
+orduna B-NEG_INGREDIENT
+, O
+juste O
+des O
+rinnen B-INGREDIENT
+
+
+pas O
+de O
+orduna B-NEG_INGREDIENT
+, O
+juste O
+des O
+rinnen B-INGREDIENT
+
+
+pas O
+de O
+Chifferi B-NEG_INGREDIENT
+, O
+juste O
+des O
+manteca B-INGREDIENT
+
+
+pas O
+de O
+Chifferi B-NEG_INGREDIENT
+, O
+juste O
+des O
+manteca B-INGREDIENT
+
+
+pas O
+de O
+larron B-NEG_INGREDIENT
+d'ors I-NEG_INGREDIENT
+, O
+juste O
+des O
+rahmkäse B-INGREDIENT
+
+
+pas O
+de O
+larron B-NEG_INGREDIENT
+d'ors I-NEG_INGREDIENT
+, O
+juste O
+des O
+rahmkäse B-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+beja B-NEG_INGREDIENT
+, O
+juste O
+des O
+scmierkäse B-INGREDIENT
+
+
+pas O
+de O
+beja B-NEG_INGREDIENT
+, O
+juste O
+des O
+scmierkäse B-INGREDIENT
+
+
+pas O
+de O
+brosme B-NEG_INGREDIENT
+, O
+juste O
+des O
+noix B-INGREDIENT
+de I-INGREDIENT
+muscade I-INGREDIENT
+
+
+pas O
+de O
+brosme B-NEG_INGREDIENT
+, O
+juste O
+des O
+noix B-INGREDIENT
+de I-INGREDIENT
+muscade I-INGREDIENT
+
+
+pas O
+de O
+berrichon B-NEG_INGREDIENT
+, O
+juste O
+des O
+rocroi B-INGREDIENT
+
+
+pas O
+de O
+berrichon B-NEG_INGREDIENT
+, O
+juste O
+des O
+rocroi B-INGREDIENT
+
+
+pas O
+de O
+cumin B-NEG_INGREDIENT
+, O
+juste O
+des O
+arroche B-INGREDIENT
+
+
+pas O
+de O
+cumin B-NEG_INGREDIENT
+, O
+juste O
+des O
+arroche B-INGREDIENT
+
+
+pas O
+de O
+altovinalopo B-NEG_INGREDIENT
+, O
+juste O
+des O
+muenster B-INGREDIENT
+
+
+pas O
+de O
+altovinalopo B-NEG_INGREDIENT
+, O
+juste O
+des O
+muenster B-INGREDIENT
+
+
+pas O
+de O
+maïs B-NEG_INGREDIENT
+doux I-NEG_INGREDIENT
+, O
+juste O
+des O
+sandre B-INGREDIENT
+
+
+pas O
+de O
+maïs B-NEG_INGREDIENT
+doux I-NEG_INGREDIENT
+, O
+juste O
+des O
+sandre B-INGREDIENT
+
+
+pas O
+de O
+domiati B-NEG_INGREDIENT
+, O
+juste O
+des O
+anguille B-INGREDIENT
+
+
+pas O
+de O
+domiati B-NEG_INGREDIENT
+, O
+juste O
+des O
+anguille B-INGREDIENT
+
+
+pas O
+de O
+bleu B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+gex I-NEG_INGREDIENT
+, O
+juste O
+des O
+pera B-INGREDIENT
+di I-INGREDIENT
+vacca I-INGREDIENT
+
+
+pas O
+de O
+bleu B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+gex I-NEG_INGREDIENT
+, O
+juste O
+des O
+pera B-INGREDIENT
+di I-INGREDIENT
+vacca I-INGREDIENT
+
+
+pas O
+de O
+sandre B-NEG_INGREDIENT
+, O
+juste O
+des O
+brique B-INGREDIENT
+de I-INGREDIENT
+flandre I-INGREDIENT
+
+
+pas O
+de O
+sandre B-NEG_INGREDIENT
+, O
+juste O
+des O
+brique B-INGREDIENT
+de I-INGREDIENT
+flandre I-INGREDIENT
+
+
+pas O
+de O
+scanno B-NEG_INGREDIENT
+, O
+juste O
+des O
+amande B-INGREDIENT
+
+
+pas O
+de O
+scanno B-NEG_INGREDIENT
+, O
+juste O
+des O
+amande B-INGREDIENT
+
+
+pas O
+de O
+volfetkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+llangloffan B-INGREDIENT
+farmhouse I-INGREDIENT
+
+
+pas O
+de O
+volfetkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+llangloffan B-INGREDIENT
+farmhouse I-INGREDIENT
+
+
+pas O
+de O
+queso B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+bola I-NEG_INGREDIENT
+, O
+juste O
+des O
+mérou B-INGREDIENT
+oualioua I-INGREDIENT
+
+
+pas O
+de O
+queso B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+bola I-NEG_INGREDIENT
+, O
+juste O
+des O
+mérou B-INGREDIENT
+oualioua I-INGREDIENT
+
+
+pas O
+de O
+Manicotti B-NEG_INGREDIENT
+, O
+juste O
+des O
+granular B-INGREDIENT
+
+
+pas O
+de O
+Manicotti B-NEG_INGREDIENT
+, O
+juste O
+des O
+granular B-INGREDIENT
+
+
+pas O
+de O
+middelbare B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+middelbare B-NEG_INGREDIENT
+, O
+juste O
+des O
+allgäuer B-INGREDIENT
+bergkäse I-INGREDIENT
+
+
+pas O
+de O
+boulette B-NEG_INGREDIENT
+d'avesnes I-NEG_INGREDIENT
+, O
+juste O
+des O
+niza B-INGREDIENT
+
+
+pas O
+de O
+boulette B-NEG_INGREDIENT
+d'avesnes I-NEG_INGREDIENT
+, O
+juste O
+des O
+niza B-INGREDIENT
+
+
+pas O
+de O
+Funghini B-NEG_INGREDIENT
+, O
+juste O
+des O
+Risi B-INGREDIENT
+
+
+pas O
+de O
+Funghini B-NEG_INGREDIENT
+, O
+juste O
+des O
+Risi B-INGREDIENT
+
+
+pas O
+de O
+white B-NEG_INGREDIENT
+stilton I-NEG_INGREDIENT
+, O
+juste O
+des O
+boulette B-INGREDIENT
+d'avesnes I-INGREDIENT
+
+
+pas O
+de O
+white B-NEG_INGREDIENT
+stilton I-NEG_INGREDIENT
+, O
+juste O
+des O
+boulette B-INGREDIENT
+d'avesnes I-INGREDIENT
+
+
+pas O
+de O
+mostoffait B-NEG_INGREDIENT
+, O
+juste O
+des O
+tillamook B-INGREDIENT
+
+
+pas O
+de O
+mostoffait B-NEG_INGREDIENT
+, O
+juste O
+des O
+tillamook B-INGREDIENT
+
+
+pas O
+de O
+Mezzi B-NEG_INGREDIENT
+bombardoni I-NEG_INGREDIENT
+, O
+juste O
+des O
+store B-INGREDIENT
+
+
+pas O
+de O
+Mezzi B-NEG_INGREDIENT
+bombardoni I-NEG_INGREDIENT
+, O
+juste O
+des O
+store B-INGREDIENT
+
+
+pas O
+de O
+kulunjuusto B-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+oswald I-INGREDIENT
+
+
+pas O
+de O
+kulunjuusto B-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+oswald I-INGREDIENT
+
+
+pas O
+de O
+Reginette B-NEG_INGREDIENT
+, O
+juste O
+des O
+quargel B-INGREDIENT
+
+
+pas O
+de O
+Reginette B-NEG_INGREDIENT
+, O
+juste O
+des O
+quargel B-INGREDIENT
+
+
+pas O
+de O
+cambazola B-NEG_INGREDIENT
+, O
+juste O
+des O
+sel B-INGREDIENT
+
+
+pas O
+de O
+cambazola B-NEG_INGREDIENT
+, O
+juste O
+des O
+sel B-INGREDIENT
+
+
+pas O
+de O
+orphie B-NEG_INGREDIENT
+, O
+juste O
+des O
+tanag B-INGREDIENT
+
+
+pas O
+de O
+orphie B-NEG_INGREDIENT
+, O
+juste O
+des O
+tanag B-INGREDIENT
+
+
+pas O
+de O
+ketchup B-NEG_INGREDIENT
+, O
+juste O
+des O
+kadis B-INGREDIENT
+
+
+pas O
+de O
+ketchup B-NEG_INGREDIENT
+, O
+juste O
+des O
+kadis B-INGREDIENT
+
+
+pas O
+de O
+Chifferi B-NEG_INGREDIENT
+, O
+juste O
+des O
+mérou B-INGREDIENT
+oualioua I-INGREDIENT
+
+
+pas O
+de O
+Chifferi B-NEG_INGREDIENT
+, O
+juste O
+des O
+mérou B-INGREDIENT
+oualioua I-INGREDIENT
+
+
+pas O
+de O
+vorarlberg B-NEG_INGREDIENT
+, O
+juste O
+des O
+merlu B-INGREDIENT
+
+
+pas O
+de O
+vorarlberg B-NEG_INGREDIENT
+, O
+juste O
+des O
+merlu B-INGREDIENT
+
+
+pas O
+de O
+kuruni B-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+kuruni B-NEG_INGREDIENT
+, O
+juste O
+des O
+ablette B-INGREDIENT
+
+
+pas O
+de O
+dashi B-NEG_INGREDIENT
+, O
+juste O
+des O
+pera B-INGREDIENT
+di I-INGREDIENT
+vacca I-INGREDIENT
+
+
+pas O
+de O
+dashi B-NEG_INGREDIENT
+, O
+juste O
+des O
+pera B-INGREDIENT
+di I-INGREDIENT
+vacca I-INGREDIENT
+
+
+pas O
+de O
+youjnyï B-NEG_INGREDIENT
+, O
+juste O
+des O
+las B-INGREDIENT
+bardenas I-INGREDIENT
+
+
+pas O
+de O
+youjnyï B-NEG_INGREDIENT
+, O
+juste O
+des O
+las B-INGREDIENT
+bardenas I-INGREDIENT
+
+
+j'aime O
+cougar B-INGREDIENT
+gold I-INGREDIENT
+
+
+pas O
+de O
+ortie B-NEG_INGREDIENT
+, O
+juste O
+des O
+manchester B-INGREDIENT
+
+
+pas O
+de O
+ortie B-NEG_INGREDIENT
+, O
+juste O
+des O
+manchester B-INGREDIENT
+
+
+pas O
+de O
+moncenisio B-NEG_INGREDIENT
+, O
+juste O
+des O
+haricots B-INGREDIENT
+noirs I-INGREDIENT
+salés I-INGREDIENT
+
+
+pas O
+de O
+moncenisio B-NEG_INGREDIENT
+, O
+juste O
+des O
+haricots B-INGREDIENT
+noirs I-INGREDIENT
+salés I-INGREDIENT
+
+
+pas O
+de O
+caviar B-NEG_INGREDIENT
+, O
+juste O
+des O
+piment B-INGREDIENT
+
+
+pas O
+de O
+caviar B-NEG_INGREDIENT
+, O
+juste O
+des O
+piment B-INGREDIENT
+
+
+pas O
+de O
+bleu B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+septmoncel I-NEG_INGREDIENT
+, O
+juste O
+des O
+ingrédients B-INGREDIENT
+de I-INGREDIENT
+cuisine I-INGREDIENT
+
+
+pas O
+de O
+bleu B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+septmoncel I-NEG_INGREDIENT
+, O
+juste O
+des O
+ingrédients B-INGREDIENT
+de I-INGREDIENT
+cuisine I-INGREDIENT
+
+
+pas O
+de O
+Funghini B-NEG_INGREDIENT
+, O
+juste O
+des O
+weinkäse B-INGREDIENT
+
+
+pas O
+de O
+Funghini B-NEG_INGREDIENT
+, O
+juste O
+des O
+weinkäse B-INGREDIENT
+
+
+pas O
+de O
+vendôme B-NEG_INGREDIENT
+bleu I-NEG_INGREDIENT
+, O
+juste O
+des O
+pomme B-INGREDIENT
+de I-INGREDIENT
+cajou I-INGREDIENT
+
+
+pas O
+de O
+vendôme B-NEG_INGREDIENT
+bleu I-NEG_INGREDIENT
+, O
+juste O
+des O
+pomme B-INGREDIENT
+de I-INGREDIENT
+cajou I-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+patay B-INGREDIENT
+
+
+pas O
+de O
+zieger B-NEG_INGREDIENT
+, O
+juste O
+des O
+patay B-INGREDIENT
+
+
+pas O
+de O
+paladin B-NEG_INGREDIENT
+, O
+juste O
+des O
+teasajt B-INGREDIENT
+
+
+pas O
+de O
+paladin B-NEG_INGREDIENT
+, O
+juste O
+des O
+teasajt B-INGREDIENT
+
+
+pas O
+de O
+potterkees B-NEG_INGREDIENT
+, O
+juste O
+des O
+lor B-INGREDIENT
+
+
+pas O
+de O
+potterkees B-NEG_INGREDIENT
+, O
+juste O
+des O
+lor B-INGREDIENT
+
+
+pas O
+de O
+salicorne B-NEG_INGREDIENT
+, O
+juste O
+des O
+aiglefin B-INGREDIENT
+
+
+pas O
+de O
+salicorne B-NEG_INGREDIENT
+, O
+juste O
+des O
+aiglefin B-INGREDIENT
+
+
+pas O
+de O
+kryddost B-NEG_INGREDIENT
+, O
+juste O
+des O
+manchester B-INGREDIENT
+
+
+pas O
+de O
+kryddost B-NEG_INGREDIENT
+, O
+juste O
+des O
+manchester B-INGREDIENT
+
+
+pas O
+de O
+etivaz B-NEG_INGREDIENT
+, O
+juste O
+des O
+Fettucelle B-INGREDIENT
+
+
+pas O
+de O
+etivaz B-NEG_INGREDIENT
+, O
+juste O
+des O
+Fettucelle B-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+sichuan I-NEG_INGREDIENT
+, O
+juste O
+des O
+palgliarino B-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+sichuan I-NEG_INGREDIENT
+, O
+juste O
+des O
+palgliarino B-INGREDIENT
+
+
+pas O
+de O
+daylesford B-NEG_INGREDIENT
+cheddar I-NEG_INGREDIENT
+, O
+juste O
+des O
+teasajt B-INGREDIENT
+
+
+pas O
+de O
+daylesford B-NEG_INGREDIENT
+cheddar I-NEG_INGREDIENT
+, O
+juste O
+des O
+teasajt B-INGREDIENT
+
+
+pas O
+de O
+kasseri B-NEG_INGREDIENT
+, O
+juste O
+des O
+fourme B-INGREDIENT
+de I-INGREDIENT
+montbrison I-INGREDIENT
+
+
+pas O
+de O
+kasseri B-NEG_INGREDIENT
+, O
+juste O
+des O
+fourme B-INGREDIENT
+de I-INGREDIENT
+montbrison I-INGREDIENT
+
+
+pas O
+de O
+lorraine B-NEG_INGREDIENT
+, O
+juste O
+des O
+spressa B-INGREDIENT
+delle I-INGREDIENT
+giudicarie I-INGREDIENT
+
+
+pas O
+de O
+lorraine B-NEG_INGREDIENT
+, O
+juste O
+des O
+spressa B-INGREDIENT
+delle I-INGREDIENT
+giudicarie I-INGREDIENT
+
+
+pas O
+de O
+houmous B-NEG_INGREDIENT
+, O
+juste O
+des O
+sandre B-INGREDIENT
+
+
+pas O
+de O
+houmous B-NEG_INGREDIENT
+, O
+juste O
+des O
+sandre B-INGREDIENT
+
+
+pas O
+de O
+altovinalopo B-NEG_INGREDIENT
+, O
+juste O
+des O
+mitzithra B-INGREDIENT
+
+
+pas O
+de O
+altovinalopo B-NEG_INGREDIENT
+, O
+juste O
+des O
+mitzithra B-INGREDIENT
+
+
+pas O
+de O
+kuhbacher B-NEG_INGREDIENT
+, O
+juste O
+des O
+clémentine B-INGREDIENT
+
+
+pas O
+de O
+kuhbacher B-NEG_INGREDIENT
+, O
+juste O
+des O
+clémentine B-INGREDIENT
+
+
+pas O
+de O
+langoustine B-NEG_INGREDIENT
+, O
+juste O
+des O
+cresson B-INGREDIENT
+des I-INGREDIENT
+jardins I-INGREDIENT
+
+
+pas O
+de O
+langoustine B-NEG_INGREDIENT
+, O
+juste O
+des O
+cresson B-INGREDIENT
+des I-INGREDIENT
+jardins I-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+moutarde B-NEG_INGREDIENT
+, O
+juste O
+des O
+fenouil B-INGREDIENT
+
+
+pas O
+de O
+moutarde B-NEG_INGREDIENT
+, O
+juste O
+des O
+fenouil B-INGREDIENT
+
+
+pas O
+de O
+terza B-NEG_INGREDIENT
+cantonera I-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+claire I-INGREDIENT
+
+
+pas O
+de O
+terza B-NEG_INGREDIENT
+cantonera I-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+claire I-INGREDIENT
+
+
+pas O
+de O
+gorgonzola B-NEG_INGREDIENT
+, O
+juste O
+des O
+snodsbury B-INGREDIENT
+goat I-INGREDIENT
+
+
+pas O
+de O
+gorgonzola B-NEG_INGREDIENT
+, O
+juste O
+des O
+snodsbury B-INGREDIENT
+goat I-INGREDIENT
+
+
+pas O
+de O
+langoustine B-NEG_INGREDIENT
+, O
+juste O
+des O
+kryddost B-INGREDIENT
+
+
+pas O
+de O
+langoustine B-NEG_INGREDIENT
+, O
+juste O
+des O
+kryddost B-INGREDIENT
+
+
+pas O
+de O
+vorarlberg B-NEG_INGREDIENT
+, O
+juste O
+des O
+longhorn B-INGREDIENT
+
+
+pas O
+de O
+vorarlberg B-NEG_INGREDIENT
+, O
+juste O
+des O
+longhorn B-INGREDIENT
+
+
+pas O
+de O
+store B-NEG_INGREDIENT
+, O
+juste O
+des O
+burgos B-INGREDIENT
+
+
+pas O
+de O
+store B-NEG_INGREDIENT
+, O
+juste O
+des O
+burgos B-INGREDIENT
+
+
+pas O
+de O
+tafi B-NEG_INGREDIENT
+, O
+juste O
+des O
+toma B-INGREDIENT
+piemontese I-INGREDIENT
+
+
+pas O
+de O
+tafi B-NEG_INGREDIENT
+, O
+juste O
+des O
+toma B-INGREDIENT
+piemontese I-INGREDIENT
+
+
+pas O
+de O
+cumin B-NEG_INGREDIENT
+, O
+juste O
+des O
+moutarde B-INGREDIENT
+
+
+pas O
+de O
+cumin B-NEG_INGREDIENT
+, O
+juste O
+des O
+moutarde B-INGREDIENT
+
+
+j'aime O
+percorino B-INGREDIENT
+di I-INGREDIENT
+farindola I-INGREDIENT
+
+
+pas O
+de O
+normanna B-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+claire I-INGREDIENT
+
+
+pas O
+de O
+normanna B-NEG_INGREDIENT
+, O
+juste O
+des O
+saint B-INGREDIENT
+claire I-INGREDIENT
+
+
+pas O
+de O
+daylesford B-NEG_INGREDIENT
+cheddar I-NEG_INGREDIENT
+, O
+juste O
+des O
+cumin B-INGREDIENT
+
+
+pas O
+de O
+daylesford B-NEG_INGREDIENT
+cheddar I-NEG_INGREDIENT
+, O
+juste O
+des O
+cumin B-INGREDIENT
+
+
+pas O
+de O
+leather B-NEG_INGREDIENT
+, O
+juste O
+des O
+catskill B-INGREDIENT
+
+
+pas O
+de O
+leather B-NEG_INGREDIENT
+, O
+juste O
+des O
+catskill B-INGREDIENT
+
+
+pas O
+de O
+suprême B-NEG_INGREDIENT
+, O
+juste O
+des O
+bergamote B-INGREDIENT
+
+
+pas O
+de O
+suprême B-NEG_INGREDIENT
+, O
+juste O
+des O
+bergamote B-INGREDIENT
+
+
+pas O
+de O
+ortie B-NEG_INGREDIENT
+, O
+juste O
+des O
+altovinalopo B-INGREDIENT
+
+
+pas O
+de O
+ortie B-NEG_INGREDIENT
+, O
+juste O
+des O
+altovinalopo B-INGREDIENT
+
+
+pas O
+de O
+berrichon B-NEG_INGREDIENT
+, O
+juste O
+des O
+terza B-INGREDIENT
+cantonera I-INGREDIENT
+
+
+pas O
+de O
+berrichon B-NEG_INGREDIENT
+, O
+juste O
+des O
+terza B-INGREDIENT
+cantonera I-INGREDIENT
+
+
+pas O
+de O
+moutarde B-NEG_INGREDIENT
+, O
+juste O
+des O
+pavot B-INGREDIENT
+
+
+pas O
+de O
+moutarde B-NEG_INGREDIENT
+, O
+juste O
+des O
+pavot B-INGREDIENT
+
+
+pas O
+de O
+fenugrec B-NEG_INGREDIENT
+, O
+juste O
+des O
+acqui B-INGREDIENT
+
+
+pas O
+de O
+fenugrec B-NEG_INGREDIENT
+, O
+juste O
+des O
+acqui B-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+amande B-INGREDIENT
+
+
+pas O
+de O
+Cavatelli B-NEG_INGREDIENT
+, O
+juste O
+des O
+amande B-INGREDIENT
+
+
+pas O
+de O
+ananas B-NEG_INGREDIENT
+, O
+juste O
+des O
+wigmore B-INGREDIENT
+
+
+pas O
+de O
+ananas B-NEG_INGREDIENT
+, O
+juste O
+des O
+wigmore B-INGREDIENT
+
+
+pas O
+de O
+montfort B-NEG_INGREDIENT
+, O
+juste O
+des O
+teasajt B-INGREDIENT
+
+
+pas O
+de O
+montfort B-NEG_INGREDIENT
+, O
+juste O
+des O
+teasajt B-INGREDIENT
+
+
+pas O
+de O
+Cencioni B-NEG_INGREDIENT
+, O
+juste O
+des O
+parenitza B-INGREDIENT
+
+
+pas O
+de O
+Cencioni B-NEG_INGREDIENT
+, O
+juste O
+des O
+parenitza B-INGREDIENT
+
+
+pas O
+de O
+Risi B-NEG_INGREDIENT
+, O
+juste O
+des O
+queyrac B-INGREDIENT
+
+
+pas O
+de O
+Risi B-NEG_INGREDIENT
+, O
+juste O
+des O
+queyrac B-INGREDIENT
+
+
+pas O
+de O
+cougar B-NEG_INGREDIENT
+gold I-NEG_INGREDIENT
+, O
+juste O
+des O
+danbo B-INGREDIENT
+
+
+pas O
+de O
+cougar B-NEG_INGREDIENT
+gold I-NEG_INGREDIENT
+, O
+juste O
+des O
+danbo B-INGREDIENT
+
+
+pas O
+de O
+bastelicaccia B-NEG_INGREDIENT
+, O
+juste O
+des O
+Scialatelli B-INGREDIENT
+
+
+pas O
+de O
+bastelicaccia B-NEG_INGREDIENT
+, O
+juste O
+des O
+Scialatelli B-INGREDIENT
+
+
+pas O
+de O
+leather B-NEG_INGREDIENT
+, O
+juste O
+des O
+truite B-INGREDIENT
+arc-en-ciel I-INGREDIENT
+
+
+pas O
+de O
+leather B-NEG_INGREDIENT
+, O
+juste O
+des O
+truite B-INGREDIENT
+arc-en-ciel I-INGREDIENT
+
+
+pas O
+de O
+hecho B-NEG_INGREDIENT
+, O
+juste O
+des O
+persillé B-INGREDIENT
+de I-INGREDIENT
+thônes I-INGREDIENT
+
+
+pas O
+de O
+hecho B-NEG_INGREDIENT
+, O
+juste O
+des O
+persillé B-INGREDIENT
+de I-INGREDIENT
+thônes I-INGREDIENT
+
+
+pas O
+de O
+spressa B-NEG_INGREDIENT
+delle I-NEG_INGREDIENT
+giudicarie I-NEG_INGREDIENT
+, O
+juste O
+des O
+trappe B-INGREDIENT
+d' I-INGREDIENT
+echourgnac I-INGREDIENT
+
+
+pas O
+de O
+spressa B-NEG_INGREDIENT
+delle I-NEG_INGREDIENT
+giudicarie I-NEG_INGREDIENT
+, O
+juste O
+des O
+trappe B-INGREDIENT
+d' I-INGREDIENT
+echourgnac I-INGREDIENT
+
+
+pas O
+de O
+jujube B-NEG_INGREDIENT
+, O
+juste O
+des O
+pressato B-INGREDIENT
+
+
+pas O
+de O
+jujube B-NEG_INGREDIENT
+, O
+juste O
+des O
+pressato B-INGREDIENT
+
+
+pas O
+de O
+allgäuer B-NEG_INGREDIENT
+bergkäse I-NEG_INGREDIENT
+, O
+juste O
+des O
+ananas B-INGREDIENT
+
+
+pas O
+de O
+allgäuer B-NEG_INGREDIENT
+bergkäse I-NEG_INGREDIENT
+, O
+juste O
+des O
+ananas B-INGREDIENT
+
+
+pas O
+de O
+ange B-NEG_INGREDIENT
+gardien I-NEG_INGREDIENT
+, O
+juste O
+des O
+mahaleb B-INGREDIENT
+
+
+pas O
+de O
+ange B-NEG_INGREDIENT
+gardien I-NEG_INGREDIENT
+, O
+juste O
+des O
+mahaleb B-INGREDIENT
+
+
+pas O
+de O
+kadis B-NEG_INGREDIENT
+, O
+juste O
+des O
+escalope B-INGREDIENT
+de I-INGREDIENT
+poulet I-INGREDIENT
+
+
+pas O
+de O
+kadis B-NEG_INGREDIENT
+, O
+juste O
+des O
+escalope B-INGREDIENT
+de I-INGREDIENT
+poulet I-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+emmental B-INGREDIENT
+
+
+pas O
+de O
+badaia B-NEG_INGREDIENT
+, O
+juste O
+des O
+emmental B-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+rose I-NEG_INGREDIENT
+, O
+juste O
+des O
+komenyes B-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+rose I-NEG_INGREDIENT
+, O
+juste O
+des O
+komenyes B-INGREDIENT
+
+
+pas O
+de O
+cumin B-NEG_INGREDIENT
+, O
+juste O
+des O
+langoustine B-INGREDIENT
+
+
+pas O
+de O
+cumin B-NEG_INGREDIENT
+, O
+juste O
+des O
+langoustine B-INGREDIENT
+
+
+pas O
+de O
+rossïski B-NEG_INGREDIENT
+, O
+juste O
+des O
+danbo B-INGREDIENT
+
+
+pas O
+de O
+rossïski B-NEG_INGREDIENT
+, O
+juste O
+des O
+danbo B-INGREDIENT
+
+
+pas O
+de O
+bastelicaccia B-NEG_INGREDIENT
+, O
+juste O
+des O
+houmous B-INGREDIENT
+
+
+pas O
+de O
+bastelicaccia B-NEG_INGREDIENT
+, O
+juste O
+des O
+houmous B-INGREDIENT
+
+
+pas O
+de O
+esturgeon B-NEG_INGREDIENT
+d'europe I-NEG_INGREDIENT
+, O
+juste O
+des O
+clémentine B-INGREDIENT
+
+
+pas O
+de O
+esturgeon B-NEG_INGREDIENT
+d'europe I-NEG_INGREDIENT
+, O
+juste O
+des O
+clémentine B-INGREDIENT
+
+
+pas O
+de O
+acqui B-NEG_INGREDIENT
+, O
+juste O
+des O
+pomme B-INGREDIENT
+de I-INGREDIENT
+cajou I-INGREDIENT
+
+
+pas O
+de O
+acqui B-NEG_INGREDIENT
+, O
+juste O
+des O
+pomme B-INGREDIENT
+de I-INGREDIENT
+cajou I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+maytag B-INGREDIENT
+blue I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+, O
+juste O
+des O
+maytag B-INGREDIENT
+blue I-INGREDIENT
+
+
+pas O
+de O
+kartano B-NEG_INGREDIENT
+, O
+juste O
+des O
+agri B-INGREDIENT
+
+
+pas O
+de O
+kartano B-NEG_INGREDIENT
+, O
+juste O
+des O
+agri B-INGREDIENT
+
+
+pas O
+de O
+snodsbury B-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+northumberland B-INGREDIENT
+
+
+pas O
+de O
+snodsbury B-NEG_INGREDIENT
+goat I-NEG_INGREDIENT
+, O
+juste O
+des O
+northumberland B-INGREDIENT
+
+
+pas O
+de O
+kryddost B-NEG_INGREDIENT
+, O
+juste O
+des O
+manteca B-INGREDIENT
+
+
+pas O
+de O
+kryddost B-NEG_INGREDIENT
+, O
+juste O
+des O
+manteca B-INGREDIENT
+
+
+pas O
+de O
+graine B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+pavot I-NEG_INGREDIENT
+, O
+juste O
+des O
+zieger B-INGREDIENT
+
+
+pas O
+de O
+graine B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+pavot I-NEG_INGREDIENT
+, O
+juste O
+des O
+zieger B-INGREDIENT
+
+
+pas O
+de O
+agar-agar B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+agar-agar B-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+moutarde B-NEG_INGREDIENT
+à I-NEG_INGREDIENT
+la I-NEG_INGREDIENT
+violette I-NEG_INGREDIENT
+, O
+juste O
+des O
+oseille B-INGREDIENT
+
+
+pas O
+de O
+moutarde B-NEG_INGREDIENT
+à I-NEG_INGREDIENT
+la I-NEG_INGREDIENT
+violette I-NEG_INGREDIENT
+, O
+juste O
+des O
+oseille B-INGREDIENT
+
+
+pas O
+de O
+kaki B-NEG_INGREDIENT
+, O
+juste O
+des O
+percorino B-INGREDIENT
+di I-INGREDIENT
+farindola I-INGREDIENT
+
+
+pas O
+de O
+kaki B-NEG_INGREDIENT
+, O
+juste O
+des O
+percorino B-INGREDIENT
+di I-INGREDIENT
+farindola I-INGREDIENT
+
+
+pas O
+de O
+morue B-NEG_INGREDIENT
+barbeuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+pas O
+de O
+morue B-NEG_INGREDIENT
+barbeuse I-NEG_INGREDIENT
+, O
+juste O
+des O
+larron B-INGREDIENT
+d'ors I-INGREDIENT
+
+
+j'aime O
+kartano B-INGREDIENT
+
+
+pas O
+de O
+saint B-NEG_INGREDIENT
+claire I-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+dorset I-INGREDIENT
+vinney I-INGREDIENT
+
+
+pas O
+de O
+saint B-NEG_INGREDIENT
+claire I-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+dorset I-INGREDIENT
+vinney I-INGREDIENT
+
+
+pas O
+de O
+cambazola B-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+logs I-INGREDIENT
+
+
+pas O
+de O
+cambazola B-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+logs I-INGREDIENT
+
+
+pas O
+de O
+graine B-NEG_INGREDIENT
+d'aneth I-NEG_INGREDIENT
+, O
+juste O
+des O
+lor B-INGREDIENT
+
+
+pas O
+de O
+graine B-NEG_INGREDIENT
+d'aneth I-NEG_INGREDIENT
+, O
+juste O
+des O
+lor B-INGREDIENT
+
+
+pas O
+de O
+civita B-NEG_INGREDIENT
+, O
+juste O
+des O
+backsteiner B-INGREDIENT
+
+
+pas O
+de O
+civita B-NEG_INGREDIENT
+, O
+juste O
+des O
+backsteiner B-INGREDIENT
+
+
+pas O
+de O
+hélianthi B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+de I-INGREDIENT
+sésame I-INGREDIENT
+
+
+pas O
+de O
+hélianthi B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+de I-INGREDIENT
+sésame I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+fribourgeois I-NEG_INGREDIENT
+, O
+juste O
+des O
+sansho B-INGREDIENT
+en I-INGREDIENT
+poudre I-INGREDIENT
+
+
+pas O
+de O
+vacherin B-NEG_INGREDIENT
+fribourgeois I-NEG_INGREDIENT
+, O
+juste O
+des O
+sansho B-INGREDIENT
+en I-INGREDIENT
+poudre I-INGREDIENT
+
+
+pas O
+de O
+weinkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+fior B-INGREDIENT
+di I-INGREDIENT
+capra I-INGREDIENT
+
+
+pas O
+de O
+weinkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+fior B-INGREDIENT
+di I-INGREDIENT
+capra I-INGREDIENT
+
+
+pas O
+de O
+gombo B-NEG_INGREDIENT
+, O
+juste O
+des O
+bouquet B-INGREDIENT
+des I-INGREDIENT
+moines I-INGREDIENT
+
+
+pas O
+de O
+gombo B-NEG_INGREDIENT
+, O
+juste O
+des O
+bouquet B-INGREDIENT
+des I-INGREDIENT
+moines I-INGREDIENT
+
+
+pas O
+de O
+volfetkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+domiati B-INGREDIENT
+
+
+pas O
+de O
+volfetkäse B-NEG_INGREDIENT
+, O
+juste O
+des O
+domiati B-INGREDIENT
+
+
+pas O
+de O
+bette B-NEG_INGREDIENT
+à I-NEG_INGREDIENT
+carde I-NEG_INGREDIENT
+, O
+juste O
+des O
+blackburn B-INGREDIENT
+
+
+pas O
+de O
+bette B-NEG_INGREDIENT
+à I-NEG_INGREDIENT
+carde I-NEG_INGREDIENT
+, O
+juste O
+des O
+blackburn B-INGREDIENT
+
+
+pas O
+de O
+etivaz B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+de I-INGREDIENT
+tomates I-INGREDIENT
+séchées I-INGREDIENT
+
+
+pas O
+de O
+etivaz B-NEG_INGREDIENT
+, O
+juste O
+des O
+pâte B-INGREDIENT
+de I-INGREDIENT
+tomates I-INGREDIENT
+séchées I-INGREDIENT
+
+
+pas O
+de O
+bastelicaccia B-NEG_INGREDIENT
+, O
+juste O
+des O
+longhorn B-INGREDIENT
+
+
+pas O
+de O
+bastelicaccia B-NEG_INGREDIENT
+, O
+juste O
+des O
+longhorn B-INGREDIENT
+
+
+pas O
+de O
+melon B-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+dorset I-INGREDIENT
+vinney I-INGREDIENT
+
+
+pas O
+de O
+melon B-NEG_INGREDIENT
+, O
+juste O
+des O
+blue B-INGREDIENT
+dorset I-INGREDIENT
+vinney I-INGREDIENT
+
+
+pas O
+de O
+saint B-NEG_INGREDIENT
+andrews I-NEG_INGREDIENT
+, O
+juste O
+des O
+agri B-INGREDIENT
+
+
+pas O
+de O
+saint B-NEG_INGREDIENT
+andrews I-NEG_INGREDIENT
+, O
+juste O
+des O
+agri B-INGREDIENT
+
+
+pas O
+de O
+trappe B-NEG_INGREDIENT
+d' I-NEG_INGREDIENT
+echourgnac I-NEG_INGREDIENT
+, O
+juste O
+des O
+hecho B-INGREDIENT
+
+
+pas O
+de O
+trappe B-NEG_INGREDIENT
+d' I-NEG_INGREDIENT
+echourgnac I-NEG_INGREDIENT
+, O
+juste O
+des O
+hecho B-INGREDIENT
+
+
+pas O
+de O
+clou B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+girofle I-NEG_INGREDIENT
+, O
+juste O
+des O
+truite B-INGREDIENT
+arc-en-ciel I-INGREDIENT
+
+
+pas O
+de O
+clou B-NEG_INGREDIENT
+de I-NEG_INGREDIENT
+girofle I-NEG_INGREDIENT
+, O
+juste O
+des O
+truite B-INGREDIENT
+arc-en-ciel I-INGREDIENT
+
+
+pas O
+de O
+niza B-NEG_INGREDIENT
+, O
+juste O
+des O
+zomma B-INGREDIENT
+
+
+pas O
+de O
+niza B-NEG_INGREDIENT
+, O
+juste O
+des O
+zomma B-INGREDIENT
+
+
+pas O
+de O
+curé B-NEG_INGREDIENT
+nantais I-NEG_INGREDIENT
+, O
+juste O
+des O
+brique B-INGREDIENT
+de I-INGREDIENT
+flandre I-INGREDIENT
+
+
+pas O
+de O
+curé B-NEG_INGREDIENT
+nantais I-NEG_INGREDIENT
+, O
+juste O
+des O
+brique B-INGREDIENT
+de I-INGREDIENT
+flandre I-INGREDIENT
+
+
+pas O
+de O
+ketchup B-NEG_INGREDIENT
+, O
+juste O
+des O
+anguille B-INGREDIENT
+
+
+pas O
+de O
+ketchup B-NEG_INGREDIENT
+, O
+juste O
+des O
+anguille B-INGREDIENT
+
+
+pas O
+de O
+Fusilli B-NEG_INGREDIENT
+, O
+juste O
+des O
+Funghini B-INGREDIENT
+
+
+pas O
+de O
+Fusilli B-NEG_INGREDIENT
+, O
+juste O
+des O
+Funghini B-INGREDIENT
+
+
+pas O
+de O
+kryddost B-NEG_INGREDIENT
+, O
+juste O
+des O
+skyros B-INGREDIENT
+
+
+pas O
+de O
+kryddost B-NEG_INGREDIENT
+, O
+juste O
+des O
+skyros B-INGREDIENT
+
+
+pas O
+de O
+spressa B-NEG_INGREDIENT
+delle I-NEG_INGREDIENT
+giudicarie I-NEG_INGREDIENT
+, O
+juste O
+des O
+bergues B-INGREDIENT
+
+
+pas O
+de O
+spressa B-NEG_INGREDIENT
+delle I-NEG_INGREDIENT
+giudicarie I-NEG_INGREDIENT
+, O
+juste O
+des O
+bergues B-INGREDIENT
+
+
+pas O
+de O
+lipski B-NEG_INGREDIENT
+, O
+juste O
+des O
+danbo B-INGREDIENT
+
+
+pas O
+de O
+lipski B-NEG_INGREDIENT
+, O
+juste O
+des O
+danbo B-INGREDIENT
+
+
+pas O
+de O
+cantal B-NEG_INGREDIENT
+, O
+juste O
+des O
+grogneur B-INGREDIENT
+
+
+pas O
+de O
+cantal B-NEG_INGREDIENT
+, O
+juste O
+des O
+grogneur B-INGREDIENT
+
+
+pas O
+de O
+hareng B-NEG_INGREDIENT
+, O
+juste O
+des O
+paladin B-INGREDIENT
+
+
+pas O
+de O
+hareng B-NEG_INGREDIENT
+, O
+juste O
+des O
+paladin B-INGREDIENT
+
+
+pas O
+de O
+myrte B-NEG_INGREDIENT
+, O
+juste O
+des O
+store B-INGREDIENT
+
+
+pas O
+de O
+myrte B-NEG_INGREDIENT
+, O
+juste O
+des O
+store B-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+sichuan I-NEG_INGREDIENT
+, O
+juste O
+des O
+skyros B-INGREDIENT
+
+
+pas O
+de O
+poivre B-NEG_INGREDIENT
+du I-NEG_INGREDIENT
+sichuan I-NEG_INGREDIENT
+, O
+juste O
+des O
+skyros B-INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+, O
+juste O
+des O
+côte B-INGREDIENT
+de I-INGREDIENT
+porc I-INGREDIENT
+
+
+pas O
+de O
+sel B-NEG_INGREDIENT
+, O
+juste O
+des O
+côte B-INGREDIENT
+de I-INGREDIENT
+porc I-INGREDIENT
+
+
+pas O
+de O
+anguille B-NEG_INGREDIENT
+, O
+juste O
+des O
+bergamote B-INGREDIENT
+
+
+pas O
+de O
+anguille B-NEG_INGREDIENT
+, O
+juste O
+des O
+bergamote B-INGREDIENT
+
+
+pas O
+de O
+graine B-NEG_INGREDIENT
+d'aneth I-NEG_INGREDIENT
+, O
+juste O
+des O
+pose B-INGREDIENT
+
+
+pas O
+de O
+graine B-NEG_INGREDIENT
+d'aneth I-NEG_INGREDIENT
+, O
+juste O
+des O
+pose B-INGREDIENT
+
+
+pas O
+de O
+ardrahan B-NEG_INGREDIENT
+, O
+juste O
+des O
+oseille B-INGREDIENT
+
+
+pas O
+de O
+ardrahan B-NEG_INGREDIENT
+, O
+juste O
+des O
+oseille B-INGREDIENT
+
+
+pas O
+de O
+certosa B-NEG_INGREDIENT
+, O
+juste O
+des O
+aguegat B-INGREDIENT
+
+
+pas O
+de O
+certosa B-NEG_INGREDIENT
+, O
+juste O
+des O
+aguegat B-INGREDIENT
+
+
+pas O
+de O
+muenster B-NEG_INGREDIENT
+, O
+juste O
+des O
+mossfield B-INGREDIENT
+
+
+pas O
+de O
+muenster B-NEG_INGREDIENT
+, O
+juste O
+des O
+mossfield B-INGREDIENT
+
+
+pas O
+de O
+maïs B-NEG_INGREDIENT
+doux I-NEG_INGREDIENT
+, O
+juste O
+des O
+haricots B-INGREDIENT
+noirs I-INGREDIENT
+salés I-INGREDIENT
+
+
+pas O
+de O
+maïs B-NEG_INGREDIENT
+doux I-NEG_INGREDIENT
+, O
+juste O
+des O
+haricots B-INGREDIENT
+noirs I-INGREDIENT
+salés I-INGREDIENT
+
+
+pas O
+de O
+esturgeon B-NEG_INGREDIENT
+d'europe I-NEG_INGREDIENT
+, O
+juste O
+des O
+aguegat B-INGREDIENT
+
+
+pas O
+de O
+esturgeon B-NEG_INGREDIENT
+d'europe I-NEG_INGREDIENT
+, O
+juste O
+des O
+aguegat B-INGREDIENT
+
+
+pas O
+de O
+caciocavallo B-NEG_INGREDIENT
+silano I-NEG_INGREDIENT
+, O
+juste O
+des O
+suprême B-INGREDIENT
+
+
+pas O
+de O
+caciocavallo B-NEG_INGREDIENT
+silano I-NEG_INGREDIENT
+, O
+juste O
+des O
+suprême B-INGREDIENT
+
+

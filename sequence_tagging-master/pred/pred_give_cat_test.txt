@@ -1,0 +1,6065 @@
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+avec o
+d' o
+herbe b-neg_cat-ingredient
+
+
+avec o
+de o
+condiment b-cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+avec o
+de o
+féculent b-cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+féculent o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+herbe b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+viandes b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+pas o
+de o
+herbe o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+
+
+avec o
+de o
+viandes b-cat-ingredient
+
+
+avec o
+de o
+fruit b-cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+viandes o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment o
+, o
+juste o
+des o
+condiment b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+avec o
+de o
+charcuteries b-cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+avec o
+d' o
+herbes b-cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+poisson b-cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+poisson b-cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+avec o
+de o
+champignons b-cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+avec o
+de o
+fruits b-cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+charcuteries b-cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+charcuteries b-cat-ingredient
+
+
+avec o
+de o
+viande b-cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+avec o
+de o
+féculents b-cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+avec o
+de o
+crustacés b-cat-ingredient
+
+
+avec o
+de o
+champignon b-cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+charcuteries b-cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+charcuteries b-cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+avec o
+de o
+poisson b-cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+avec o
+de o
+poissons b-cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+avec o
+de o
+fruits b-cat-ingredient
+de i-neg_cat-ingredient
+mer i-cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+poissons o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+féculents o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+herbes b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacés o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+herbes o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+champignon b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuteries o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fruit b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+crustacés b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+de o
+mer o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+épices o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+légumes o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+poisson b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+viande o
+, o
+juste o
+des o
+charcuterie b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+fromage o
+, o
+juste o
+des o
+féculents b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+légume o
+, o
+juste o
+des o
+légumes b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fromages b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+crustacé b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+charcuterie o
+, o
+juste o
+des o
+charcuteries b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+champignon o
+, o
+juste o
+des o
+légume b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+de i-neg_cat-ingredient
+mer i-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+pas o
+de o
+fruits o
+, o
+juste o
+des o
+fromage b-neg_cat-ingredient
+
+
+avec o
+de o
+fruit b-cat-ingredient
+de i-neg_cat-ingredient
+mer i-cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+fromages o
+, o
+juste o
+des o
+fruits b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+poisson o
+, o
+juste o
+des o
+champignons b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+champignons o
+, o
+juste o
+des o
+poissons b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+crustacé o
+, o
+juste o
+des o
+viande b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+pas o
+de o
+fruit o
+de o
+mer o
+, o
+juste o
+des o
+épices b-neg_cat-ingredient
+
+
+je o
+aime o
+pas o
+les o
+féculent b-neg_cat-ingredient
+
+
+pas o
+d' o
+herbe b-neg_cat-ingredient
+
+
+je o
+voudrais o
+de o
+fruit b-cat-ingredient
+
+
+j'aime o
+fruit b-cat-ingredient
+
+
+je o
+voudrais o
+d' o
+herbe b-cat-ingredient
+
+
+pas o
+de o
+féculent b-neg_cat-ingredient
+
+
+pas o
+de o
+condiment b-neg_cat-ingredient
+
+
+j'aime o
+condiment b-cat-ingredient
+
+
+pas o
+de o
+fruit b-neg_cat-ingredient
+
+
+je o
+voudrais o
+de o
+condiment b-cat-ingredient
+
+
+pas o
+de o
+viandes b-neg_cat-ingredient
+
+
+je o
+aime o
+pas o
+les o
+herbe b-neg_cat-ingredient
+
+
+je o
+voudrais o
+de o
+féculent b-cat-ingredient
+
+
+je o
+voudrais o
+de o
+viandes b-cat-ingredient
+
+
+j'aime o
+féculent b-cat-ingredient
+
+
+je o
+aime o
+pas o
+les o
+fruit b-neg_cat-ingredient
+
+
+j'aime o
+viandes b-cat-ingredient
+
+
+j'aime o
+herbe b-cat-ingredient
+
+
+je o
+aime o
+pas o
+les o
+viandes b-neg_cat-ingredient
+
+
+je o
+aime o
+pas o
+les o
+condiment b-neg_cat-ingredient
+
+

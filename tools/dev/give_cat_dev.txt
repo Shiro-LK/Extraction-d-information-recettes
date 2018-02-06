@@ -1,0 +1,253 @@
+je O
+n'aime O
+pas O
+les O
+condiments B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+pâte B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+épice B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+pâtes B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+poisson B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+légume B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+charcuterie B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+champignon B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+féculents B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+fromage B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+crustacé B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+crustacés B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+champignons B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+poissons B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+fruits B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+charcuteries B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+viande B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+fromages B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+légumes B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+épices B-NEG_CAT-INGREDIENT
+
+
+je O
+n'aime O
+pas O
+les O
+herbes B-NEG_CAT-INGREDIENT
+
+
+pas O
+d' O
+épice B-NEG_CAT-INGREDIENT
+
+
+j'aime O
+pâtes B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiments B-NEG_CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+pâtes B-NEG_CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+pâte B-NEG_CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+condiments B-NEG_CAT-INGREDIENT
+
+
+j'aime O
+pâte B-CAT-INGREDIENT
+
+
+je O
+voudrais O
+de O
+condiments B-CAT-INGREDIENT
+
+
+pas O
+de O
+pâtes B-NEG_CAT-INGREDIENT
+
+
+je O
+voudrais O
+de O
+pâtes B-CAT-INGREDIENT
+
+
+je O
+voudrais O
+de O
+pâte B-CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+épice B-NEG_CAT-INGREDIENT
+
+
+je O
+voudrais O
+d' O
+épice B-CAT-INGREDIENT
+
+
+j'aime O
+épice B-CAT-INGREDIENT
+
+
+j'aime O
+condiments B-CAT-INGREDIENT
+
+
+pas O
+de O
+pâte B-NEG_CAT-INGREDIENT
+
+

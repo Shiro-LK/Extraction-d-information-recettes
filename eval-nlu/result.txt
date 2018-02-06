@@ -1,0 +1,167 @@
+# all model
+
+
+# by data
+
+##########################################################
+cat ingredient: lr = 0.1
+
+DEV = 
+
+Slot Error Rate:   0.0% (0 39)
+
+    39 100.0% corrects
+     0   0.0% inserts
+     0   0.0% deletes
+     0   0.0% substitutions
+     0   0.0% total errors
+
+100.0% overall precision (39 entities in hypothesis)
+100.0% overall recall (39 entities in reference)
+100.0% overall F-measure
+
+   P      R      F   tag
+100.0% 100.0% 100.0% neg_cat-ingredient (hyp_count=31, ref_count=31, correct=31)
+100.0% 100.0% 100.0% cat-ingredient (hyp_count=8, ref_count=8, correct=8)
+
+
+TEST = 
+
+
+Slot Error Rate:  74.2% (956.5 1289)
+
+    40   3.1% corrects
+    16   1.2% inserts
+   626  48.6% deletes
+   623  48.3% substitutions
+  1265  98.1% total errors
+
+  5.9% overall precision (679 entities in hypothesis)
+  3.1% overall recall (1289 entities in reference)
+  4.1% overall F-measure
+
+   P      R      F   tag
+  1.6%   1.6%   1.6% neg_cat-ingredient (hyp_count=639, ref_count=636, correct=10)
+ 75.0%   4.6%   8.7% cat-ingredient (hyp_count=40, ref_count=653, correct=30)
+
+
+###############################################""
+give ingredient: lr = 0.001, dropout = 0.5, adam
+DEV = 
+Slot Error Rate:  47.6% (854.5 1794)
+
+  1196  66.7% corrects
+   538  30.0% inserts
+    33   1.8% deletes
+   565  31.5% substitutions
+  1136  63.3% total errors
+
+ 52.0% overall precision (2299 entities in hypothesis)
+ 66.7% overall recall (1794 entities in reference)
+ 58.4% overall F-measure
+
+   P      R      F   tag
+ 36.6% 100.0%  53.5% ingredient (hyp_count=1630, ref_count=596, correct=596)
+ 89.7%  50.1%  64.3% neg_ingredient (hyp_count=669, ref_count=1198, correct=600)
+
+
+TEST = 
+Slot Error Rate:  13.0% (233.5 1791)
+
+  1564  87.3% corrects
+   114   6.4% inserts
+     0   0.0% deletes
+   227  12.7% substitutions
+   341  19.0% total errors
+
+ 82.1% overall precision (1905 entities in hypothesis)
+ 87.3% overall recall (1791 entities in reference)
+ 84.6% overall F-measure
+
+   P      R      F   tag
+ 77.5%  93.9%  84.9% ingredient (hyp_count=1078, ref_count=889, correct=835)
+ 88.1%  80.8%  84.3% neg_ingredient (hyp_count=827, ref_count=902, correct=729)
+
+###################################################
+recipe 
+
+DEV = 
+Slot Error Rate:   0.5% (4.5 900)
+
+   891  99.0% corrects
+     0   0.0% inserts
+     0   0.0% deletes
+     9   1.0% substitutions
+     9   1.0% total errors
+
+ 99.0% overall precision (900 entities in hypothesis)
+ 99.0% overall recall (900 entities in reference)
+ 99.0% overall F-measure
+
+   P      R      F   tag
+ 99.0%  99.0%  99.0% recipe (hyp_count=900, ref_count=900, correct=891)
+
+
+Test = 
+
+Slot Error Rate:   2.4% (16 657)
+
+   633  96.3% corrects
+     4   0.6% inserts
+     0   0.0% deletes
+    24   3.7% substitutions
+    28   4.3% total errors
+
+ 95.8% overall precision (661 entities in hypothesis)
+ 96.3% overall recall (657 entities in reference)
+ 96.1% overall F-measure
+
+   P      R      F   tag
+ 95.8%  96.3%  96.1% recipe (hyp_count=661, ref_count=657, correct=633)
+
+################################################################################### 
+
+all data
+
+dev=
+Slot Error Rate:  13.2% (361 2733)
+
+  2375  86.9% corrects
+   124   4.5% inserts
+   114   4.2% deletes
+   244   8.9% substitutions
+   482  17.6% total errors
+
+ 86.6% overall precision (2743 entities in hypothesis)
+ 86.9% overall recall (2733 entities in reference)
+ 86.7% overall F-measure
+
+   P      R      F   tag
+ 73.2%  95.1%  82.7% recipe (hyp_count=1169, ref_count=900, correct=856)
+ 85.7%  38.7%  53.3% neg_cat-ingredient (hyp_count=14, ref_count=31, correct=12)
+ 25.0%  12.5%  16.7% cat-ingredient (hyp_count=4, ref_count=8, correct=1)
+ 95.1% 100.0%  97.5% ingredient (hyp_count=627, ref_count=596, correct=596)
+ 98.0%  76.0%  85.6% neg_ingredient (hyp_count=929, ref_count=1198, correct=910)
+
+
+test=
+Slot Error Rate:  39.7% (1960.5 4937)
+
+  2038  41.3% corrects
+   145   2.9% inserts
+   693  14.0% deletes
+  2206  44.7% substitutions
+  3044  61.7% total errors
+
+ 46.4% overall precision (4389 entities in hypothesis)
+ 41.3% overall recall (4937 entities in reference)
+ 43.7% overall F-measure
+
+   P      R      F   tag
+ 38.9%  51.5%  44.3% recipe (hyp_count=1663, ref_count=1257, correct=647)
+ 55.6%   0.8%   1.6% neg_cat-ingredient (hyp_count=9, ref_count=636, correct=5)
+100.0%   1.1%   2.1% cat-ingredient (hyp_count=7, ref_count=653, correct=7)
+ 47.8%  46.5%  47.1% ingredient (hyp_count=1285, ref_count=1321, correct=614)
+ 53.7%  71.5%  61.3% neg_ingredient (hyp_count=1425, ref_count=1070, correct=765)
+
+

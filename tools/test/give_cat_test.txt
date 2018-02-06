@@ -1,0 +1,6065 @@
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+avec O
+d' O
+herbe B-CAT-INGREDIENT
+
+
+avec O
+de O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+avec O
+de O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculent B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viandes B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbe B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+
+
+avec O
+de O
+viandes B-CAT-INGREDIENT
+
+
+avec O
+de O
+fruit B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+avec O
+de O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+avec O
+d' O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+avec O
+de O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+avec O
+de O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+avec O
+de O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+avec O
+de O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+avec O
+de O
+crustacés B-CAT-INGREDIENT
+
+
+avec O
+de O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+avec O
+de O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+avec O
+de O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+avec O
+de O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+poissons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculents B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+herbes B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacés B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+herbes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignon B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuteries B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacés B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+épices B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+légumes B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poisson B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+viande B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuterie B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromage B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+féculents B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+légume B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légumes B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromages B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+crustacé B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+charcuterie B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+charcuteries B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignon B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+légume B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruits B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fromage B-CAT-INGREDIENT
+
+
+avec O
+de O
+fruit B-CAT-INGREDIENT
+de I-CAT-INGREDIENT
+mer I-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+fromages B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+fruits B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+poisson B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+champignons B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+champignons B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+poissons B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+crustacé B-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+viande B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+de I-NEG_CAT-INGREDIENT
+mer I-NEG_CAT-INGREDIENT
+, O
+juste O
+des O
+épices B-CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+féculent B-NEG_CAT-INGREDIENT
+
+
+pas O
+d' O
+herbe B-NEG_CAT-INGREDIENT
+
+
+je O
+voudrais O
+de O
+fruit B-CAT-INGREDIENT
+
+
+j'aime O
+fruit B-CAT-INGREDIENT
+
+
+je O
+voudrais O
+d' O
+herbe B-CAT-INGREDIENT
+
+
+pas O
+de O
+féculent B-NEG_CAT-INGREDIENT
+
+
+pas O
+de O
+condiment B-NEG_CAT-INGREDIENT
+
+
+j'aime O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+fruit B-NEG_CAT-INGREDIENT
+
+
+je O
+voudrais O
+de O
+condiment B-CAT-INGREDIENT
+
+
+pas O
+de O
+viandes B-NEG_CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+herbe B-NEG_CAT-INGREDIENT
+
+
+je O
+voudrais O
+de O
+féculent B-CAT-INGREDIENT
+
+
+je O
+voudrais O
+de O
+viandes B-CAT-INGREDIENT
+
+
+j'aime O
+féculent B-CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+fruit B-NEG_CAT-INGREDIENT
+
+
+j'aime O
+viandes B-CAT-INGREDIENT
+
+
+j'aime O
+herbe B-CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+viandes B-NEG_CAT-INGREDIENT
+
+
+je O
+aime O
+pas O
+les O
+condiment B-NEG_CAT-INGREDIENT
+
+

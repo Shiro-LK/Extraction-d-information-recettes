@@ -1,0 +1,3 @@
+- compilez avec make clean / make
+- lancez
+  - ne-scoring-gen config.lua exemple.ref exemple.hyp -cs
